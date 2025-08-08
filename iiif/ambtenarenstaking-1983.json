@@ -1,0 +1,241 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ambtenarenstaking 1983"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-11-05 00:00:00"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-11-05 00:00:00"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rokin, Dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Demonstraties, Werkstakingen"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "nl": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus."
+    ]
+  },
+  "navDate": "1983-11-05T00:00:00+01:00",
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/2",
+      "type": "Canvas",
+      "height": 2442,
+      "width": 3656,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/2/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/0f/b4/ec/8b/31/3a/48/0c/a1/51/76/fc/01/9f/f0/b4/b1c56f28-9369-4385-810e-8e9419514e6c.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2442,
+                "width": 3656,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/0f/b4/ec/8b/31/3a/48/0c/a1/51/76/fc/01/9f/f0/b4/b1c56f28-9369-4385-810e-8e9419514e6c.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/3",
+      "type": "Canvas",
+      "height": 2442,
+      "width": 3674,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/3/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9b/85/f9/3f/76/99/4e/4c/be/21/5d/83/86/02/4d/d0/bae3b763-a91f-404a-a5ca-fba851bd0d39.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2442,
+                "width": 3674,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9b/85/f9/3f/76/99/4e/4c/be/21/5d/83/86/02/4d/d0/bae3b763-a91f-404a-a5ca-fba851bd0d39.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/4",
+      "type": "Canvas",
+      "height": 2427,
+      "width": 3674,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/4/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e5/38/74/8c/34/98/4b/66/b0/2d/d1/cb/8f/d7/a3/f9/f871d3a5-ad74-4847-9fd8-7f25ccaea095.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2427,
+                "width": 3674,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e5/38/74/8c/34/98/4b/66/b0/2d/d1/cb/8f/d7/a3/f9/f871d3a5-ad74-4847-9fd8-7f25ccaea095.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/5",
+      "type": "Canvas",
+      "height": 2442,
+      "width": 3683,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/5/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/5/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/fe/d6/fc/dd/69/3c/4c/a8/aa/cb/d1/7c/f0/6f/af/db/4d3b1acc-cb5f-40a6-9b54-a5d755cff25d.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2442,
+                "width": 3683,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/fe/d6/fc/dd/69/3c/4c/a8/aa/cb/d1/7c/f0/6f/af/db/4d3b1acc-cb5f-40a6-9b54-a5d755cff25d.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/6",
+      "type": "Canvas",
+      "height": 2460,
+      "width": 3668,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/6/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/6/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c3/c0/f1/14/25/43/4d/ef/b6/69/e5/db/10/25/7a/99/1fffb1b1-2d2e-4095-a318-fd84b410b482.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2460,
+                "width": 3668,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c3/c0/f1/14/25/43/4d/ef/b6/69/e5/db/10/25/7a/99/1fffb1b1-2d2e-4095-a318-fd84b410b482.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ambtenarenstaking-1983/p1/canvas/6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

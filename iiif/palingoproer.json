@@ -1,0 +1,105 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Palingoproer"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1886-07-25 00:00:00"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1886-07-26 00:00:00"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Eerste Lindendwarsstraat"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kraken, Demonstraties"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "nl": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus."
+    ]
+  },
+  "navDate": "1886-07-25T00:00:00+00:20",
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1",
+      "type": "Canvas",
+      "height": 3852,
+      "width": 2927,
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e2/a1/b9/5f/e8/4c/4f/bd/97/6e/29/94/f1/c9/ba/a3/6d76132d-1657-43ee-9a0a-2095f0b05012.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3852,
+                "width": 2927,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e2/a1/b9/5f/e8/4c/4f/bd/97/6e/29/94/f1/c9/ba/a3/6d76132d-1657-43ee-9a0a-2095f0b05012.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
