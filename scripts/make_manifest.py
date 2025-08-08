@@ -25,11 +25,11 @@ def main(df_protest, df_photo, target_folder="iiif"):
         df_photo (pd.DataFrame): DataFrame containing photo data.
     """
 
-    c = iiif_prezi3.Collection(
-        id="https://example.org/collection",
-        label="Example Collection",
-        summary="This is an example collection of IIIF resources.",
-        items=[],
+    collection = iiif_prezi3.Collection(
+        id=URI_PREFIX + "collection.json",
+        label="Protest - Amsterdam in Motion 750",
+        summary="Overzicht van protestfoto's uit Amsterdam.",
+        items=[]
     )
 
     for index, protest_row in df_protest.iterrows():
@@ -130,11 +130,12 @@ def main(df_protest, df_photo, target_folder="iiif"):
             ]
             json.dump(manifest_jsonld, f, indent=2, ensure_ascii=False)
 
-        c.items.append(manifest)
+        collection.items.append(manifest)
 
     # Save the collection as a JSON file
     with open(f"{target_folder}/collection.json", "w", encoding="utf-8") as f:
-        f.write(c.json())
+        collection_jsonld = json.loads(collection.json())
+        json.dump(collection_jsonld, f, indent=2, ensure_ascii=False)
 
     print("Collection generated and saved to collection.json")
 
