@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1915-04-03 00:00:00"
+          "1915-04-03"
         ]
       }
     },
@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "1915-04-03 00:00:00"
+          "1915-04-03"
         ]
       }
     },
@@ -58,6 +58,18 @@
           "Demonstraties"
         ]
       }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab"
+        ]
+      }
     }
   ],
   "summary": {
@@ -65,13 +77,115 @@
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus."
     ]
   },
-  "navDate": "1915-04-03T00:00:00+00:20",
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7",
       "type": "Canvas",
+      "label": {
+        "nl": [
+          "Museumplein; demonstratie van sociaal-democraten tegen de oorlog"
+        ]
+      },
       "height": 2415,
       "width": 3425,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Museumplein; demonstratie van sociaal-democraten tegen de oorlog"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Internationale Vrouwendag voor den Vrede 03-04-1915. Amsterdamsche IJsclubterrein."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1915-04-03"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1915-04-03"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/fe11f97b-5a58-cbf6-00d6-1cfcf6ebad7f"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Museumplein"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7/page",
@@ -98,6 +212,37 @@
               "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Internationale Vrouwendag voor de Vrede",
+      "schema:description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus.",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1915-04-03"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1915-04-03"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": "Museumplein"
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
         }
       ]
     }

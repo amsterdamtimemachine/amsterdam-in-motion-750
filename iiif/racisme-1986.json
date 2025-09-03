@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1986-04-29 00:00:00"
+          "1986-04-29"
         ]
       }
     },
@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "1986-04-29 00:00:00"
+          "1986-04-29"
         ]
       }
     },
@@ -58,6 +58,18 @@
           "Demonstraties"
         ]
       }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab"
+        ]
+      }
     }
   ],
   "summary": {
@@ -65,13 +77,111 @@
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus."
     ]
   },
-  "navDate": "1986-04-29T00:00:00+02:00",
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/racisme-1986/p1/canvas/9",
       "type": "Canvas",
+      "label": {},
       "height": 2176,
       "width": 2914,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Zo'n 4000 mensen demonstreerden tegen racisme en fascisme als reactie op de verkiezing en de komende installatie in de Amsterdamse gemeenteraad van een lid van de Centrumpartij op 29 april 1986. Of het bij deze demonstratie zal blijven is de vraag, velen zullen op die dag proberen de installatie te voorkomen, o.a. door het blokkeren van het stadhuis"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1986-04-29"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1986-04-29"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Foto Persbureau [NFP] (Stevens en Magielsen)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/racisme-1986/p1/canvas/9/page",
@@ -104,8 +214,107 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/racisme-1986/p1/canvas/10",
       "type": "Canvas",
+      "label": {},
       "height": 2177,
       "width": 2923,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Zo'n 4000 mensen demonstreerden tegen racisme en fascisme als reactie op de verkiezing en de komende installatie in de Amsterdamse gemeenteraad van een lid van de Centrumpartij op 29 april 1986. Of het bij deze demonstratie zal blijven is de vraag, velen zullen op die dag proberen de installatie te voorkomen, o.a. door het blokkeren van het stadhuis"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1986-04-29"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1986-04-29"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Foto Persbureau [NFP] (Stevens en Magielsen)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/racisme-1986/p1/canvas/10/page",
@@ -132,6 +341,37 @@
               "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/racisme-1986/p1/canvas/10"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Demonstratie tegen racisme 29 april 1986",
+      "schema:description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus.",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1986-04-29"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1986-04-29"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
         }
       ]
     }
