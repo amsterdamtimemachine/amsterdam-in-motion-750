@@ -1,0 +1,923 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kraakactie Sarphatistraat"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-03-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-03-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kraken, Woonprotesten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d, https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1045",
+      "type": "Canvas",
+      "label": {},
+      "height": 3747,
+      "width": 2476,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Jongeren hebben leegstaande panden in Sarpathistraat bezet Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab91b424-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1045/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1045/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/35/46/2d/d1/66/b2/48/0d/b2/7d/be/60/d0/bb/b8/68/3878aa11-3f77-4f23-bd11-32a2d17bface.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3747,
+                "width": 2476,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/35/46/2d/d1/66/b2/48/0d/b2/7d/be/60/d0/bb/b8/68/3878aa11-3f77-4f23-bd11-32a2d17bface.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1045"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1046",
+      "type": "Canvas",
+      "label": {},
+      "height": 3747,
+      "width": 2476,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Jongeren hebben leegstaande panden in Sarpathistraat bezet Amsterdam."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab91b2f8-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1046/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1046/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/dd/02/b4/91/18/3c/49/78/98/1e/ee/71/f6/5a/2f/55/61ef0719-6e99-4c67-b795-f2aee246a0bb.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3747,
+                "width": 2476,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/dd/02/b4/91/18/3c/49/78/98/1e/ee/71/f6/5a/2f/55/61ef0719-6e99-4c67-b795-f2aee246a0bb.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1046"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1047",
+      "type": "Canvas",
+      "label": {},
+      "height": 2476,
+      "width": 3747,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Jongeren hebben leegstaande panden in Sarpathistraat bezet Amsterdam. Moeder met baby in woning"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab91b0e6-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1047/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1047/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/df/76/ee/e1/81/a0/48/04/a7/bb/95/5c/1a/69/1c/22/ca0e0cc9-665b-4023-818e-6675a40cd914.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2476,
+                "width": 3747,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/df/76/ee/e1/81/a0/48/04/a7/bb/95/5c/1a/69/1c/22/ca0e0cc9-665b-4023-818e-6675a40cd914.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1047"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1048",
+      "type": "Canvas",
+      "label": {},
+      "height": 2476,
+      "width": 3747,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Jongeren hebben leegstaande panden in Sarpathistraat bezet Amsterdam. Bezetster veegt woning, rechts haar kind in bed"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab91b01e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1048/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1048/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/1a/89/f6/ea/3c/9a/4e/82/a1/8a/24/ca/04/70/0f/0f/0bd38af7-2986-44f5-9ca8-790b4dc93de3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2476,
+                "width": 3747,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/1a/89/f6/ea/3c/9a/4e/82/a1/8a/24/ca/04/70/0f/0f/0bd38af7-2986-44f5-9ca8-790b4dc93de3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1048"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1050",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontruiming kraakpand aan de Sarphatistraat"
+        ]
+      },
+      "height": 2196,
+      "width": 2893,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Ontruiming kraakpand aan de Sarphatistraat"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/724978a7-ac50-79a5-14ae-3c11c5fc1a4a"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1050/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1050/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/724978a7-ac50-79a5-14ae-3c11c5fc1a4a/iiif/3/18883736/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2196,
+                "width": 2893,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/724978a7-ac50-79a5-14ae-3c11c5fc1a4a/iiif/3/18883736",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1051",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het kraken van een pand aan de Sarphatistraat"
+        ]
+      },
+      "height": 2892,
+      "width": 2208,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Het kraken van een pand aan de Sarphatistraat"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-03-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/8ab8656a-e25b-46c8-9057-56b7b960ab5e"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1051/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1051/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/8ab8656a-e25b-46c8-9057-56b7b960ab5e/iiif/3/57546044/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2892,
+                "width": 2208,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/8ab8656a-e25b-46c8-9057-56b7b960ab5e/iiif/3/57546044",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-sarphatistraat/p1/canvas/1051"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Kraakactie Sarphatistraat",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1970-03-23"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1970-03-26"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Kraken"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Woonprotesten"
+          }
+        }
+      ]
+    }
+  ]
+}

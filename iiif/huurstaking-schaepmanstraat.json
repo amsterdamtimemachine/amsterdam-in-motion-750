@@ -1,0 +1,665 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Huurstaking Schaepmanstraat"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1932-12-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1932-12-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Huurstakingen, Stakingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/82e6ece5-2c69-434f-a388-3502ca8541d4, https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/159",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaepmanstraat"
+        ]
+      },
+      "height": 4645,
+      "width": 4920,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Schaepmanstraat"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Huurstaking; aan de muur een aanplakbiljet: WIJ WENSCHEN DE HUISBAAS VEEL HEIL EN ZEGEN ALS DANK VOOR DE EXPLOITEN DIE WIJ KREGEN."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/0b3610fb-5626-af38-1c93-0cdeb9a865dc"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/159/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/159/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/0b3610fb-5626-af38-1c93-0cdeb9a865dc/iiif/3/57333330/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 4645,
+                "width": 4920,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/0b3610fb-5626-af38-1c93-0cdeb9a865dc/iiif/3/57333330",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/159"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/160",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaepmanstraat 32, huurstaking; voor de ramen en op de muur biljetten met diverse opschriften"
+        ]
+      },
+      "height": 4645,
+      "width": 4920,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Schaepmanstraat 32, huurstaking; voor de ramen en op de muur biljetten met diverse opschriften"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Voor de deur een aantal bewoners behorend tot de Algemeene Amsterdamsche huurders bond. Van deze bond houden zij een spandoek op."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/4ebf48d2-4973-10ca-e200-df8620ac0b32"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/160/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/160/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/4ebf48d2-4973-10ca-e200-df8620ac0b32/iiif/3/57333315/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 4645,
+                "width": 4920,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/4ebf48d2-4973-10ca-e200-df8620ac0b32/iiif/3/57333315",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/160"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/162",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaepmanstraat, huurstaking"
+        ]
+      },
+      "height": 4645,
+      "width": 4920,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Schaepmanstraat, huurstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Aan de muur een aanplakbiljet met het opschrift: DE HUISBAAS MET ZIJN STIJFKOP HEEFT BIJ ONS EEN STROP."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/e5841b78-c9ed-ccb2-2f23-4b08e0906b4a"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/162/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/162/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e5841b78-c9ed-ccb2-2f23-4b08e0906b4a/iiif/3/57333328/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 4645,
+                "width": 4920,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e5841b78-c9ed-ccb2-2f23-4b08e0906b4a/iiif/3/57333328",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/162"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/163",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaepmanstraat, huurstaking"
+        ]
+      },
+      "height": 4645,
+      "width": 4920,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Schaepmanstraat, huurstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Op de muur aanplakbiljetten met de volgende opschriften: DE HUISBAAS VAN DEZEN HOKKEN ZAL TOCH DEN STRIJD TEGEN ONS VERGOKKEN KLASENBOS EN ZIJN KORNUITEN KUNNEN NAAR HUN CENTEN FLUITEN."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1932-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/9a0c1d84-0350-bbfd-3880-1522465730e6"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/163/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/163/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9a0c1d84-0350-bbfd-3880-1522465730e6/iiif/3/57333324/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 4645,
+                "width": 4920,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9a0c1d84-0350-bbfd-3880-1522465730e6/iiif/3/57333324",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/huurstaking-schaepmanstraat/p1/canvas/163"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Huurstaking Schaepmanstraat",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1932-12-01"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1932-12-31"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/82e6ece5-2c69-434f-a388-3502ca8541d4",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Huurstakingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Stakingen"
+          }
+        }
+      ]
+    }
+  ]
+}

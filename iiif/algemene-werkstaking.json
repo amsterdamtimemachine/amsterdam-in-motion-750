@@ -1,0 +1,1487 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Algemene werkstaking"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1903-01-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1903-12-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Werkstakingen, Stakingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592, https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/51",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Algemene Werkstaking, 1903"
+        ]
+      },
+      "height": 1202,
+      "width": 2077,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene Werkstaking, 1903"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kleine Kattenburgerstraat 119 (ged.)-121-123 enz. (links, vlnr.); links v/h midden: ingang Derde Kattenburgerdwarsstraat; gezien naar: Mariniersstraat (richting Dijksgracht)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-01-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/2e83379c-cd48-1e41-5add-4586b66a51c9"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/51/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/51/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2e83379c-cd48-1e41-5add-4586b66a51c9/iiif/3/18957280/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1202,
+                "width": 2077,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2e83379c-cd48-1e41-5add-4586b66a51c9/iiif/3/18957280",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/52",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Centraal Station, Stationsplein, waar veel drukte is wegens een algemene werkstaking op 6 april 1903"
+        ]
+      },
+      "height": 500,
+      "width": 500,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Centraal Station, Stationsplein, waar veel drukte is wegens een algemene werkstaking op 6 april 1903"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Politie te paard houdt een oogje in het zeil. Uitgave The International Trading Compagny."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-01-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/56952220-9afc-e6ce-dc02-110c7c8e5f06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/52/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/52/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/56952220-9afc-e6ce-dc02-110c7c8e5f06/iiif/3/57749269/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 500,
+                "width": 500,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/56952220-9afc-e6ce-dc02-110c7c8e5f06/iiif/3/57749269",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/53",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wij staken niet en zijn toch solidair"
+        ]
+      },
+      "height": 500,
+      "width": 500,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Wij staken niet en zijn toch solidair"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Prostituees solidair met stakers. Uitgave J.F.A. Vlaanderen, Amsterdam."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-01-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/afe1841c-79e7-d76a-e56d-915b68fb1d1e"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/53/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/53/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/afe1841c-79e7-d76a-e56d-915b68fb1d1e/iiif/3/57671657/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 500,
+                "width": 500,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/afe1841c-79e7-d76a-e56d-915b68fb1d1e/iiif/3/57671657",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/57",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zieseniskade, bewaking bij een vuilnisstortplaats van de Stadsreiniging tijdens een algemene Werkstaking"
+        ]
+      },
+      "height": 1034,
+      "width": 1342,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Zieseniskade, bewaking bij een vuilnisstortplaats van de Stadsreiniging tijdens een algemene Werkstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/c381bbd4-47e4-1b0f-fd3d-9aa754bf0393"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/57/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/57/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/c381bbd4-47e4-1b0f-fd3d-9aa754bf0393/iiif/3/18957057/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1034,
+                "width": 1342,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/c381bbd4-47e4-1b0f-fd3d-9aa754bf0393/iiif/3/18957057",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/58",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Algemene Werkstaking 1903"
+        ]
+      },
+      "height": 1125,
+      "width": 1690,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene Werkstaking 1903"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Spotprent op de schutterij tijdens de Algemene Werkstaking: schuttersmaaltijd, vrij naar het schutterstuk van B. van der Helst uit 1648."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/dcdb6def-2038-baf9-a2ce-f3c50b73b3bc"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/58/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/58/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/dcdb6def-2038-baf9-a2ce-f3c50b73b3bc/iiif/3/57584826/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1125,
+                "width": 1690,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/dcdb6def-2038-baf9-a2ce-f3c50b73b3bc/iiif/3/57584826",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/59",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Algemene Werkstaking, 1903"
+        ]
+      },
+      "height": 1365,
+      "width": 1965,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene Werkstaking, 1903"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Sloterdijk, Sloterdijkschool, school voor G.L.O.-onderwijs; (later) Velserweg 2."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/4a7991bb-ff9b-89a1-6467-4b9d7f3dda99"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/59/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/59/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/4a7991bb-ff9b-89a1-6467-4b9d7f3dda99/iiif/3/57324691/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1365,
+                "width": 1965,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/4a7991bb-ff9b-89a1-6467-4b9d7f3dda99/iiif/3/57324691",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/60",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Algemene werkstaking 1903"
+        ]
+      },
+      "height": 984,
+      "width": 1404,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene werkstaking 1903"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Vuilniswagens door militairen in bezit genomen"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/12e2cc2c-4273-86ef-ffd4-dc8f57947aaf"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/60/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/60/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/12e2cc2c-4273-86ef-ffd4-dc8f57947aaf/iiif/3/18917610/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 984,
+                "width": 1404,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/12e2cc2c-4273-86ef-ffd4-dc8f57947aaf/iiif/3/18917610",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/61",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stakingen"
+        ]
+      },
+      "height": 1708,
+      "width": 1124,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stakingen"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene Werkstaking 1903. Spotprent op broodbezorging onder militair escorte"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/25a72f4a-cd25-1252-3dec-2af4ddf3716b"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/61/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/61/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/25a72f4a-cd25-1252-3dec-2af4ddf3716b/iiif/3/57584524/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1708,
+                "width": 1124,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/25a72f4a-cd25-1252-3dec-2af4ddf3716b/iiif/3/57584524",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/62",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Algemene Werkstaking"
+        ]
+      },
+      "height": 1393,
+      "width": 1945,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene Werkstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Openbare vergadering in gebouw Velox, Hobbemakade"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/9fdc6d12-5153-9aef-24b6-f78bcda944ab"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/62/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/62/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9fdc6d12-5153-9aef-24b6-f78bcda944ab/iiif/3/57545222/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1393,
+                "width": 1945,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9fdc6d12-5153-9aef-24b6-f78bcda944ab/iiif/3/57545222",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/63",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Algemene Werkstaking"
+        ]
+      },
+      "height": 1416,
+      "width": 1920,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Algemene Werkstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Openbare vergadering in gebouw Velox, Hobbemakade"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1903-04-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/b63d30c6-95ac-a445-b9af-4c7f04e736e3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/63/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/63/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b63d30c6-95ac-a445-b9af-4c7f04e736e3/iiif/3/57544245/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1416,
+                "width": 1920,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b63d30c6-95ac-a445-b9af-4c7f04e736e3/iiif/3/57544245",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/algemene-werkstaking/p1/canvas/63"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Algemene werkstaking",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1903-01-01"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1903-12-31"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Werkstakingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Stakingen"
+          }
+        }
+      ]
+    }
+  ]
+}

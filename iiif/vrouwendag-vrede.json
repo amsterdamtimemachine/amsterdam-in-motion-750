@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1915-04-03"
+          "1914-01-01"
         ]
       }
     },
@@ -79,7 +79,7 @@
   },
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/85",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -188,11 +188,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/85/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/85/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -209,7 +209,144 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/7"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/86",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vredesdemonstratie Vrouwendag op het Museumplein"
+        ]
+      },
+      "height": 2001,
+      "width": 2758,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Vredesdemonstratie Vrouwendag op het Museumplein"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1915-04-03"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1915-04-03"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/bd090d32-1d57-3e77-cd40-d62fd53c8b10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/86/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/86/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/bd090d32-1d57-3e77-cd40-d62fd53c8b10/iiif/3/57543939/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2001,
+                "width": 2758,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/bd090d32-1d57-3e77-cd40-d62fd53c8b10/iiif/3/57543939",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendag-vrede/p1/canvas/86"
             }
           ]
         }
@@ -223,7 +360,7 @@
       "schema:description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus.",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "1915-04-03"
+        "@value": "1914-01-01"
       },
       "schema:endDate": {
         "@type": "xsd:date",

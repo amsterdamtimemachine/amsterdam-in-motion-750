@@ -1,0 +1,1181 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezetting Instituut voor Neerlandistiek"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1972-01-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1972-01-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezettingen, Onderwijs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1, https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1487",
+      "type": "Canvas",
+      "label": {},
+      "height": 3675,
+      "width": 2448,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten bezetten Instituut voor Neerlandistiek , Herengracht Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd19c8-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1487/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1487/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e4/e0/3b/ec/ca/09/4f/ec/96/a7/5f/65/be/95/b6/5b/4a699d8c-1a80-4796-9189-9e5298832735.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3675,
+                "width": 2448,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e4/e0/3b/ec/ca/09/4f/ec/96/a7/5f/65/be/95/b6/5b/4a699d8c-1a80-4796-9189-9e5298832735.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1487"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1488",
+      "type": "Canvas",
+      "label": {},
+      "height": 3675,
+      "width": 2448,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten bezetten Instituut voor Neerlandistiek , Herengracht Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd18a6-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1488/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1488/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/70/d7/8a/fa/5a/b7/48/75/b5/73/ac/5f/2b/7e/20/02/40d10ade-d69f-4a83-af4d-e769178acbc3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3675,
+                "width": 2448,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/70/d7/8a/fa/5a/b7/48/75/b5/73/ac/5f/2b/7e/20/02/40d10ade-d69f-4a83-af4d-e769178acbc3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1488"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1489",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten bezetten Instituut voor Neerlandistiek , Herengracht Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd17de-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1489/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1489/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/4e/31/5f/62/a5/ab/46/2c/ae/5a/aa/5e/b1/08/97/4c/c1600b28-5daa-40e0-8443-8f0c8b0a2f1c.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4e/31/5f/62/a5/ab/46/2c/ae/5a/aa/5e/b1/08/97/4c/c1600b28-5daa-40e0-8443-8f0c8b0a2f1c.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1489"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1490",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten bezetten Instituut voor Neerlandistiek , Herengracht Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd170c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1490/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1490/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/3d/73/36/81/c2/4e/4c/c5/b7/29/a8/67/7a/de/8b/1a/b34d1b4c-020f-45c1-9985-6592fb1eb1c6.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3d/73/36/81/c2/4e/4c/c5/b7/29/a8/67/7a/de/8b/1a/b34d1b4c-020f-45c1-9985-6592fb1eb1c6.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1490"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1491",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten bezetten Instituut voor Neerlandistiek , Herengracht Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd15e0-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1491/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1491/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d0/d8/52/1b/a6/6d/40/92/9e/0d/77/ab/35/16/93/e7/45946803-e7ac-4824-b9a9-09e238e9c142.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d0/d8/52/1b/a6/6d/40/92/9e/0d/77/ab/35/16/93/e7/45946803-e7ac-4824-b9a9-09e238e9c142.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1491"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1492",
+      "type": "Canvas",
+      "label": {},
+      "height": 3675,
+      "width": 2448,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten bezetten Instituut voor Neerlandistiek, Herengracht A'dam prof. Stuiveling tegen democratisering"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd14d2-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1492/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1492/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a6/40/93/85/59/31/46/da/a9/ad/8a/df/c2/d0/22/5c/25fa539b-5509-4883-8f0b-dc1654d21988.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3675,
+                "width": 2448,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a6/40/93/85/59/31/46/da/a9/ad/8a/df/c2/d0/22/5c/25fa539b-5509-4883-8f0b-dc1654d21988.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1492"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1493",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Vergadering over bezetting Instituut voor Neerlandistiek in Universiteit Oudemanhuispoort Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd814c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1493/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1493/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/4c/94/ac/27/5f/77/46/a3/a6/04/6b/c5/28/d1/29/34/b89a6634-7118-4932-9748-754e7aa0bfdd.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4c/94/ac/27/5f/77/46/a3/a6/04/6b/c5/28/d1/29/34/b89a6634-7118-4932-9748-754e7aa0bfdd.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1493"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1494",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Vergadering over bezetting Instituut voor Neerlandistiek in Universiteit Oudemanhuispoort Amsterdam, overzicht bestuurstafel /"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-01-10"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abdd8070-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1494/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1494/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/08/7c/a6/99/1b/1a/43/43/b9/44/02/99/ca/33/d5/3f/f597006a-0951-49fc-b9c4-ef945e022381.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/08/7c/a6/99/1b/1a/43/43/b9/44/02/99/ca/33/d5/3f/f597006a-0951-49fc-b9c4-ef945e022381.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-instituut-voor-neerlandistiek/p1/canvas/1494"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Bezetting Instituut voor Neerlandistiek",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1972-01-06"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1972-01-10"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Bezettingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Onderwijs"
+          }
+        }
+      ]
+    }
+  ]
+}

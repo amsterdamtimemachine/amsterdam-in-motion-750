@@ -1,0 +1,1181 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Demonstratie wegens moord Marten Luther King"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1968-04-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1968-04-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Demonstraties, Mensenrechten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/670",
+      "type": "Canvas",
+      "label": {},
+      "height": 2440,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie in Amsterdam naar aanleiding van moord op dr. Martin Luther King"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c19a6-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/670/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/670/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/dd/eb/bd/e7/8b/45/30/bb/a1/72/2e/ed/35/b6/1c/968ef35a-fbb2-426e-8cf0-c49b9f1f2241.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2440,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/dd/eb/bd/e7/8b/45/30/bb/a1/72/2e/ed/35/b6/1c/968ef35a-fbb2-426e-8cf0-c49b9f1f2241.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/670"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/671",
+      "type": "Canvas",
+      "label": {},
+      "height": 2425,
+      "width": 3696,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie in Amsterdam naar aanleiding van moord op dr. Martin Luther King"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c1898-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/671/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/671/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/dc/73/ac/dd/c0/4b/e7/bd/cc/26/ff/b4/76/fd/4b/e315c8eb-5cb6-4428-93be-f5696c3a6f56.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2425,
+                "width": 3696,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/dc/73/ac/dd/c0/4b/e7/bd/cc/26/ff/b4/76/fd/4b/e315c8eb-5cb6-4428-93be-f5696c3a6f56.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/671"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/672",
+      "type": "Canvas",
+      "label": {},
+      "height": 2446,
+      "width": 3720,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stille betoging in Amsterdam in verband met de moord op dr. King . De stoet op de Dam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c3490-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/672/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/672/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8c/49/be/11/50/d1/44/82/98/78/f4/2a/46/08/dc/f7/15109af5-64d8-4742-b278-e12fbcb7ba31.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2446,
+                "width": 3720,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8c/49/be/11/50/d1/44/82/98/78/f4/2a/46/08/dc/f7/15109af5-64d8-4742-b278-e12fbcb7ba31.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/672"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/673",
+      "type": "Canvas",
+      "label": {},
+      "height": 3674,
+      "width": 2429,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stille betoging in Amsterdam in verband met de moord op dr. King . De stoet op de Dam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c386e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/673/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/673/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/02/d5/d2/9e/ca/46/3c/ba/3f/dc/24/51/4f/36/c1/7c58a67e-01df-4f46-a2b7-f5e83d613be9.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3674,
+                "width": 2429,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/02/d5/d2/9e/ca/46/3c/ba/3f/dc/24/51/4f/36/c1/7c58a67e-01df-4f46-a2b7-f5e83d613be9.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/673"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/674",
+      "type": "Canvas",
+      "label": {},
+      "height": 2443,
+      "width": 3684,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stille betoging in Amsterdam in verband met de moord op dr. King . De stoet op de Dam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c367a-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/674/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/674/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f2/34/a0/18/c7/db/4b/06/94/8b/32/14/9c/d2/0f/9f/53339568-6c80-46c5-abea-f9d7691ba400.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2443,
+                "width": 3684,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f2/34/a0/18/c7/db/4b/06/94/8b/32/14/9c/d2/0f/9f/53339568-6c80-46c5-abea-f9d7691ba400.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/674"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/675",
+      "type": "Canvas",
+      "label": {},
+      "height": 2452,
+      "width": 3720,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stille betoging in Amsterdam in verband met de moord op dr. King . De stoet op de Dam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c374c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/675/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/675/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d2/2e/1f/bb/87/92/47/fd/a4/19/a9/0e/92/24/91/24/322a607b-d2cb-4885-89be-0a5fa5447332.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2452,
+                "width": 3720,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d2/2e/1f/bb/87/92/47/fd/a4/19/a9/0e/92/24/91/24/322a607b-d2cb-4885-89be-0a5fa5447332.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/675"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/676",
+      "type": "Canvas",
+      "label": {},
+      "height": 3708,
+      "width": 2461,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stille betoging in Amsterdam in verband met de moord op dr. King . De stoet op de Dam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c356c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/676/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/676/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/e5/0c/dc/ca/39/4d/55/99/51/68/cf/8c/bf/bc/d4/ddccf478-b705-40f8-b8e3-f1387d28efa3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3708,
+                "width": 2461,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/e5/0c/dc/ca/39/4d/55/99/51/68/cf/8c/bf/bc/d4/ddccf478-b705-40f8-b8e3-f1387d28efa3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/677",
+      "type": "Canvas",
+      "label": {},
+      "height": 2446,
+      "width": 3714,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stille betoging in Amsterdam in verband met de moord op dr. King . Vertrek van de stille betoging op J. D. Meyerplein"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1968-04-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Evers, Joost / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab3c33be-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/677/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/677/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/d3/f5/ba/41/0d/43/82/a7/80/c4/6b/dd/38/d4/91/43f51069-51e5-46e5-b00d-1ca0b2d31f0e.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2446,
+                "width": 3714,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/d3/f5/ba/41/0d/43/82/a7/80/c4/6b/dd/38/d4/91/43f51069-51e5-46e5-b00d-1ca0b2d31f0e.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-moord-marten-luther-king/p1/canvas/677"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Demonstratie wegens moord Marten Luther King",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1968-04-05"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1968-04-07"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Mensenrechten"
+          }
+        }
+      ]
+    }
+  ]
+}

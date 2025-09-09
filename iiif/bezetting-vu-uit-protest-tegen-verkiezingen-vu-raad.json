@@ -1,0 +1,915 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezetting VU uit protest tegen verkiezingen VU-raad"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1972-02-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1972-02-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezettingen, Onderwijs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1, https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1522",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten houden Vrije Universiteit van Amsterdam bezet uit protest tegen verkiezingen VU-raad"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abe1e05c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1522/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1522/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/37/74/4e/3e/65/46/4e/a0/22/40/a8/6e/e2/06/ae/9f85b86f-afab-4124-909b-8b7275d56d28.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/37/74/4e/3e/65/46/4e/a0/22/40/a8/6e/e2/06/ae/9f85b86f-afab-4124-909b-8b7275d56d28.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1522"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1523",
+      "type": "Canvas",
+      "label": {},
+      "height": 2412,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten houden Vrije Universiteit van Amsterdam bezet uit protest tegen verkiezingen VU-raad"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abe1df3a-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1523/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1523/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/44/25/cf/7d/89/bb/4b/36/8d/10/23/91/90/56/e7/a6/64f99059-943c-4b8d-9629-b3cd24752216.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2412,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/44/25/cf/7d/89/bb/4b/36/8d/10/23/91/90/56/e7/a6/64f99059-943c-4b8d-9629-b3cd24752216.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1523"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1524",
+      "type": "Canvas",
+      "label": {},
+      "height": 2433,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten houden Vrije Universiteit van Amsterdam bezet uit protest tegen verkiezingen VU-raad"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abe1de18-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1524/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1524/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/6b/3e/f8/db/14/b3/48/d9/84/ec/89/22/fe/20/96/c3/ca816e73-3429-49b7-a36d-4da79c1ca4d2.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2433,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/6b/3e/f8/db/14/b3/48/d9/84/ec/89/22/fe/20/96/c3/ca816e73-3429-49b7-a36d-4da79c1ca4d2.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1524"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1525",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten houden Vrije Universiteit van Amsterdam bezet uit protest tegen verkiezingen VU-raad; studentenvergader in bezette collegezaal /"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abe1daee-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1525/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1525/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ac/ad/54/72/a2/05/48/78/b8/fb/b2/36/8b/58/aa/88/1d178297-7f1e-4fb6-9adf-2ad534da0ab0.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ac/ad/54/72/a2/05/48/78/b8/fb/b2/36/8b/58/aa/88/1d178297-7f1e-4fb6-9adf-2ad534da0ab0.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1525"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1526",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten houden Vrije Universiteit van Amsterdam bezet uit protest tegen verkiezingen VU-raad; studenten bij spandoek \\\"VU-raad schertsraad\\\""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abe1d95e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1526/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1526/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7a/b1/a5/19/57/cb/41/97/86/7d/03/32/c1/5f/b4/a9/72c78017-9d8a-4280-8d22-9acd35162d14.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/7a/b1/a5/19/57/cb/41/97/86/7d/03/32/c1/5f/b4/a9/72c78017-9d8a-4280-8d22-9acd35162d14.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1526"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1527",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3675,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Studenten houden Vrije Universiteit van Amsterdam bezet uit protest tegen verkiezingen VU-raad; discussierende studenten"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1972-02-23"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abe1d7ce-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1527/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1527/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f2/26/ce/31/ce/85/4c/94/bf/a7/46/fd/06/1f/6d/43/4af8278e-c130-43f4-b21f-16ef9d79cdc9.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3675,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f2/26/ce/31/ce/85/4c/94/bf/a7/46/fd/06/1f/6d/43/4af8278e-c130-43f4-b21f-16ef9d79cdc9.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-uit-protest-tegen-verkiezingen-vu-raad/p1/canvas/1527"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Bezetting VU uit protest tegen verkiezingen VU-raad",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1972-02-23"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1972-02-23"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Bezettingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Onderwijs"
+          }
+        }
+      ]
+    }
+  ]
+}

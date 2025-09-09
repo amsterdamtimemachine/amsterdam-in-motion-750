@@ -1,0 +1,524 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kraakactie tweede Kerstdag"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-12-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-12-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Woonprotesten, Demonstraties, Kraken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff, https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1296",
+      "type": "Canvas",
+      "label": {},
+      "height": 2392,
+      "width": 3649,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kraakaktie op tweede Kerstdag door Kabouters en Aktie 7 AMRO-bank, hoek Leidsestraat, gekraakt"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-12-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-12-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abae68bc-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1296/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1296/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/8a/19/6b/fe/b9/4d/47/a7/10/10/b8/ea/08/d5/f1/03ec8535-7230-425b-bb7a-d334320dfca3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2392,
+                "width": 3649,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/8a/19/6b/fe/b9/4d/47/a7/10/10/b8/ea/08/d5/f1/03ec8535-7230-425b-bb7a-d334320dfca3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1296"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1297",
+      "type": "Canvas",
+      "label": {},
+      "height": 2374,
+      "width": 3640,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kraakaktie op tweede Kerstdag door Kabouters en Aktie 7 AMRO-bank, hoek Leidsestraat, gekraakt"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-12-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-12-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abae66aa-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1297/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1297/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/aa/d6/9c/1a/a3/c7/48/dc/9d/3a/a8/b3/e2/7d/46/64/87e988d1-8d9d-4133-ba84-1a0ee1561fe5.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2374,
+                "width": 3640,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/aa/d6/9c/1a/a3/c7/48/dc/9d/3a/a8/b3/e2/7d/46/64/87e988d1-8d9d-4133-ba84-1a0ee1561fe5.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1297"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1298",
+      "type": "Canvas",
+      "label": {},
+      "height": 2422,
+      "width": 3646,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kraakaktie op tweede Kerstdag door Kabouters en Aktie 70. De Petruskerk wordt gekraakt."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-12-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-12-26"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Peters, Hans / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/abae648e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1298/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1298/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e7/0b/21/0f/14/20/40/fb/8a/9e/10/51/1c/61/ce/c3/142cc8de-9481-4243-ac74-32b675b54c1e.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2422,
+                "width": 3646,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e7/0b/21/0f/14/20/40/fb/8a/9e/10/51/1c/61/ce/c3/142cc8de-9481-4243-ac74-32b675b54c1e.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag/p1/canvas/1298"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Kraakactie tweede Kerstdag",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1970-12-26"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1970-12-26"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Woonprotesten"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Kraken"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Demonstratie kunstenaars van de Beroepsvereniging van Beeldende Kunstenaars (BBK)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1969-09-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1969-09-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kunst en cultuur, Demonstraties"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/aa16ea44-661d-4c82-b927-b1811b39fcbe, https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/915",
+      "type": "Canvas",
+      "label": {},
+      "height": 2437,
+      "width": 3687,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab790db6-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/915/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/915/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/4b/fe/2d/9f/01/7c/43/0a/a7/5a/31/67/b5/bc/57/6f/8538968f-bd0e-4493-bb81-46d58254e18f.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2437,
+                "width": 3687,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4b/fe/2d/9f/01/7c/43/0a/a7/5a/31/67/b5/bc/57/6f/8538968f-bd0e-4493-bb81-46d58254e18f.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/915"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/916",
+      "type": "Canvas",
+      "label": {},
+      "height": 2428,
+      "width": 3687,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam: De Wilde met megafoon"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab790ce4-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/916/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/916/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c4/9d/28/d7/10/d5/44/d9/b7/a5/24/4b/96/d4/d1/43/67670c31-f0b4-4d58-aa2e-6e8bf4b3c2f0.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2428,
+                "width": 3687,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c4/9d/28/d7/10/d5/44/d9/b7/a5/24/4b/96/d4/d1/43/67670c31-f0b4-4d58-aa2e-6e8bf4b3c2f0.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/916"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/917",
+      "type": "Canvas",
+      "label": {},
+      "height": 3705,
+      "width": 2437,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab790c08-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/917/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/917/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/41/45/7d/9b/7a/e3/44/35/81/95/1f/f6/9e/12/e7/8f/edc8ab30-1b27-4c35-9614-d9b5eafddf9b.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3705,
+                "width": 2437,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/41/45/7d/9b/7a/e3/44/35/81/95/1f/f6/9e/12/e7/8f/edc8ab30-1b27-4c35-9614-d9b5eafddf9b.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/917"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/918",
+      "type": "Canvas",
+      "label": {},
+      "height": 2434,
+      "width": 3696,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab790afa-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/918/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/918/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/64/5b/30/52/fc/45/45/8b/20/48/6f/72/8d/52/da/29ae7b56-3abb-4032-9329-28eed590c27f.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2434,
+                "width": 3696,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/64/5b/30/52/fc/45/45/8b/20/48/6f/72/8d/52/da/29ae7b56-3abb-4032-9329-28eed590c27f.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/918"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/919",
+      "type": "Canvas",
+      "label": {},
+      "height": 2437,
+      "width": 3705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam: De Wilde met megafoon, kop"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab7909ba-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/919/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/919/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/24/6c/49/fb/5d/49/44/2c/82/f0/23/ea/db/df/e3/ba/71a4c47e-aba6-4548-b13c-70e031fe9d53.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2437,
+                "width": 3705,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/24/6c/49/fb/5d/49/44/2c/82/f0/23/ea/db/df/e3/ba/71a4c47e-aba6-4548-b13c-70e031fe9d53.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/919"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/920",
+      "type": "Canvas",
+      "label": {},
+      "height": 2437,
+      "width": 3705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam: De kunstenaars stemmen; achter overvalwagens van politie"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab7907b2-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/920/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/920/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e1/59/ae/07/1b/c3/4e/ee/85/d5/ab/97/ce/c2/21/b4/a2868f65-5521-4ab0-bed1-fa6e3073378a.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2437,
+                "width": 3705,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e1/59/ae/07/1b/c3/4e/ee/85/d5/ab/97/ce/c2/21/b4/a2868f65-5521-4ab0-bed1-fa6e3073378a.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/920"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/921",
+      "type": "Canvas",
+      "label": {},
+      "height": 2437,
+      "width": 3705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam: De kunstenaars voor de gesloten deur, waar politie voor stond"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab7906a4-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/921/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/921/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/90/b9/98/4a/ca/77/4e/89/8c/23/d5/c8/a2/90/3b/d4/1af654f0-a353-4626-a188-1c4e32866cf1.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2437,
+                "width": 3705,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/90/b9/98/4a/ca/77/4e/89/8c/23/d5/c8/a2/90/3b/d4/1af654f0-a353-4626-a188-1c4e32866cf1.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/921"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/922",
+      "type": "Canvas",
+      "label": {},
+      "height": 2437,
+      "width": 3705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen BBK bij het Stedelijk Museum Amsterdam: Directeur Stedelijk Museum De Wilde spreekt kunstenaars toe met megafoon /"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab7905c8-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/922/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/922/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a0/48/58/a8/8b/09/44/7c/84/e3/1a/19/36/8e/f5/e1/2499b506-0dbc-475e-b336-5aac10379152.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2437,
+                "width": 3705,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a0/48/58/a8/8b/09/44/7c/84/e3/1a/19/36/8e/f5/e1/2499b506-0dbc-475e-b336-5aac10379152.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/922"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/923",
+      "type": "Canvas",
+      "label": {},
+      "height": 3705,
+      "width": 2437,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kunstenaars demonstreren tegen de BBK: kunstenaars en publiek moesten het Rijksmuseum verlaten, Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-09"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab79019a-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/923/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/923/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e1/9a/b3/20/51/05/4c/d0/9b/22/e4/57/f0/1a/d2/fa/6a619714-48b5-4fbc-95b2-5dc4d1239ad5.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3705,
+                "width": 2437,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e1/9a/b3/20/51/05/4c/d0/9b/22/e4/57/f0/1a/d2/fa/6a619714-48b5-4fbc-95b2-5dc4d1239ad5.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk/p1/canvas/923"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Demonstratie kunstenaars van de Beroepsvereniging van Beeldende Kunstenaars (BBK)",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1969-09-09"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1969-09-09"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/aa16ea44-661d-4c82-b927-b1811b39fcbe",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Kunst en cultuur"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        }
+      ]
+    }
+  ]
+}

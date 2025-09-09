@@ -1,0 +1,528 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dolle Mina actie voor huisvesting ongehuwde moeders"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-05-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-05-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Woonprotesten, Mensenrechten, Demonstraties"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff, https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f, https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1090",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Dolle Mina's"
+        ]
+      },
+      "height": 2176,
+      "width": 2869,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Dolle Mina's"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-05-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-05-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/e67c6fbf-c677-2d0e-76bf-5cf8d313f9b6"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1090/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1090/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e67c6fbf-c677-2d0e-76bf-5cf8d313f9b6/iiif/3/57545518/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2176,
+                "width": 2869,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e67c6fbf-c677-2d0e-76bf-5cf8d313f9b6/iiif/3/57545518",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1090"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1099",
+      "type": "Canvas",
+      "label": {},
+      "height": 2445,
+      "width": 3679,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Dolle Minas aktie op Spui, Amsterdam: Dolle Minas met borden"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-05-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-05-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab96254a-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1099/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1099/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/40/f4/02/d7/67/c9/49/1c/93/1f/78/79/76/f9/5e/c9/e759a1ad-9f0b-412f-96f7-9e8cbe761fb6.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2445,
+                "width": 3679,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/40/f4/02/d7/67/c9/49/1c/93/1f/78/79/76/f9/5e/c9/e759a1ad-9f0b-412f-96f7-9e8cbe761fb6.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1099"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1100",
+      "type": "Canvas",
+      "label": {},
+      "height": 2445,
+      "width": 3679,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Dolle Minas aktie op Spui, Amsterdam: Dolle Minas met borden"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-05-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1970-05-05"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Verhoeff, Bert / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab96266c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1100/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1100/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/00/ce/18/0f/96/4e/4e/cf/a7/6f/e5/31/a4/5c/50/c6/834205ea-9d86-47ca-b40d-62de8735fe27.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2445,
+                "width": 3679,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/00/ce/18/0f/96/4e/4e/cf/a7/6f/e5/31/a4/5c/50/c6/834205ea-9d86-47ca-b40d-62de8735fe27.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-actie-voor-huisvesting-ongehuwde-moeders/p1/canvas/1100"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Dolle Mina actie voor huisvesting ongehuwde moeders",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1970-05-05"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1970-05-05"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Woonprotesten"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Mensenrechten"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        }
+      ]
+    }
+  ]
+}

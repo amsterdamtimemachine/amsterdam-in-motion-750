@@ -1,0 +1,1213 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bootwerkers- en zeeliedenstaking"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1911-01-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1911-12-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Werkstakingen, Stakingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592, https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/67",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zeelieden- en bootwerkersstaking (13 juni-9 augustus 1911) Kattenburg"
+        ]
+      },
+      "height": 500,
+      "width": 500,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Zeelieden- en bootwerkersstaking (13 juni-9 augustus 1911) Kattenburg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ". Uitgave Nederlandse Prentbriefkaartenhandel, Nieuwe Herengracht 205."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-01-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/9df715ad-1fc3-15bc-7734-107ffece596e"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/67/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/67/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9df715ad-1fc3-15bc-7734-107ffece596e/iiif/3/57549235/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 500,
+                "width": 500,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9df715ad-1fc3-15bc-7734-107ffece596e/iiif/3/57549235",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/68",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bootwerkers- en zeeliedenstaking"
+        ]
+      },
+      "height": 1336,
+      "width": 1968,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Bootwerkers- en zeeliedenstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Infanteristen van het 11e Regiment op wacht op voor het Bureau Kattenburg, Kattenburgergracht 19-21. Foto uit album V van de Amsterdamsche Politie, samengesteld door Hoofdcommissaris H.S. Hordijk."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/0cd8b05d-4c59-9560-c889-c2a37a89b68a"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/68/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/68/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/0cd8b05d-4c59-9560-c889-c2a37a89b68a/iiif/3/11431617/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1336,
+                "width": 1968,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/0cd8b05d-4c59-9560-c889-c2a37a89b68a/iiif/3/11431617",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/69",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kleine Kattenburgerstraat 123-125"
+        ]
+      },
+      "height": 1425,
+      "width": 1890,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kleine Kattenburgerstraat 123-125"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Links: Derde Kattenburgerdwarsstraat. Op nummer. 123 : bakkerij Knottenblet. Zeeliedenstaking juni-augustus 1911."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/23d25a03-00dc-61b8-63f4-b0d5c0cf94ad"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/69/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/69/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/23d25a03-00dc-61b8-63f4-b0d5c0cf94ad/iiif/3/57532220/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1425,
+                "width": 1890,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/23d25a03-00dc-61b8-63f4-b0d5c0cf94ad/iiif/3/57532220",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/69"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/71",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bootwerkers- en zeeliedenstaking"
+        ]
+      },
+      "height": 1368,
+      "width": 1984,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Bootwerkers- en zeeliedenstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Infanteristen van het 11e Regiment op wacht op het Kattenburgerplein. Foto uit album V van de Amsterdamsche Politie, samengesteld door Hoofdcommissaris H.S. Hordijk."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/64e7b520-8168-aa66-ab3c-3189c45cf036"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/71/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/71/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/64e7b520-8168-aa66-ab3c-3189c45cf036/iiif/3/11431616/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1368,
+                "width": 1984,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/64e7b520-8168-aa66-ab3c-3189c45cf036/iiif/3/11431616",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/75",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bootwerkers- en zeeliedenstaking"
+        ]
+      },
+      "height": 1328,
+      "width": 2025,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Bootwerkers- en zeeliedenstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stakende bootwerkers en zeeliden op het Mariniersplein voor de Kleine Kattenburgerstraat bespreken de ongeregeldheden van de nacht tevoren. Foto uit album V van de Amsterdamsche Politie, samengesteld door Hoofdcommissaris H.S. Hordijk."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/39c0ab81-74c6-0a9f-0191-af8e7fc3eb67"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/75/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/75/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/39c0ab81-74c6-0a9f-0191-af8e7fc3eb67/iiif/3/11431544/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1328,
+                "width": 2025,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/39c0ab81-74c6-0a9f-0191-af8e7fc3eb67/iiif/3/11431544",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/76",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bootwerkers- en zeeliedenstaking"
+        ]
+      },
+      "height": 1344,
+      "width": 1999,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Bootwerkers- en zeeliedenstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "De melkslijterij van Segerius, Kleine Kattenburgerstraat 121, in welk perceel tijdens de ongeregeldheden in de nacht van 5 op 6 juli 1911 enkele kogels terechtkwamen. Op straat infanteristen. Foto uit album V van de Amsterdamsche Politie, samengesteld door Hoofdcommissaris H.S. Hordijk."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/7d286834-1b9a-8857-3cd7-7d9c77ee92dd"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/76/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/76/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7d286834-1b9a-8857-3cd7-7d9c77ee92dd/iiif/3/57635100/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1344,
+                "width": 1999,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7d286834-1b9a-8857-3cd7-7d9c77ee92dd/iiif/3/57635100",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/77",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zeelieden- en bootwerkersstaking (4 juni-9 augustus 1911)"
+        ]
+      },
+      "height": 1346,
+      "width": 2029,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Zeelieden- en bootwerkersstaking (4 juni-9 augustus 1911)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kruising Derde Kattenburgerdwarsstraat en Kleine Kattenburgerstraat (rechts). Kleine Kattenburgerstraat 123, Bakkerij Knottenbelt werd door 6 kogels doordrongen, toen men de in het portaal van het bovenhuis gevluchte bootwerker Homma beschoot. Hij werd in de nacht van 5 op 6 juli 1911 door de vurende infanterie ernstig verwond."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/8e4154b7-13bb-8a75-e470-7b13ca99312d"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/77/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/77/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/8e4154b7-13bb-8a75-e470-7b13ca99312d/iiif/3/18953953/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1346,
+                "width": 2029,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/8e4154b7-13bb-8a75-e470-7b13ca99312d/iiif/3/18953953",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/77"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/78",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bootwerkers- en zeeliedenstaking"
+        ]
+      },
+      "height": 1376,
+      "width": 1967,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Bootwerkers- en zeeliedenstaking"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kleine Kattenburgerstraat 123, in welk perceel tijdens de ongeregeldheden in de nacht van 5 op 6 juli 1911 de bootwerker Homma, verdacht van het schieten op militairen en politie, in de buik geschoten werd. Op straat infanteristen. Foto uit album V van de Amsterdamsche Politie, samengesteld door Hoofdcommissaris H.S. Hordijk."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1911-07-06"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/df7dc5c1-f84a-b920-b5bc-702b134300db"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/78/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/78/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/df7dc5c1-f84a-b920-b5bc-702b134300db/iiif/3/57635055/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1376,
+                "width": 1967,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/df7dc5c1-f84a-b920-b5bc-702b134300db/iiif/3/57635055",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bootwerkers-en-zeeliedenstaking/p1/canvas/78"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Bootwerkers- en zeeliedenstaking",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1911-01-01"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1911-12-31"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Werkstakingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Stakingen"
+          }
+        }
+      ]
+    }
+  ]
+}

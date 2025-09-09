@@ -77,10 +77,9 @@
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis neque magna, in mollis nibh tristique aliquam. Sed congue ipsum a eros mattis faucibus. Nulla vitae diam ligula. Mauris congue dui ac libero semper tempus. Cras ut ex nec lacus hendrerit euismod in eu est. Suspendisse velit nunc, eleifend eget erat sed, varius interdum nisl. Phasellus pharetra, ex et sodales tincidunt, nibh nibh porttitor turpis, sed semper elit sapien et tellus."
     ]
   },
-  "navDate": "1886-07-25T00:00:00+00:18",
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/44",
       "type": "Canvas",
       "label": {},
       "height": 3852,
@@ -185,11 +184,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/44/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/44/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -206,7 +205,555 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/1"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/45",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Palingtrekken op de Lindengracht, 25 juli 1886"
+        ]
+      },
+      "height": 1940,
+      "width": 2548,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Palingtrekken op de Lindengracht, 25 juli 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "De reprofoto verscheen dertig jaar later, bij de herdenking van het Palingoproer."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-07-25"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-07-25"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/5608388b-baf8-d80e-3d83-3828291b2725"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/45/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/45/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5608388b-baf8-d80e-3d83-3828291b2725/iiif/3/57583842/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1940,
+                "width": 2548,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5608388b-baf8-d80e-3d83-3828291b2725/iiif/3/57583842",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/46",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Soldaten schieten wegens het palingoproer op demonstranten vanuit de Eerste Lindendwarsstraat over de Lindengracht en Zaterdagsebrug"
+        ]
+      },
+      "height": 4231,
+      "width": 2994,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Soldaten schieten wegens het palingoproer op demonstranten vanuit de Eerste Lindendwarsstraat over de Lindengracht en Zaterdagsebrug"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Op de voorgrond links de zijgevel van Lindengracht 103 en rechts 99. Op de achtergrond links Lindengracht 160 en rechts 158-156 met daartussen Tweede Goedsbloemdwarsstraat. Datum voorstelling: 26 juli 1886. Techniek: houtgravure."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/2f1949ae-05b7-ebea-26bd-da1e8d3509db"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/46/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/46/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2f1949ae-05b7-ebea-26bd-da1e8d3509db/iiif/3/57422577/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 4231,
+                "width": 2994,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2f1949ae-05b7-ebea-26bd-da1e8d3509db/iiif/3/57422577",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/47",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oproer aan de Zaterdagse brug te Amsterdam, aug 1886"
+        ]
+      },
+      "height": 2047,
+      "width": 2933,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Oproer aan de Zaterdagse brug te Amsterdam, aug 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/52e9409d-c028-05c4-04cd-c846216eb7a7"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/47/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/47/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/52e9409d-c028-05c4-04cd-c846216eb7a7/iiif/3/57494942/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2047,
+                "width": 2933,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/52e9409d-c028-05c4-04cd-c846216eb7a7/iiif/3/57494942",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/48",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Les Troubles d'Amsterdam"
+        ]
+      },
+      "height": 3508,
+      "width": 2480,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Les Troubles d'Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Prent Palingoproer 26 juli 1886, Lindengracht. Techniek: houtgravure. Uit:  l'Illustration, Journal Universel, van zaterdag 7 augustus 1886."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/9a2d3788-e254-a199-66ef-a99157171d77"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/48/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/48/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9a2d3788-e254-a199-66ef-a99157171d77/iiif/3/57604127/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 3508,
+                "width": 2480,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9a2d3788-e254-a199-66ef-a99157171d77/iiif/3/57604127",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer/p1/canvas/48"
             }
           ]
         }

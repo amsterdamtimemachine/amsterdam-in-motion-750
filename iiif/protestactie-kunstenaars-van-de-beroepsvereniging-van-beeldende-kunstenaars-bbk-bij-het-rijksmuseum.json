@@ -1,0 +1,790 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Protestactie kunstenaars van de Beroepsvereniging van Beeldende Kunstenaars (BBK) bij het Rijksmuseum"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1969-09-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1969-09-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kunst en cultuur, Demonstraties"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/aa16ea44-661d-4c82-b927-b1811b39fcbe, https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/928",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rellen bij Rembrandttentoonstelling"
+        ]
+      },
+      "height": 2196,
+      "width": 2898,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Rellen bij Rembrandttentoonstelling"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Bij de opening van de grote Rembrandttentoonstelling kwam het tot ongeregeldheden tussen de politie en demonstrerende kunstenaars van Bond Beeldende Kunstenaars (BBK)."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/7c83f814-a4d4-3f47-e596-627ec7a02ffb"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/928/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/928/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7c83f814-a4d4-3f47-e596-627ec7a02ffb/iiif/3/18884811/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2196,
+                "width": 2898,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7c83f814-a4d4-3f47-e596-627ec7a02ffb/iiif/3/18884811",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/928"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/929",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aktie van kunstenaars"
+        ]
+      },
+      "height": 2208,
+      "width": 2892,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Aktie van kunstenaars"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "De kunstenaars van de BBK hebben vanmorgen bij de ingang van het Rijksmuseum de bezoekers gestencilde briefen uitgereikt. Zij vertellen hierin hun grieven tegen het kunstenaarsbeleid."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/c82f228b-f053-40f7-42e1-c65d13fec4dd"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/929/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/929/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/c82f228b-f053-40f7-42e1-c65d13fec4dd/iiif/3/18884866/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2208,
+                "width": 2892,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/c82f228b-f053-40f7-42e1-c65d13fec4dd/iiif/3/18884866",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/929"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/930",
+      "type": "Canvas",
+      "label": {},
+      "height": 2416,
+      "width": 3705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Protestaktie van kunstenaars van de BBK bij de opening van Rembrandttentoonstelling Amsterdam: politie te paard verdreef de demonstranten"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab79664e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/930/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/930/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a2/4b/99/70/b9/2e/4b/66/b6/58/10/fd/40/2c/de/09/20033066-cc1d-4853-8188-5bd6af3590e2.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2416,
+                "width": 3705,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a2/4b/99/70/b9/2e/4b/66/b6/58/10/fd/40/2c/de/09/20033066-cc1d-4853-8188-5bd6af3590e2.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/930"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/931",
+      "type": "Canvas",
+      "label": {},
+      "height": 2377,
+      "width": 3711,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Protestaktie van kunstenaars van de BBK bij de opening van Rembrandttentoonstelling Amsterdam: politie te paard verdreef de demonstranten"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab79657c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/931/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/931/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/58/98/72/0a/09/47/e6/bf/e0/34/e4/29/95/b6/69/378c8da0-c5cd-414d-9171-9cd7c9219c38.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2377,
+                "width": 3711,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/58/98/72/0a/09/47/e6/bf/e0/34/e4/29/95/b6/69/378c8da0-c5cd-414d-9171-9cd7c9219c38.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/931"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/932",
+      "type": "Canvas",
+      "label": {},
+      "height": 2410,
+      "width": 3678,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Protestaktie van kunstenaars van de BBK bij de opening van Rembrandttentoonstelling Amsterdam: politie te paard verdreef de demonstranten"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-09-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab7964a0-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/932/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/932/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9e/4c/0d/60/22/44/40/90/b6/73/b9/f4/63/bf/2e/bf/2cd4b56e-31ab-4ee1-920a-be7e9e8ee955.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2410,
+                "width": 3678,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9e/4c/0d/60/22/44/40/90/b6/73/b9/f4/63/bf/2e/bf/2cd4b56e-31ab-4ee1-920a-be7e9e8ee955.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-kunstenaars-van-de-beroepsvereniging-van-beeldende-kunstenaars-bbk-bij-het-rijksmuseum/p1/canvas/932"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Protestactie kunstenaars van de Beroepsvereniging van Beeldende Kunstenaars (BBK) bij het Rijksmuseum",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1969-09-12"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1969-09-12"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/aa16ea44-661d-4c82-b927-b1811b39fcbe",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Kunst en cultuur"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        }
+      ]
+    }
+  ]
+}

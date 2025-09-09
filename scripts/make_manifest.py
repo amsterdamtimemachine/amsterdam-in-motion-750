@@ -314,7 +314,7 @@ if __name__ == "__main__":
     df_protest["classificatie's"] = df_protest["classificatie's"].astype(str)
 
     df_photo = pd.read_excel(
-        "data/Amsterdam in Motion 750 - Data.xlsx", sheet_name="Foto"
+        "data/Amsterdam in Motion 750 - Data.xlsx", sheet_name="Foto_kopie"
     )
 
     df_photo["datum_start"] = df_photo["datum_start"].astype(str)
