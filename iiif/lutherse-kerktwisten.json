@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "nan"
+          "Religie"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "https://digitaalerfgoed.poolparty.biz/atm/5126f69d-64f5-40c9-91a1-f8936ae76350"
         ]
       }
     }
@@ -231,7 +231,16 @@
           "schema:name": ""
         }
       ],
-      "schema:additionalType": []
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/5126f69d-64f5-40c9-91a1-f8936ae76350",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Religie"
+          }
+        }
+      ]
     }
   ]
 }

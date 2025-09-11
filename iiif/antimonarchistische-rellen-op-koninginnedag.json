@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1970-04-30"
+          "1969-04-30"
         ]
       }
     },
@@ -75,7 +75,539 @@
   "summary": {},
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/803",
+      "type": "Canvas",
+      "label": {},
+      "height": 2413,
+      "width": 3684,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Relletjes in Amsterdam op Koninginnedag nr. 10 : jonger hebben een tafel en stoel midden op Rokin gezet, nr. 12 politie op de motor raast op de mensen af /"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab67671e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/803/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/803/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a6/d4/7e/01/fb/9d/42/03/a0/f2/0a/d0/0e/76/3a/ca/da6e65c2-0100-4f08-ac4c-2e4c857779b6.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2413,
+                "width": 3684,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a6/d4/7e/01/fb/9d/42/03/a0/f2/0a/d0/0e/76/3a/ca/da6e65c2-0100-4f08-ac4c-2e4c857779b6.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/804",
+      "type": "Canvas",
+      "label": {},
+      "height": 2393,
+      "width": 3684,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Relletjes in Amsterdam op Koninginnedag nr. 10 : jonger hebben een tafel en stoel midden op Rokin gezet, nr. 12 politie op de motor raast op de mensen af /"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab676656-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/804/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/804/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/38/e6/4e/a6/0e/a2/43/96/8d/96/1c/74/b3/5a/47/21/ce64ea0f-63d1-487a-a187-8f024ad85dfb.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2393,
+                "width": 3684,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/38/e6/4e/a6/0e/a2/43/96/8d/96/1c/74/b3/5a/47/21/ce64ea0f-63d1-487a-a187-8f024ad85dfb.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/804"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/805",
+      "type": "Canvas",
+      "label": {},
+      "height": 2413,
+      "width": 3420,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Relletjes in Amsterdam op Koninginnedag nr. 10 : jonger hebben een tafel en stoel midden op Rokin gezet, nr. 12 politie op de motor raast op de mensen af /"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab67658e-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/805/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/805/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/6f/0a/c7/2d/84/29/4f/59/98/e2/2b/0c/10/9f/e8/7e/0275a114-166e-4182-a6ee-035ebb8e12ad.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2413,
+                "width": 3420,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/6f/0a/c7/2d/84/29/4f/59/98/e2/2b/0c/10/9f/e8/7e/0275a114-166e-4182-a6ee-035ebb8e12ad.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/806",
+      "type": "Canvas",
+      "label": {},
+      "height": 2413,
+      "width": 3684,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Relletjes in Amsterdam op Koninginnedag nr. 10 : jongeren hebben een tafel en stoel midden op Rokin gezet, nr. 12 politie op de motor raast op de mensen"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1969-04-30"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Koch, Eric / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/ab675e7c-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/806/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/806/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/48/11/14/b3/a3/5b/4f/5b/8d/ca/7c/2a/22/3d/68/fd/7b6e9c82-3569-4c8c-8903-4fef8cf04307.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2413,
+                "width": 3684,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/48/11/14/b3/a3/5b/4f/5b/8d/ca/7c/2a/22/3d/68/fd/7b6e9c82-3569-4c8c-8903-4fef8cf04307.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/806"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1074",
       "type": "Canvas",
       "label": {},
       "height": 2419,
@@ -180,11 +712,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1074/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1074/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -201,14 +733,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1074"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1075",
       "type": "Canvas",
       "label": {},
       "height": 2443,
@@ -313,11 +845,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1075/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1075/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -334,14 +866,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1075"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1080",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1076",
       "type": "Canvas",
       "label": {},
       "height": 2443,
@@ -446,11 +978,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1080/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1076/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1080/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1076/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -467,14 +999,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1080"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1076"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1081",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1077",
       "type": "Canvas",
       "label": {},
       "height": 2443,
@@ -579,11 +1111,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1081/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1077/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1081/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1077/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -600,14 +1132,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1081"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1077"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1082",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078",
       "type": "Canvas",
       "label": {},
       "height": 2443,
@@ -712,11 +1244,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1082/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1082/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -733,14 +1265,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1082"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1078"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1083",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079",
       "type": "Canvas",
       "label": {},
       "height": 2443,
@@ -845,11 +1377,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1083/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1083/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -866,7 +1398,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1083"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/antimonarchistische-rellen-op-koninginnedag/p1/canvas/1079"
             }
           ]
         }
@@ -880,7 +1412,7 @@
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "1970-04-30"
+        "@value": "1969-04-30"
       },
       "schema:endDate": {
         "@type": "xsd:date",

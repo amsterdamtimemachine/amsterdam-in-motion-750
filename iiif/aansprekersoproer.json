@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1696-01-31"
+          "1696-01-30"
         ]
       }
     },
@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "1848-12-31"
+          "1696-02-01"
         ]
       }
     },
@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam"
         ]
       }
     },
@@ -254,7 +254,7 @@
           },
           "value": {
             "nl": [
-              "1844-01-01"
+              "1696-01-30"
             ]
           }
         },
@@ -266,7 +266,7 @@
           },
           "value": {
             "nl": [
-              "1848-12-31"
+              "1696-01-31"
             ]
           }
         },
@@ -356,16 +356,16 @@
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "1696-01-31"
+        "@value": "1696-01-30"
       },
       "schema:endDate": {
         "@type": "xsd:date",
-        "@value": "1848-12-31"
+        "@value": "1696-02-01"
       },
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [

@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "nl": [
-      "Bezetting van Nijmegen"
+      "Betoging tegen bezetting van Nijmegen"
     ]
   },
   "metadata": [
@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "00:00:00"
+          "1760-01-01"
         ]
       }
     },
@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "00:00:00"
+          "1816-12-31"
         ]
       }
     },
@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "nan"
+          "Oproeren"
         ]
       }
     },
@@ -67,25 +67,163 @@
       },
       "value": {
         "nl": [
-          ""
+          "https://digitaalerfgoed.poolparty.biz/atm/3c4ae90b-a1be-45f5-b869-41362c8579ad"
         ]
       }
     }
   ],
   "summary": {},
-  "items": [],
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-van-nijmegen/p1/canvas/24",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amsteldamsche burgers ter bezetting van Nijmegen uitgetrokken"
+        ]
+      },
+      "height": 1462,
+      "width": 925,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Amsteldamsche burgers ter bezetting van Nijmegen uitgetrokken"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Uit: Fokke, Geschiedenis van Amsterdam, dl.II, pl. 4. Afmetingen: 81x54 mm."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1760-01-01"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1816-12-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/2165aedd-ec47-e9b4-273b-7935ae763737"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-van-nijmegen/p1/canvas/24/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-van-nijmegen/p1/canvas/24/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2165aedd-ec47-e9b4-273b-7935ae763737/iiif/3/57425861/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1462,
+                "width": 925,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2165aedd-ec47-e9b4-273b-7935ae763737/iiif/3/57425861",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-van-nijmegen/p1/canvas/24"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "seeAlso": [
     {
       "@type": "schema:Event",
-      "schema:name": "Bezetting van Nijmegen",
+      "schema:name": "Betoging tegen bezetting van Nijmegen",
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "00:00:00"
+        "@value": "1760-01-01"
       },
       "schema:endDate": {
         "@type": "xsd:date",
-        "@value": "00:00:00"
+        "@value": "1816-12-31"
       },
       "schema:location": [
         {
@@ -93,7 +231,16 @@
           "schema:name": ""
         }
       ],
-      "schema:additionalType": []
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/3c4ae90b-a1be-45f5-b869-41362c8579ad",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Oproeren"
+          }
+        }
+      ]
     }
   ]
 }

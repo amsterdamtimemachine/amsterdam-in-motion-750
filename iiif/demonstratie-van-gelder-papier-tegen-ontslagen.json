@@ -1,0 +1,2023 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Demonstratie van Gelder papier tegen ontslagen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-11-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-11-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Demonstraties, Arbeid"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2533",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/db329253-d415-b1b4-6cb3-55ba11f5c4e3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2533/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2533/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1b7e3011-163b-7ced-7e89-0f4d2584356e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1b7e3011-163b-7ced-7e89-0f4d2584356e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2533"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2534",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/365e52b9-5a05-84a1-5b6c-04a8c0b74876"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2534/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2534/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/76c45793-c9ba-6d5c-aad5-a2c9068a5569/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/76c45793-c9ba-6d5c-aad5-a2c9068a5569",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2534"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2535",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/361f6c0a-aefd-08de-05bf-c05ff4a8e995"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2535/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2535/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4076a4f0-433e-c1ae-d12b-1a933b784a79/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4076a4f0-433e-c1ae-d12b-1a933b784a79",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2535"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2536",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/72447c79-2134-252b-7989-3857cb21a77d"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2536/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2536/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7e9e76ca-9cb4-a922-7249-6903ebba3202/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7e9e76ca-9cb4-a922-7249-6903ebba3202",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2536"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2537",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/0682f5e8-813c-57b3-1be9-986f7ae6e201"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2537/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2537/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f23725b3-2f94-94b8-d899-31e0aec88f16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f23725b3-2f94-94b8-d899-31e0aec88f16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2537"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2538",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/14aee042-fabf-b605-e078-eee43f7ca3d6"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2538/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2538/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0ebe67fd-619e-e5b4-66dd-1c8b57ee2fcb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0ebe67fd-619e-e5b4-66dd-1c8b57ee2fcb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2538"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2539",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/188da83b-ea20-6bde-34f8-dcb999cf1b39"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2539/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2539/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90bdd35f-8649-00ab-5272-4de33bf0c7d1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90bdd35f-8649-00ab-5272-4de33bf0c7d1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2539"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2540",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/63cf7208-933f-da8b-fbbe-8773059a18e8"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2540/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2540/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/22a44e44-f89f-5514-d7eb-45ddf2a49fc1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/22a44e44-f89f-5514-d7eb-45ddf2a49fc1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2540"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2541",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/92c67c61-7b9c-6338-bdf8-cb8afbad6196"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2541/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2541/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd907566-626e-fba9-3a5e-575ec871eaa2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd907566-626e-fba9-3a5e-575ec871eaa2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2541"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2542",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/9b7e5695-96a3-fb48-9be7-97884fcc7865"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2542/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2542/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/872d41a2-7b23-0263-54e2-2b5f7ef34503/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/872d41a2-7b23-0263-54e2-2b5f7ef34503",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2542"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2543",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demonstratie van Gelder papier in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie van Gelder papier in Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Fotopersbureau De Boer, Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Noord-Hollands Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://hdl.handle.net/21.12102/c6fe68a5-047b-79eb-3904-430b194c326a"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2543/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2543/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/91ea1564-b8d6-a1fa-aae1-0d114a9c6641/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/91ea1564-b8d6-a1fa-aae1-0d114a9c6641",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2543"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2544",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3682,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstrant steekt kale kip in de lucht"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Dijk, Hans van / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/acd413b8-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2544/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2544/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/6c/d3/cd/62/bf/2a/49/97/be/06/50/30/9f/3e/9a/e8/bef7a003-efd7-42c4-9f87-19cb717f2f78.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3682,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/6c/d3/cd/62/bf/2a/49/97/be/06/50/30/9f/3e/9a/e8/bef7a003-efd7-42c4-9f87-19cb717f2f78.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2544"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2545",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3682,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Demonstratie bij het hoofdkantoor van van Gelder met spandoeken, o.a.: \\\"Met 1000 man sterk vechten wij voor werk\\\", \\\"Wormer moet blijven\\\", \\\"VPG in het land vecht voor werk hand in hand\\\", \\\"Wij maken ons sterk voor het behoud van werk\\\", \\\"[...] doet het slecht en wij worden berecht\\\" en \\\"Nu investeren\\\""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Dijk, Hans van / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/acd412b4-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2545/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2545/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/92/af/0e/4e/c8/7b/4c/99/98/a2/e7/60/89/4a/4e/77/b3e68021-2ef8-47e5-9097-d0681816fbef.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3682,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/92/af/0e/4e/c8/7b/4c/99/98/a2/e7/60/89/4a/4e/77/b3e68021-2ef8-47e5-9097-d0681816fbef.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2545"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2546",
+      "type": "Canvas",
+      "label": {},
+      "height": 2448,
+      "width": 3682,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Optocht van demonstrerende werknemers met spandoeken waarop o.a.: \\\"VPG in het land - vecht voor werk hand in hand\\\" en \\\"Met 2000 man sterk vechten wij voor werk\\\""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1979-11-02"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Dijk, Hans van / Anefo"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "http://hdl.handle.net/10648/acd41192-d0b4-102d-bcf8-003048976d84"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2546/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2546/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/05/95/bb/37/5a/62/4a/bf/86/f7/78/54/a6/3e/09/fd/f3435bdb-0dd7-440b-b77e-153365f731f3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2448,
+                "width": 3682,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/05/95/bb/37/5a/62/4a/bf/86/f7/78/54/a6/3e/09/fd/f3435bdb-0dd7-440b-b77e-153365f731f3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-van-gelder-papier-tegen-ontslagen/p1/canvas/2546"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Demonstratie van Gelder papier tegen ontslagen",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1979-11-02"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1979-11-02"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": ""
+        }
+      ],
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Arbeid"
+          }
+        }
+      ]
+    }
+  ]
+}

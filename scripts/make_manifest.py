@@ -163,9 +163,15 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                         "nl": [
                             ", ".join(
                                 [
-                                    classification_label2concept[i.strip()]["@id"]
-                                    for i in protest_row["classificatie's"].split(", ")
-                                    if i in classification_label2concept
+                                    str(classification_label2concept[i.strip()]["@id"])
+                                    for i in str(protest_row["classificatie's"]).split(
+                                        ", "
+                                    )
+                                    if i.strip() in classification_label2concept
+                                    and isinstance(
+                                        classification_label2concept[i.strip()]["@id"],
+                                        str,
+                                    )
                                 ]
                             )
                         ]
