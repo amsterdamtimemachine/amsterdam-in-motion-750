@@ -3,6 +3,8 @@ from datetime import datetime, timezone
 import pandas as pd
 import iiif_prezi3
 
+import time
+
 iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = "nl"
 iiif_prezi3.load_bundled_extensions()
 
@@ -26,6 +28,8 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
 
     classification_label2concept = dict()
     for _, row in df_classification.iterrows():
+        if pd.isna(row["uri"]):
+            continue
         classification_label2concept[row["prefLabel"]] = {
             "@id": row["uri"],
             "@type": "skos:Concept",
@@ -89,12 +93,22 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                     ),
                 }
             ],
-            "schema:additionalType": [
-                classification_label2concept.get(i.strip())
-                for i in protest_row["classificatie's"].split(", ")
-                if i in classification_label2concept
-            ],
+            "schema:additionalType": [],
         }
+
+        classifications_names = []
+        classifications_uris = []
+        if pd.notna(protest_row["classificatie's"]):
+            for classification in protest_row["classificatie's"].split(", "):
+                if classification in classification_label2concept:
+                    protest_sdo["schema:additionalType"].append(
+                        classification_label2concept[classification]
+                    )
+
+                    classifications_names.append(classification)
+                    classifications_uris.append(
+                        classification_label2concept[classification]["@id"]
+                    )
 
         manifest = iiif_prezi3.Manifest(
             id=manifest_uri,
@@ -147,35 +161,11 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                 ),
                 iiif_prezi3.KeyValueString(
                     label={"nl": ["Classificatie's"]},
-                    value={
-                        "nl": [
-                            (
-                                protest_row["classificatie's"]
-                                if pd.notna(protest_row["classificatie's"])
-                                else ""
-                            )
-                        ]
-                    },
+                    value={"nl": [", ".join(classifications_names)]},
                 ),
                 iiif_prezi3.KeyValueString(
                     label={"nl": ["Classificatie's (URI)"]},
-                    value={
-                        "nl": [
-                            ", ".join(
-                                [
-                                    str(classification_label2concept[i.strip()]["@id"])
-                                    for i in str(protest_row["classificatie's"]).split(
-                                        ", "
-                                    )
-                                    if i.strip() in classification_label2concept
-                                    and isinstance(
-                                        classification_label2concept[i.strip()]["@id"],
-                                        str,
-                                    )
-                                ]
-                            )
-                        ]
-                    },
+                    value={"nl": [", ".join(classifications_uris)]},
                 ),
             ],
         )
@@ -188,7 +178,9 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
             if pd.isna(photo_row["iiif_info_json"]):
                 continue
 
-            canvas_id = f"{URI_PREFIX}{slug}/p1/canvas/{i+1}"
+            canvas_id = f"{manifest_uri}/p1/canvas/{i+1}"
+
+            time.sleep(1)
 
             manifest.make_canvas_from_iiif(
                 url=photo_row["iiif_info_json"],
@@ -316,8 +308,6 @@ if __name__ == "__main__":
     # parse datum_start and datum_eind as string
     df_protest["datum_start"] = df_protest["datum_start"].astype(str)
     df_protest["datum_eind"] = df_protest["datum_eind"].astype(str)
-
-    df_protest["classificatie's"] = df_protest["classificatie's"].astype(str)
 
     df_photo = pd.read_excel(
         "data/Amsterdam in Motion 750 - Data.xlsx", sheet_name="Foto_kopie"

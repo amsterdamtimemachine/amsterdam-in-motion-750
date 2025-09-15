@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Bezettingen, Huisvesting, Publieke voorzieningen, Mobiliteit"
+          "Bezettingen, Huisvesting, Publieke voorzieningen"
         ]
       }
     },
@@ -75,7 +75,7 @@
   "summary": {},
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1910",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1910",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -184,11 +184,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1910/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1910/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1910/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1910/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -205,14 +205,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1910"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1910"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1911",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1911",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -321,11 +321,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1911/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1911/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1911/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1911/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -342,7 +342,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro/p1/canvas/1911"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-panden-tegen-sloop-aanleg-metro.json/p1/canvas/1911"
             }
           ]
         }
@@ -391,14 +391,6 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Publieke voorzieningen"
-          }
-        },
-        {
-          "@id": NaN,
-          "@type": "skos:Concept",
-          "skos:prefLabel": {
-            "@language": "nl",
-            "@value": "Mobiliteit"
           }
         }
       ]
