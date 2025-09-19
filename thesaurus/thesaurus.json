@@ -1,0 +1,887 @@
+{
+    "@context": {
+        "@vocab": "http://www.w3.org/2004/02/skos/core#",
+        "broadMatch": {
+            "@type": "@id"
+        },
+        "broader": {
+            "@type": "@id"
+        },
+        "broaderTransitive": {
+            "@type": "@id"
+        },
+        "closeMatch": {
+            "@type": "@id"
+        },
+        "exactMatch": {
+            "@type": "@id"
+        },
+        "hasTopConcept": {
+            "@type": "@id"
+        },
+        "inScheme": {
+            "@type": "@id"
+        },
+        "mappingRelation": {
+            "@type": "@id"
+        },
+        "member": {
+            "@type": "@id"
+        },
+        "memberList": {
+            "@type": "@id"
+        },
+        "narrowMatch": {
+            "@type": "@id"
+        },
+        "narrower": {
+            "@type": "@id"
+        },
+        "narrowerTransitive": {
+            "@type": "@id"
+        },
+        "related": {
+            "@type": "@id"
+        },
+        "relatedMatch": {
+            "@type": "@id"
+        },
+        "semanticRelation": {
+            "@type": "@id"
+        },
+        "topConceptOf": {
+            "@type": "@id"
+        }
+    },
+    "@graph": [
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/01dcf7a4-6071-46dc-9501-9176f74788af",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Bij een blokkade verhinderen mensen dat goederen of personen een plek kunnen bereiken of verlaten. Denk aan het versperren van een weg of haven. Het doel is om organisaties of de overheid te dwingen tot verandering of aandacht te vragen voor een probleem. Blokkades zijn vaak spectaculair zichtbaar en verstoren bewust de normale gang van zaken."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Blokkades"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://dictionary.cambridge.org/dictionary/english/blockade"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/08f07179-519a-47c2-8f76-3938ac63e53f",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Mobiliteit"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/283f1223-efa6-448e-becb-db6e759a394b",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Vrouwenrechten"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Women's rights"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "@type": "Concept",
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+                "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1",
+                "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+                "https://digitaalerfgoed.poolparty.biz/atm/3c4ae90b-a1be-45f5-b869-41362c8579ad",
+                "https://digitaalerfgoed.poolparty.biz/atm/47cd692b-49fd-42a8-a5c7-f0e7d90ae2f3",
+                "https://digitaalerfgoed.poolparty.biz/atm/5f50829d-d103-4e65-95f3-337e9466af61",
+                "https://digitaalerfgoed.poolparty.biz/atm/01dcf7a4-6071-46dc-9501-9176f74788af",
+                "https://digitaalerfgoed.poolparty.biz/atm/b5b7aa62-2b75-404a-bace-d4453963d5c3"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Protestsoorten"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Protest types"
+                }
+            ],
+            "topConceptOf": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175"
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "@type": "ConceptScheme",
+            "http://purl.org/dc/terms/publisher": {
+                "@id": "https://digitaalerfgoed.poolparty.biz/user/f3b23338-9484-4dd0-8962-f689a423c47c"
+            },
+            "http://purl.org/dc/terms/title": [
+                {
+                    "@language": "nl",
+                    "@value": "Protestthesaurus"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Protest Thesaurus"
+                }
+            ],
+            "http://semantic-web.at/ontologies/csw.owl#hierarchyRoot": {
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+                "@value": "true"
+            },
+            "http://semantic-web.at/ontologies/csw.owl#hierarchyRootType": {
+                "@id": "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+            },
+            "hasTopConcept": [
+                "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+                "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b"
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/3b1e9f31-cd3d-4b28-8014-7d0c81683e85",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/541e25a0-d1f4-4f1d-a897-4e7df6d9bc5e",
+                "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f"
+            ],
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Racisme"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Racism"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/3c4ae90b-a1be-45f5-b869-41362c8579ad",
+            "@type": "Concept",
+            "altLabel": {
+                "@language": "nl",
+                "@value": "Revoltes"
+            },
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Een oproer is een lokale opstand waarbij groepen mensen zich verzetten tegen het gezag. Vaak gaat dit gepaard met verstoring van de openbare orde en verzet tegen politie of overheid. Het verschilt van een vreedzaam protest doordat het sneller escaleert in confrontaties en chaos. Oproeren ontstaan vaak uit woede over sociale ongelijkheid of politieke beslissingen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": "https://digitaalerfgoed.poolparty.biz/atm/6cc7d868-3702-4744-a5c1-b8d96afc42f5",
+            "prefLabel": [
+                {
+                    "@language": "en",
+                    "@value": "Insurrections"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Oproeren"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bronnen definitie: https://nl.wikipedia.org/wiki/Opstand en https://www.vandale.nl/pages/gratis-woordenboek/opstand"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+            "@type": "Concept",
+            "altLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Betogingen"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Demo's"
+                }
+            ],
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Een demonstratie is een openbare bijeenkomst van twee of meer mensen om hun mening te uiten. Vaak gebruiken zij hierbij spandoeken, protestborden en bij grote demonstraties een podium voor sprekers. Demonstraties kunnen vreedzaam zijn, maar soms ook spanning oproepen. Ze zijn een belangrijk democratisch recht en worden wereldwijd gebruikt om onderwerpen als klimaat, mensenrechten of onderwijs op de agenda te zetten."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Demonstraties"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Demonstrations"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://www.amnesty.nl/wat-we-doen/demonstratierecht-in-nederland/wat-is-geen-demonstratie"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+                "https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d"
+            ],
+            "definition": {
+                "@language": "nl",
+                "@value": "Onderwijsprotesten richten zich op kwesties zoals bezuinigingen, hoge collegegelden, werkdruk of ongelijke behandeling tussen mbo, hbo en universiteit. Ook in het verleden kwamen er acties tegen schoolsluitingen of bepaalde onderwijsvormen. Protest kan worden gevoerd door leerlingen, studenten, docenten of ouders. De kern is steeds het streven naar goed, toegankelijk en eerlijk onderwijs."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/4f0649ea-53ab-47d3-b881-a9f1da6526a3",
+                "https://digitaalerfgoed.poolparty.biz/atm/55ce475b-71bd-446a-a276-068743897edd"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Onderwijs"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Education"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Studentenbeweging"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/470168bf-f873-458c-9d73-e83d527062c2",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d",
+                "https://digitaalerfgoed.poolparty.biz/atm/6cc7d868-3702-4744-a5c1-b8d96afc42f5"
+            ],
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Krakersrellen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Squatters' riots"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/47cd692b-49fd-42a8-a5c7-f0e7d90ae2f3",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Een protestmars is een optocht waarbij mensen lopend laten zien dat ze ergens tegen zijn. Door zichtbaar de straat op te gaan, vergroten deelnemers de aandacht voor hun zaak. Protestmarsen variëren van kleine lokale acties tot wereldwijde demonstraties, zoals de klimaatmarsen. Het is een eeuwenoude, vaak vreedzame vorm van protest."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Protestmarsen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Protest marches"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bronnen definitie: https://nl.wiktionary.org/wiki/protestmars en https://en.wikipedia.org/wiki/Category:Protest_marches"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/4f0649ea-53ab-47d3-b881-a9f1da6526a3",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f",
+                "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24"
+            ],
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Schoolstakingen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "School strikes"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/5126f69d-64f5-40c9-91a1-f8936ae76350",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Religieuze protesten ontstaan uit geloofsovertuiging of verzet tegen religieuze veranderingen. Voorbeelden zijn anti-abortusacties vanuit christelijke overtuigingen, of protest tegen ontkerkelijking. Religie speelt vaak een krachtige rol in mobilisatie, omdat het mensen verbindt via gedeelde waarden en rituelen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Religie"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Religion"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://research.vu.nl/en/publications/sacred-protest-religion-power-and-resistance-in-an-era-of-upheava"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/541e25a0-d1f4-4f1d-a897-4e7df6d9bc5e",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/3b1e9f31-cd3d-4b28-8014-7d0c81683e85",
+                "https://digitaalerfgoed.poolparty.biz/atm/725fe074-f2e7-4374-9c0f-1870363ae015"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Discriminatie"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Discrimination"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/55ce475b-71bd-446a-a276-068743897edd",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd",
+                "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f"
+            ],
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Bezuinigingen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Budget cuts"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/5f50829d-d103-4e65-95f3-337e9466af61",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Een sit-in is een geweldloze actie waarbij mensen ergens gaan zitten en weigeren op te staan. Zo blokkeren ze ingangen of wegen, of trekken aandacht naar een zaak. Sit-ins werden beroemd tijdens de Amerikaanse burgerrechtenbeweging, maar worden nog steeds gebruikt, bijvoorbeeld bij klimaatprotesten. De kracht zit in de eenvoud en de zichtbaarheid."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Sit-ins"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Sit-ins"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Sit-in"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Mensenrechtenactivisten komen op voor fundamentele vrijheden zoals gelijkheid, recht op leven en vrijheid van meningsuiting. Protesten richten zich vaak tegen racisme, discriminatie of onderdrukking. Bekende voorbeelden zijn anti-apartheidsacties, vrouwenrechtenmarsen en antiracismeprotesten. Deze bewegingen zijn meestal geweldloos en gebaseerd op de Universele Verklaring van de Rechten van de Mens."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/283f1223-efa6-448e-becb-db6e759a394b",
+                "https://digitaalerfgoed.poolparty.biz/atm/541e25a0-d1f4-4f1d-a897-4e7df6d9bc5e",
+                "https://digitaalerfgoed.poolparty.biz/atm/3b1e9f31-cd3d-4b28-8014-7d0c81683e85"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Mensenrechten"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Human rights"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://www.amnesty-international.be/wat-we-doen/mensenrechten"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Bij een staking leggen werknemers tijdelijk hun werk neer om betere omstandigheden of politieke veranderingen af te dwingen. Het is een krachtig middel, omdat een bedrijf of sector daardoor stilvalt. Stakingen kunnen kort of langdurig zijn en komen voor in uiteenlopende sectoren, zoals havens, onderwijs of zorg. Het is een klassieke en veelgebruikte protestvorm."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/82e6ece5-2c69-434f-a388-3502ca8541d4",
+                "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592",
+                "https://digitaalerfgoed.poolparty.biz/atm/4f0649ea-53ab-47d3-b881-a9f1da6526a3"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Stakingen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Strikes"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Staking"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/6b394ffd-add6-4003-889c-eeb334014951",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Dierenrechtenactivisme draait om betere bescherming van dieren. Activisten verzetten zich tegen praktijken als de bio-industrie, bontproductie of dierproeven. Hoewel dieren geen grondrechten hebben zoals mensen, zijn er wel wetten tegen mishandeling. Protesten vragen aandacht voor dieren als voelende wezens die bescherming en respect verdienen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Dierenrechten"
+            },
+            "relatedMatch": "http://data.beeldengeluid.nl/gtaa/215614",
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bronnen definitie: https://nl.wikipedia.org/wiki/Dierenrechten en https://www.amnesty.nl/encyclopedie/dierenrechten-en-mensenrechten#:~:text=Dieren%20hebben%20geen%20grondrechten%2C%20zoals,dierenrechten%20is%20aan%20het%20verschuiven."
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/6cc7d868-3702-4744-a5c1-b8d96afc42f5",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/3c4ae90b-a1be-45f5-b869-41362c8579ad",
+            "definition": {
+                "@language": "nl",
+                "@value": "Rellen zijn grootschalige verstoringen van de openbare orde waarbij groepen mensen in conflict raken met autoriteiten, gebouwen of eigendommen. Dit kan leiden tot geweld, vernieling of plundering. Rellen ontstaan vaak na oplopende spanningen in de samenleving, bijvoorbeeld rond sociale of politieke kwesties. Ze verschillen daarmee duidelijk van vreedzame protestvormen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": "https://digitaalerfgoed.poolparty.biz/atm/470168bf-f873-458c-9d73-e83d527062c2",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Rellen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "riots"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Rel"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/725fe074-f2e7-4374-9c0f-1870363ae015",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/541e25a0-d1f4-4f1d-a897-4e7df6d9bc5e",
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "LHBTQIA+ protesten"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2",
+            "definition": {
+                "@language": "nl",
+                "@value": "Politiek activisme met betrekking tot buitenlandse politiek heeft twee kanten. Enerzijds kan het gericht zijn op het veranderen van de politieke banden tussen Nederland en andere landen, zoals het verbreken van handelsovereenkomsten. Anderzijds kan het bedoeld zijn om onvrede over de politieke situatie (zoals oorlog) in een ander land te uiten en zo druk uit te oefenen op zowel de binnenlandse als buitenlandse politiek die deze situatie in stand houdt."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": "https://digitaalerfgoed.poolparty.biz/atm/928b69ed-efee-44d0-be31-8f7eca58f693",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Buitenlandse politiek"
+            },
+            "related": "https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3"
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "@type": "Concept",
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff",
+                "https://digitaalerfgoed.poolparty.biz/atm/a3c22faf-7d0a-4476-b6fc-1969d56481a3",
+                "https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2",
+                "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+                "https://digitaalerfgoed.poolparty.biz/atm/928b69ed-efee-44d0-be31-8f7eca58f693",
+                "https://digitaalerfgoed.poolparty.biz/atm/6b394ffd-add6-4003-889c-eeb334014951",
+                "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f",
+                "https://digitaalerfgoed.poolparty.biz/atm/5126f69d-64f5-40c9-91a1-f8936ae76350",
+                "https://digitaalerfgoed.poolparty.biz/atm/aa16ea44-661d-4c82-b927-b1811b39fcbe",
+                "https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd",
+                "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344",
+                "https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d",
+                "https://digitaalerfgoed.poolparty.biz/atm/08f07179-519a-47c2-8f76-3938ac63e53f"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "en",
+                    "@value": "Protest themes"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Protestthema's"
+                }
+            ],
+            "topConceptOf": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175"
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+                "https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3"
+            ],
+            "definition": {
+                "@language": "nl",
+                "@value": "Publieke voorzieningen zijn diensten die door de overheid worden aangeboden of betaald, zoals zorg, onderwijs, openbaar vervoer, parken en bibliotheken. Protest rondom publieke voorzieningen ontstaat vaak wanneer er wordt bezuinigd of een voorziening dreigt te verdwijnen. Mensen komen dan op voor het behoud van scholen, ziekenhuizen of buslijnen. Soms gaat het juist om de noodzaak van nieuwe voorzieningen die de leefbaarheid en gelijkheid in de samenleving vergroten."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/450b0fa5-cb70-423f-93c4-7d36f1b9a56f",
+                "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344"
+            ],
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Publieke voorzieningen"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bronnen: https://digitaal.scp.nl/publiekvoorzien/samenvatting/ en"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/82e6ece5-2c69-434f-a388-3502ca8541d4",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+                "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff"
+            ],
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Huurstakingen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Rent strikes"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/928b69ed-efee-44d0-be31-8f7eca58f693",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+                "https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135"
+            ],
+            "definition": {
+                "@language": "nl",
+                "@value": "Vredesbewegingen verzetten zich tegen oorlogen en militair geweld. Zij streven naar ontwapening en internationale samenwerking. Bekende voorbeelden zijn de anti-kernwapenmarsen in Nederland in de jaren ’70 en ’80. Protesten kunnen kleinschalig of internationaal van aard zijn, maar hebben vaak als doel geweldloosheid en wereldvrede te bevorderen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Oorlog en vrede"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Vredesbeweging"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+                "https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d"
+            ],
+            "definition": {
+                "@language": "nl",
+                "@value": "Zorgprotesten draaien om toegankelijkheid, kwaliteit en beloning in de gezondheidszorg. Medewerkers voeren actie tegen lage salarissen, hoge werkdruk of sluiting van ziekenhuizen. Patiëntenorganisaties protesteren soms tegen bezuinigingen of wachtlijsten. Zorg is een essentieel maatschappelijk thema en daarom regelmatig onderwerp van grootschalige acties."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Zorg"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://www.fnv.nl/cao-sector/zorg-welzijn"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/a3c22faf-7d0a-4476-b6fc-1969d56481a3",
+            "@type": "Concept",
+            "altLabel": {
+                "@language": "nl",
+                "@value": "Klimaatactivisme"
+            },
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Klimaatactivisme wil de gevolgen van door mensen veroorzaakte klimaatverandering beperken. Acties richten zich op bescherming van natuur, verduurzaming en vermindering van uitstoot. Protesten variëren van spandoeken tot spectaculaire blokkades. Bekende voorbeelden zijn de Fridays for Future-beweging en acties tegen ontbossing. Klimaatprotesten benadrukken de urgentie van mondiale samenwerking."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Klimaat"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Milieuactivisme"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/aa16ea44-661d-4c82-b927-b1811b39fcbe",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Protest binnen kunst en cultuur gaat vaak over de positie van kunstenaars, bezuinigingen of de rol van kunst in de samenleving. Kunst kan zelf ook een middel zijn om onvrede te uiten. Voorbeelden zijn de bezettingen van musea in Amsterdam of artistieke performances die politiek commentaar leveren."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Kunst- en cultuur"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://en.wikipedia.org/wiki/Cultural_activism"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/b5b7aa62-2b75-404a-bace-d4453963d5c3",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Een boycot is het bewust verbreken of vermijden van contacten met een bedrijf, organisatie, product of land. Dat kan bijvoorbeeld door geen producten te kopen, geen evenementen bij te wonen of ergens niet aan deel te nemen. Het doel is om druk uit te oefenen en verandering af te dwingen, vaak op een vreedzame en brede manier."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "en",
+                    "@value": "Boycotts"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Boycots"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Boycot"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/319f5e3b-0d23-45d4-895b-4d97fc328f00",
+            "definition": {
+                "@language": "nl",
+                "@value": "Bij een bezetting nemen mensen een gebouw of terrein in en weigeren weg te gaan. Daarmee proberen ze hun boodschap kracht bij te zetten of een situatie te veranderen. Bezettingen kunnen kort duren, maar soms ontstaan langdurige acties waarbij de plek geheel of gedeeltelijk wordt gebruikt als actiekamp. Het doel is altijd om zichtbaar druk uit te oefenen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Bezettingen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Occupations"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Bezetting_(actiemiddel)"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Wonen is een sociaal grondrecht in Nederland, maar door woningtekorten en hoge prijzen staat dit recht onder druk. Huisvestingsprotesten vragen aandacht voor betaalbare en veilige woningen. Acties variëren van woonmarsen tot kraken van leegstaande panden. Ze laten zien dat huisvesting niet alleen een individueel, maar vooral een maatschappelijk probleem is."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/82e6ece5-2c69-434f-a388-3502ca8541d4",
+                "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d"
+            ],
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Huisvesting"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://www.sg.uu.nl/artikelen/2024/02/de-wooncrisis-een-crisis-over-ongelijkheid"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24",
+                "https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
+            ],
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Werkstakingen"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Work strikes"
+                }
+            ]
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Arbeidsprotesten richten zich op kwesties als loon, arbeidsomstandigheden of reorganisaties. Werknemers leggen bijvoorbeeld het werk neer of voeren actie tegen ontslagen. Historisch gezien hebben stakingen en protesten bijgedragen aan belangrijke rechten, zoals de achturige werkdag. Ook nu spelen arbeidsconflicten een grote rol in maatschappelijke discussies."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592",
+                "https://digitaalerfgoed.poolparty.biz/atm/55ce475b-71bd-446a-a276-068743897edd"
+            ],
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Arbeid"
+            },
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bronnen definitie: https://nl.wikipedia.org/wiki/Algemene_staking en https://www.marxists.org/nederlands/pieterson/1973/1973vakbeweging.htm"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/f0ebdf47-291f-4410-8daa-a9a87fac304d",
+            "@type": "Concept",
+            "broader": [
+                "https://digitaalerfgoed.poolparty.biz/atm/d12bf921-8507-42ca-ada9-b96c17f275ff",
+                "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1"
+            ],
+            "definition": {
+                "@language": "nl",
+                "@value": "Kraken is het zonder toestemming in gebruik nemen van een leegstaand gebouw of terrein. Het gebeurt vaak uit protest tegen woningnood of speculatie met vastgoed. Kraken is dus zowel een praktische oplossing voor huisvesting als een politieke actie. Hoewel het in Nederland sinds 2010 verboden is, blijft het symbool staan voor verzet tegen leegstand en woningtekorten."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": "https://digitaalerfgoed.poolparty.biz/atm/470168bf-f873-458c-9d73-e83d527062c2",
+            "prefLabel": [
+                {
+                    "@language": "nl",
+                    "@value": "Kraken"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Squatting"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Kraken_(onroerend_goed)"
+            }
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2",
+            "definition": {
+                "@language": "nl",
+                "@value": "Politiek activisme met betrekking tot binnenlandse politiek is gericht op verandering van beleid of bestuur in eigen land, buiten het parlement om. Acties richten zich bijvoorbeeld tegen sociaal-economisch beleid, corruptie, verkiezingsfraude of extremistische regeringen. Hoewel veel protestthema’s politiek zijn, draait dit specifiek om politieke macht en besluitvorming. Het kan gaan van lokale acties tot massale bewegingen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": "https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d",
+            "prefLabel": {
+                "@language": "nl",
+                "@value": "Binnenlandse politiek"
+            },
+            "related": "https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135"
+        },
+        {
+            "@id": "https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2",
+            "@type": "Concept",
+            "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
+            "definition": {
+                "@language": "nl",
+                "@value": "Politiek activisme is gericht op verandering van beleid of bestuur buiten het parlement om. Acties richten zich bijvoorbeeld tegen corruptie, verkiezingsfraude of extremistische regeringen. Hoewel veel protestthema’s politiek zijn, draait dit specifiek om politieke macht en besluitvorming. Het kan gaan van lokale acties tot massale bewegingen."
+            },
+            "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+            "narrower": [
+                "https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3",
+                "https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135"
+            ],
+            "prefLabel": [
+                {
+                    "@language": "en",
+                    "@value": "Politics"
+                },
+                {
+                    "@language": "nl",
+                    "@value": "Politiek"
+                }
+            ],
+            "scopeNote": {
+                "@language": "nl",
+                "@value": "Bron definitie: https://nl.wikipedia.org/wiki/Politiek_activisme"
+            }
+        }
+    ]
+}

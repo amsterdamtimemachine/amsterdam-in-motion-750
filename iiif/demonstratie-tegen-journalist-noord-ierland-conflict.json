@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Buitenlandse politiek"
+          "Demonstraties, Buitenlandse politiek, Politiek"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135"
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2"
         ]
       }
     }
@@ -75,7 +75,7 @@
   "summary": {},
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2781",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2751",
       "type": "Canvas",
       "label": {},
       "height": 2442,
@@ -180,11 +180,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2781/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2751/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2781/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2751/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -201,14 +201,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2781"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2751"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2782",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2752",
       "type": "Canvas",
       "label": {},
       "height": 2442,
@@ -313,11 +313,11 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2782/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2752/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2782/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2752/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -334,7 +334,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2782"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-journalist-noord-ierland-conflict.json/p1/canvas/2752"
             }
           ]
         }
@@ -375,6 +375,14 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Buitenlandse politiek"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Politiek"
           }
         }
       ]
