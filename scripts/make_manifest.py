@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timezone
 import pandas as pd
 import iiif_prezi3
+import requests
 
 import time
 
@@ -178,8 +179,13 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
             if pd.isna(photo_row["iiif_info_json"]):
                 continue
 
-            canvas_id = f"{manifest_uri}/p1/canvas/{i+1}"
+            # Check if the dimension of the image is 500x500 from the info.json
+            if "stadsarchiefamsterdam" in photo_row["iiif_info_json"]:
+                photo_info = requests.get(photo_row["iiif_info_json"]).json()
+                if photo_info.get("width") == 500 and photo_info.get("height") == 500:
+                    continue
 
+            canvas_id = f"{manifest_uri}/p1/canvas/{i+1}"
             # time.sleep(1)
 
             manifest.make_canvas_from_iiif(

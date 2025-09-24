@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Bezettingen, Publieke voorzieningen"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1, https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d"
         ]
       }
     }
@@ -231,7 +231,24 @@
           "schema:name": ""
         }
       ],
-      "schema:additionalType": []
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Bezettingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/76d27329-c907-4657-b0e1-543398028f5d",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Publieke voorzieningen"
+          }
+        }
+      ]
     }
   ]
 }
