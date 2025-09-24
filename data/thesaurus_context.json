@@ -1,0 +1,57 @@
+{
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "broadMatch": {
+        "@type": "@id"
+    },
+    "broader": {
+        "@type": "@id"
+    },
+    "broaderTransitive": {
+        "@type": "@id"
+    },
+    "closeMatch": {
+        "@type": "@id"
+    },
+    "exactMatch": {
+        "@type": "@id"
+    },
+    "hasTopConcept": {
+        "@type": "@id"
+    },
+    "inScheme": {
+        "@type": "@id"
+    },
+    "mappingRelation": {
+        "@type": "@id"
+    },
+    "member": {
+        "@type": "@id"
+    },
+    "memberList": {
+        "@type": "@id"
+    },
+    "narrowMatch": {
+        "@type": "@id"
+    },
+    "narrower": {
+        "@type": "@id"
+    },
+    "narrowerTransitive": {
+        "@type": "@id"
+    },
+    "related": {
+        "@type": "@id"
+    },
+    "relatedMatch": {
+        "@type": "@id"
+    },
+    "semanticRelation": {
+        "@type": "@id"
+    },
+    "topConceptOf": {
+        "@type": "@id"
+    },
+    "_TD": {
+        "@id": null
+    }
+}
