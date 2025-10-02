@@ -88,10 +88,24 @@
       "@id": "https://digitaalerfgoed.poolparty.biz/atm/08f07179-519a-47c2-8f76-3938ac63e53f",
       "@type": "Concept",
       "broader": "https://digitaalerfgoed.poolparty.biz/atm/751c80fd-dcee-48d2-bc2c-2396a31ef03b",
-      "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
-      "prefLabel": {
+      "definition": {
         "@language": "nl",
-        "@value": "Mobiliteit"
+        "@value": "Protest rondom mobiliteit gaat vaak over hoe mensen zich in stad en regio kunnen verplaatsen. Acties richten zich bijvoorbeeld op betaalbaar en toegankelijk openbaar vervoer, betere infrastructuur voor fietsers of minder ruimte voor autoverkeer. Ook stijgende kosten of het verdwijnen van bus- en treinverbindingen leiden tot verzet. Zulke protesten benadrukken dat bereikbaarheid en duurzaamheid belangrijk zijn voor een leefbare samenleving."
+      },
+      "inScheme": "https://digitaalerfgoed.poolparty.biz/atm/35ad3605-2cb2-4b3d-b0d5-5194a4f05175",
+      "prefLabel": [
+        {
+          "@language": "nl",
+          "@value": "Mobiliteit"
+        },
+        {
+          "@language": "en",
+          "@value": "Mobility"
+        }
+      ],
+      "scopeNote": {
+        "@language": "nl",
+        "@value": "Bronnen: https://www.fietsersbond.nl/ons-werk/wat-hebben-we-bereikt/ EN https://www.rover.nl/vereniging/onze-successen"
       },
       "_TD": {
         "_label": "Mobiliteit",
