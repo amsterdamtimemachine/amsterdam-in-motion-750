@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/b5/80/e3/ec/91/1d/4e/24/ad/d9/d9/99/70/80/b4/93/1ac35813-2ea1-4e71-bb7f-c4e1267acce1.jp2/full/923,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 923,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/b5/80/e3/ec/91/1d/4e/24/ad/d9/d9/99/70/80/b4/93/1ac35813-2ea1-4e71-bb7f-c4e1267acce1.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-gebouw-raad-kinderbescherming.json/p1/canvas/2373",

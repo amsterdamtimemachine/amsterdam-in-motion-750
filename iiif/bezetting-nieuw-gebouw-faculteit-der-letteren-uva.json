@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/a6/8b/3d/80/6a/62/48/7e/bb/28/ac/fb/f6/c6/e7/14/7d670070-fa36-4cf7-869f-9b364ab63254.jp2/full/913,/0/default.jpg",
+      "type": "Image",
+      "height": 606,
+      "width": 913,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a6/8b/3d/80/6a/62/48/7e/bb/28/ac/fb/f6/c6/e7/14/7d670070-fa36-4cf7-869f-9b364ab63254.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-nieuw-gebouw-faculteit-der-letteren-uva.json/p1/canvas/3826",

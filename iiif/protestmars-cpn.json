@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/38/e3/ea/84/91/dd/40/4d/82/61/ae/de/53/e2/85/50/eda86f99-77fb-4bcd-b0fc-46fcf83e53d2.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/38/e3/ea/84/91/dd/40/4d/82/61/ae/de/53/e2/85/50/eda86f99-77fb-4bcd-b0fc-46fcf83e53d2.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-cpn.json/p1/canvas/2047",

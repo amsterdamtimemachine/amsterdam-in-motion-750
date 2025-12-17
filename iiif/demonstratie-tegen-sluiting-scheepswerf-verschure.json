@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/38/92/f1/34/ee/10/47/6e/96/0d/74/88/68/86/77/82/99d963d5-377a-4b86-af6d-88fe8f0122ec.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 919,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/38/92/f1/34/ee/10/47/6e/96/0d/74/88/68/86/77/82/99d963d5-377a-4b86-af6d-88fe8f0122ec.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-sluiting-scheepswerf-verschure.json/p1/canvas/2458",

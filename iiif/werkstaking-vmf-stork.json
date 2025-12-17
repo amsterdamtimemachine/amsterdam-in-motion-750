@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/99/2e/95/7c/94/2e/45/c2/9b/d7/00/f4/57/80/a3/47/e9c88db5-bbff-4eb4-845b-33aa99af93d5.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/99/2e/95/7c/94/2e/45/c2/9b/d7/00/f4/57/80/a3/47/e9c88db5-bbff-4eb4-845b-33aa99af93d5.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/werkstaking-vmf-stork.json/p1/canvas/2174",

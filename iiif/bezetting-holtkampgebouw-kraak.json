@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/1d/48/f0/3c/8f/6a/4c/6d/b5/ec/07/f9/c1/91/4e/22/86fc8f56-8b52-49c7-99a1-237d5f4d3df5.jp2/full/631,/0/default.jpg",
+      "type": "Image",
+      "height": 640,
+      "width": 631,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/1d/48/f0/3c/8f/6a/4c/6d/b5/ec/07/f9/c1/91/4e/22/86fc8f56-8b52-49c7-99a1-237d5f4d3df5.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-holtkampgebouw-kraak.json/p1/canvas/1759",

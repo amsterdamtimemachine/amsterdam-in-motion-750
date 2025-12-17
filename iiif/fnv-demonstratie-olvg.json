@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/3d/16/75/a1/79/95/48/32/9c/72/71/f0/62/42/03/94/2b0bdb5b-7427-43d9-97f1-e8bcb20f89dd.jp2/full/914,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 914,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3d/16/75/a1/79/95/48/32/9c/72/71/f0/62/42/03/94/2b0bdb5b-7427-43d9-97f1-e8bcb20f89dd.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/fnv-demonstratie-olvg.json/p1/canvas/2418",

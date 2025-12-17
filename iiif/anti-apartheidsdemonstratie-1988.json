@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/f7/82/54/11/3f/26/46/61/9c/d5/5e/d6/21/53/17/04/9cc50bae-4d86-4af8-8540-6df198a956ed.jp2/full/934,/0/default.jpg",
+      "type": "Image",
+      "height": 620,
+      "width": 934,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f7/82/54/11/3f/26/46/61/9c/d5/5e/d6/21/53/17/04/9cc50bae-4d86-4af8-8540-6df198a956ed.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/anti-apartheidsdemonstratie-1988.json/p1/canvas/4238",

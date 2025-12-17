@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/e9/cb/c4/70/68/95/42/6a/92/96/62/77/55/53/b2/9e/f0d59366-a708-4912-b18a-870e86caf91b.jp2/full/607,/0/default.jpg",
+      "type": "Image",
+      "height": 912,
+      "width": 607,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e9/cb/c4/70/68/95/42/6a/92/96/62/77/55/53/b2/9e/f0d59366-a708-4912-b18a-870e86caf91b.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-bestuursruimte-letterenfaculteit-uva.json/p1/canvas/4063",

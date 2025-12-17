@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/c5/d0/34/67/c4/6d/4f/32/8a/b1/fb/ec/b6/5d/57/b0/47753aaa-af01-44a4-937c-7d74779fed45.jp2/full/926,/0/default.jpg",
+      "type": "Image",
+      "height": 617,
+      "width": 926,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c5/d0/34/67/c4/6d/4f/32/8a/b1/fb/ec/b6/5d/57/b0/47753aaa-af01-44a4-937c-7d74779fed45.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-mozes-aaronkerk-gastarbeiders.json/p1/canvas/2587",

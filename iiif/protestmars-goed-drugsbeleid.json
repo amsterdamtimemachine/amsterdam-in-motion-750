@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/8b/1a/7b/79/17/43/40/a0/a4/4b/e0/d1/db/e3/cc/ae/186e76ad-3d61-43d1-ad27-417a2aa1f64a.jp2/full/914,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 914,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8b/1a/7b/79/17/43/40/a0/a4/4b/e0/d1/db/e3/cc/ae/186e76ad-3d61-43d1-ad27-417a2aa1f64a.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-goed-drugsbeleid.json/p1/canvas/2408",

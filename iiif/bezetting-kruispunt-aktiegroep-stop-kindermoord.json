@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/0b/9b/44/a4/dc/71/48/fe/99/e2/04/a5/95/fd/ee/00/5eee8e66-0a05-4730-b7f6-400d0748fe23.jp2/full/917,/0/default.jpg",
+      "type": "Image",
+      "height": 605,
+      "width": 917,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/0b/9b/44/a4/dc/71/48/fe/99/e2/04/a5/95/fd/ee/00/5eee8e66-0a05-4730-b7f6-400d0748fe23.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-kruispunt-aktiegroep-stop-kindermoord.json/p1/canvas/1606",

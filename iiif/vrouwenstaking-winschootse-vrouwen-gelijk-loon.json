@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/1d/de/72/7c/bb/38/4a/18/ad/11/be/a7/7d/e4/f2/5d/b6d1b2dd-fa43-4879-8bbd-c2ce30937c1f.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/1d/de/72/7c/bb/38/4a/18/ad/11/be/a7/7d/e4/f2/5d/b6d1b2dd-fa43-4879-8bbd-c2ce30937c1f.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwenstaking-winschootse-vrouwen-gelijk-loon.json/p1/canvas/1676",

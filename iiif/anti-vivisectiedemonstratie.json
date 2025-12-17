@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/2f/bb/77/e7/4f/22/46/55/8e/98/36/e2/11/10/4b/8e/88f9a122-111a-4979-b3a2-503026282ae2.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 601,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/bb/77/e7/4f/22/46/55/8e/98/36/e2/11/10/4b/8e/88f9a122-111a-4979-b3a2-503026282ae2.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/anti-vivisectiedemonstratie.json/p1/canvas/597",

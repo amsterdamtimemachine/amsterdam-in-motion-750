@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/5a/7d/cf/05/e8/c3/40/64/a2/50/65/3b/08/ba/1a/bd/888c1746-4f6c-4246-b59e-fd4509e72790.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/5a/7d/cf/05/e8/c3/40/64/a2/50/65/3b/08/ba/1a/bd/888c1746-4f6c-4246-b59e-fd4509e72790.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/fietsdemonstratie-tegen-autoverkeer-binnenstad.json/p1/canvas/1813",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/29/56/0e/bd/55/3a/46/e0/8b/9f/34/43/59/f8/cd/b6/eaf899d4-1981-4a75-bc77-62d4de92ae4b.jp2/full/615,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 615,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/56/0e/bd/55/3a/46/e0/8b/9f/34/43/59/f8/cd/b6/eaf899d4-1981-4a75-bc77-62d4de92ae4b.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/dolle-mina-demonstratie-voor-gelijke-rechten.json/p1/canvas/1206",

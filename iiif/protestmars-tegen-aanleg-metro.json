@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/3a/60/c4/f2/64/3d/41/e0/ab/4a/e5/da/3c/e0/c7/87/c4d489a4-5e1a-4c94-a70c-90557b0038da.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 614,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3a/60/c4/f2/64/3d/41/e0/ab/4a/e5/da/3c/e0/c7/87/c4d489a4-5e1a-4c94-a70c-90557b0038da.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-aanleg-metro.json/p1/canvas/1385",

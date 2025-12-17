@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/83/3f/89/d5/c9/16/40/06/95/62/73/7a/5a/8d/3e/83/44e6ad1e-4990-4211-aebf-5f18cd380868.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/83/3f/89/d5/c9/16/40/06/95/62/73/7a/5a/8d/3e/83/44e6ad1e-4990-4211-aebf-5f18cd380868.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-indonesische-consulaat.json/p1/canvas/2022",

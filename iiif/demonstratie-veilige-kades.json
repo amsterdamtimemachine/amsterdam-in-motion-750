@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/04/78/7d/66/c6/13/48/20/89/be/92/21/8e/9d/75/c8/d838cc1e-7112-4d65-ba67-bcf034326c76.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 606,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/04/78/7d/66/c6/13/48/20/89/be/92/21/8e/9d/75/c8/d838cc1e-7112-4d65-ba67-bcf034326c76.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-veilige-kades.json/p1/canvas/1752",

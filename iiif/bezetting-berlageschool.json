@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/eb/3b/c7/1e/5a/9f/47/a2/b2/c9/35/c2/0d/c6/57/5c/00c0e012-453c-42be-b399-99c1cf071e79.jp2/full/914,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 914,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/eb/3b/c7/1e/5a/9f/47/a2/b2/c9/35/c2/0d/c6/57/5c/00c0e012-453c-42be-b399-99c1cf071e79.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-berlageschool.json/p1/canvas/2446",

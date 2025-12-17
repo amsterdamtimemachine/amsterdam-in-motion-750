@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/40/e0/da/26/49/17/44/35/a7/2e/b1/58/d2/84/5d/09/fcf9bc01-b9dc-46f3-a849-301e376a88bd.jp2/full/936,/0/default.jpg",
+      "type": "Image",
+      "height": 623,
+      "width": 936,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/40/e0/da/26/49/17/44/35/a7/2e/b1/58/d2/84/5d/09/fcf9bc01-b9dc-46f3-a849-301e376a88bd.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/sleep-in-verpleegkundigen-voor-hoger-loon.json/p1/canvas/4324",

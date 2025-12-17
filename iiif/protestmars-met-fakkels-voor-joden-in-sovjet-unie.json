@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/df/d1/48/63/4b/57/4b/8b/89/ab/1c/ee/f1/6e/8f/86/1ecf2e69-13cd-40fd-baee-94fc250b54ee.jp2/full/893,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 893,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/df/d1/48/63/4b/57/4b/8b/89/ab/1c/ee/f1/6e/8f/86/1ecf2e69-13cd-40fd-baee-94fc250b54ee.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-met-fakkels-voor-joden-in-sovjet-unie.json/p1/canvas/3840",

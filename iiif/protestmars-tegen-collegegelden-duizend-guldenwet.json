@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/09/be/f0/f9/d2/23/42/57/a7/f3/53/60/22/c2/df/ef/39d3bc97-59fe-423f-8923-837879273d1e.jp2/full/917,/0/default.jpg",
+      "type": "Image",
+      "height": 608,
+      "width": 917,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/09/be/f0/f9/d2/23/42/57/a7/f3/53/60/22/c2/df/ef/39d3bc97-59fe-423f-8923-837879273d1e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-collegegelden-duizend-guldenwet.json/p1/canvas/1601",

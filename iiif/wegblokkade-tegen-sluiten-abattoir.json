@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/13/9b/a3/8f/30/60/42/bf/98/48/2a/54/dc/3d/f6/e1/e4a75ff3-06df-43f9-9ece-8d72a08e1f75.jp2/full/924,/0/default.jpg",
+      "type": "Image",
+      "height": 616,
+      "width": 924,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/13/9b/a3/8f/30/60/42/bf/98/48/2a/54/dc/3d/f6/e1/e4a75ff3-06df-43f9-9ece-8d72a08e1f75.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wegblokkade-tegen-sluiten-abattoir.json/p1/canvas/2143",

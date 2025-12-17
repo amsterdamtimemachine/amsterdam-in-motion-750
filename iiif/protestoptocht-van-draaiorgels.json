@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/4b/9c/ac/3a/c6/29/42/45/a9/7a/79/30/a7/8c/44/8f/d6cd34f2-b830-4722-b172-ae49503be338.jp2/full/917,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 917,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4b/9c/ac/3a/c6/29/42/45/a9/7a/79/30/a7/8c/44/8f/d6cd34f2-b830-4722-b172-ae49503be338.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestoptocht-van-draaiorgels.json/p1/canvas/1463",

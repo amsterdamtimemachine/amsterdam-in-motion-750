@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/0a/37/ac/65/00/78/40/bf/83/a9/34/c9/21/24/cc/64/964e6f18-c942-45b2-8684-43394d4e6320.jp2/full/903,/0/default.jpg",
+      "type": "Image",
+      "height": 617,
+      "width": 903,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/0a/37/ac/65/00/78/40/bf/83/a9/34/c9/21/24/cc/64/964e6f18-c942-45b2-8684-43394d4e6320.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bouwvakkersstaking-voor-loonsverhoging.json/p1/canvas/1318",

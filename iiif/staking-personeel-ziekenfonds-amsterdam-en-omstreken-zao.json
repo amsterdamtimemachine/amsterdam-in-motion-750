@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/00/d0/ec/bf/56/4e/44/9a/bf/cf/23/84/e9/ea/c9/fc/cb7aaf7f-d105-4bba-ae05-2c00f649857a.jp2/full/936,/0/default.jpg",
+      "type": "Image",
+      "height": 618,
+      "width": 936,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/00/d0/ec/bf/56/4e/44/9a/bf/cf/23/84/e9/ea/c9/fc/cb7aaf7f-d105-4bba-ae05-2c00f649857a.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/staking-personeel-ziekenfonds-amsterdam-en-omstreken-zao.json/p1/canvas/4080",

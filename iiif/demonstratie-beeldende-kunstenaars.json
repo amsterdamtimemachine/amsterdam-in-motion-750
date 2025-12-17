@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/04/13/bc/ea/7c/35/4d/48/af/6e/ac/de/fa/67/18/37/92915091-904b-46f7-a666-39967b49a432.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 612,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/04/13/bc/ea/7c/35/4d/48/af/6e/ac/de/fa/67/18/37/92915091-904b-46f7-a666-39967b49a432.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-beeldende-kunstenaars.json/p1/canvas/2502",

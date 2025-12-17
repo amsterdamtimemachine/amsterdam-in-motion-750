@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/8e/03/2e/0c/8d/82/4b/64/b7/1f/6a/be/cc/32/0e/01/11450853-df82-439f-830b-f059e45bf4fa.jp2/full/624,/0/default.jpg",
+      "type": "Image",
+      "height": 640,
+      "width": 624,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8e/03/2e/0c/8d/82/4b/64/b7/1f/6a/be/cc/32/0e/01/11450853-df82-439f-830b-f059e45bf4fa.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/schoolstaking-nh-scholengemeenschap.json/p1/canvas/1757",

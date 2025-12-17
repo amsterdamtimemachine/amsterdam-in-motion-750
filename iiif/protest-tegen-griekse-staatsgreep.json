@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/2b/98/65/e5/e7/d4/45/5c/8d/84/57/01/06/fd/2c/06/c8a0c984-a9c7-4594-a639-861781ca296d.jp2/full/902,/0/default.jpg",
+      "type": "Image",
+      "height": 719,
+      "width": 902,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2b/98/65/e5/e7/d4/45/5c/8d/84/57/01/06/fd/2c/06/c8a0c984-a9c7-4594-a639-861781ca296d.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protest-tegen-griekse-staatsgreep.json/p1/canvas/583",

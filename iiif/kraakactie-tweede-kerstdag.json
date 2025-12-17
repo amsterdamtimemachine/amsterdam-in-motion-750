@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/8a/8a/19/6b/fe/b9/4d/47/a7/10/10/b8/ea/08/d5/f1/03ec8535-7230-425b-bb7a-d334320dfca3.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 598,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/8a/19/6b/fe/b9/4d/47/a7/10/10/b8/ea/08/d5/f1/03ec8535-7230-425b-bb7a-d334320dfca3.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakactie-tweede-kerstdag.json/p1/canvas/1262",

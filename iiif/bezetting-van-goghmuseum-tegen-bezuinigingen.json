@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/17/14/cd/02/51/9a/4a/ec/80/60/4b/e7/19/41/44/13/8c308ff3-e105-43f8-b087-916d789b7083.jp2/full/924,/0/default.jpg",
+      "type": "Image",
+      "height": 616,
+      "width": 924,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/17/14/cd/02/51/9a/4a/ec/80/60/4b/e7/19/41/44/13/8c308ff3-e105-43f8-b087-916d789b7083.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-van-goghmuseum-tegen-bezuinigingen.json/p1/canvas/3458",

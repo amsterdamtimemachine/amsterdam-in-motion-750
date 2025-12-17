@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/46/77/bd/74/3c/58/4f/3a/80/ee/ef/bc/b8/4a/2e/90/59a27a70-a564-470d-a9a7-b64857fe782f.jp2/full/683,/0/default.jpg",
+      "type": "Image",
+      "height": 552,
+      "width": 683,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/46/77/bd/74/3c/58/4f/3a/80/ee/ef/bc/b8/4a/2e/90/59a27a70-a564-470d-a9a7-b64857fe782f.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/staking-metaalbewerkers-adm.json/p1/canvas/270",

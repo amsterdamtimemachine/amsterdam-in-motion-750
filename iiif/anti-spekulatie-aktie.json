@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/df/2d/c6/02/71/08/44/16/ab/d6/ec/ee/cf/ce/76/02/2add9495-1feb-4bd3-9782-135f0cd1aabd.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/df/2d/c6/02/71/08/44/16/ab/d6/ec/ee/cf/ce/76/02/2add9495-1feb-4bd3-9782-135f0cd1aabd.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/anti-spekulatie-aktie.json/p1/canvas/2687",

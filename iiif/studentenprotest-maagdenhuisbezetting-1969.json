@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/e7/8a/42/50/27/94/46/ec/94/c6/25/9e/42/76/93/cf/d0814b04-7690-4170-821f-d11d4df47e20.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 607,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e7/8a/42/50/27/94/46/ec/94/c6/25/9e/42/76/93/cf/d0814b04-7690-4170-821f-d11d4df47e20.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/studentenprotest-maagdenhuisbezetting-1969.json/p1/canvas/803",

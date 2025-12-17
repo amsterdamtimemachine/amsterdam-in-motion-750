@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/54/d1/a7/25/f7/b4/4b/17/8d/e9/1b/67/a9/55/83/ac/bb7c72ea-7263-44bf-8fd1-d2454ddbb317.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/54/d1/a7/25/f7/b4/4b/17/8d/e9/1b/67/a9/55/83/ac/bb7c72ea-7263-44bf-8fd1-d2454ddbb317.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-met-fiets-tegen-autoterreur.json/p1/canvas/3248",

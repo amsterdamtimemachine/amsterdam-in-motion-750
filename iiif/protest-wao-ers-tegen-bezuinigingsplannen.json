@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/41/34/56/77/5d/04/4d/31/9d/f1/c1/97/c2/62/b1/d7/1024468e-b44d-45aa-a19c-0f9f39a0abf1.jp2/full/923,/0/default.jpg",
+      "type": "Image",
+      "height": 612,
+      "width": 923,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/41/34/56/77/5d/04/4d/31/9d/f1/c1/97/c2/62/b1/d7/1024468e-b44d-45aa-a19c-0f9f39a0abf1.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protest-wao-ers-tegen-bezuinigingsplannen.json/p1/canvas/2798",

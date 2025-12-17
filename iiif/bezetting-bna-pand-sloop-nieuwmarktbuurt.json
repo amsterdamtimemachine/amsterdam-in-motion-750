@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/b7/de/84/fb/b0/dc/4e/d5/9e/32/87/80/64/7b/30/3f/d9bd0613-2a32-43f7-9f1c-752904759f88.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/de/84/fb/b0/dc/4e/d5/9e/32/87/80/64/7b/30/3f/d9bd0613-2a32-43f7-9f1c-752904759f88.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-bna-pand-sloop-nieuwmarktbuurt.json/p1/canvas/1986",

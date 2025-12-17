@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/a1/5d/54/a1/c9/fe/40/a9/86/63/4c/ed/18/89/d9/f4/7a019bd8-4bc0-4209-9559-9877e464660a.jp2/full/922,/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 922,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a1/5d/54/a1/c9/fe/40/a9/86/63/4c/ed/18/89/d9/f4/7a019bd8-4bc0-4209-9559-9877e464660a.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-buurthuizen-tegen-bezuinigingen.json/p1/canvas/3791",

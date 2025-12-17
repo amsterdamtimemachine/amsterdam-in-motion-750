@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/a0/af/af/92/0e/e4/4c/04/ab/6a/c7/74/5d/77/62/87/97254089-081c-412a-a0e8-88aaafa970b9.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a0/af/af/92/0e/e4/4c/04/ab/6a/c7/74/5d/77/62/87/97254089-081c-412a-a0e8-88aaafa970b9.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-wegens-dag-van-de-rassendiscriminatie.json/p1/canvas/3205",

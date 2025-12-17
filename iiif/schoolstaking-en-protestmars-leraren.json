@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/8e/5a/9d/c7/02/23/49/d1/ae/d4/cd/b5/aa/4e/43/c5/58ec3f47-c8dc-41ca-ab89-37d90e227fb6.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 609,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8e/5a/9d/c7/02/23/49/d1/ae/d4/cd/b5/aa/4e/43/c5/58ec3f47-c8dc-41ca-ab89-37d90e227fb6.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/schoolstaking-en-protestmars-leraren.json/p1/canvas/3387",

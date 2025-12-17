@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/bb/63/d2/be/71/0b/4b/06/82/8f/77/74/30/b6/24/b5/c69a6044-9990-4db2-9c40-0e3fede63515.jp2/full/931,/0/default.jpg",
+      "type": "Image",
+      "height": 616,
+      "width": 931,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/bb/63/d2/be/71/0b/4b/06/82/8f/77/74/30/b6/24/b5/c69a6044-9990-4db2-9c40-0e3fede63515.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-sub-faculteit-biologie-uva.json/p1/canvas/2243",

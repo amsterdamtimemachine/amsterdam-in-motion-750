@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/9f/77/f5/35/ff/04/40/5c/83/1b/58/cb/ac/d5/19/68/58a586a3-85d2-49a6-8ed8-f88332e15b6f.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 606,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/77/f5/35/ff/04/40/5c/83/1b/58/cb/ac/d5/19/68/58a586a3-85d2-49a6-8ed8-f88332e15b6f.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/blokkade-ferdinand-bol-autovrij.json/p1/canvas/1730",

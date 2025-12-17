@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/4a/de/e3/4b/13/0a/45/22/94/80/ca/35/de/41/ed/0c/2e9f76a0-d60f-4954-950e-1b2b9516190c.jp2/full/803,/0/default.jpg",
+      "type": "Image",
+      "height": 629,
+      "width": 803,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4a/de/e3/4b/13/0a/45/22/94/80/ca/35/de/41/ed/0c/2e9f76a0-d60f-4954-950e-1b2b9516190c.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/schoolvoetballersprotest.json/p1/canvas/203",

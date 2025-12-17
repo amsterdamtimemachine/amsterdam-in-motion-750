@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/55/f1/74/af/f5/a7/45/9b/9c/24/37/fe/78/20/a9/5d/6925685f-e96e-44f2-b2f2-fe9856b1007d.jp2/full/612,/0/default.jpg",
+      "type": "Image",
+      "height": 923,
+      "width": 612,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/55/f1/74/af/f5/a7/45/9b/9c/24/37/fe/78/20/a9/5d/6925685f-e96e-44f2-b2f2-fe9856b1007d.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-vrije-abortus.json/p1/canvas/2803",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/a1/30/b0/b9/07/05/4b/5b/8f/70/81/fe/99/57/72/db/7066d352-737b-46b2-a51f-58981f6ffb06.jp2/full/925,/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 925,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a1/30/b0/b9/07/05/4b/5b/8f/70/81/fe/99/57/72/db/7066d352-737b-46b2-a51f-58981f6ffb06.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bouwvakkersdemonstratie-buikslotermeer.json/p1/canvas/628",

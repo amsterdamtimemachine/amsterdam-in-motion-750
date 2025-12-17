@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/15/7e/40/82/ce/46/44/8c/ab/37/a2/c9/00/43/1f/c0/7da7c016-f731-44da-8a43-b304e50b767e.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 612,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/15/7e/40/82/ce/46/44/8c/ab/37/a2/c9/00/43/1f/c0/7da7c016-f731-44da-8a43-b304e50b767e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-ontruiming-amro-kraakpanden.json/p1/canvas/2135",

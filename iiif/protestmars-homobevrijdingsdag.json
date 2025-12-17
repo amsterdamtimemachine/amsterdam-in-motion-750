@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/39/fb/2a/94/ac/8e/43/27/98/aa/b7/17/1a/c6/77/07/263aeeae-fb2b-4e95-a6aa-b06295327303.jp2/full/926,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 926,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/39/fb/2a/94/ac/8e/43/27/98/aa/b7/17/1a/c6/77/07/263aeeae-fb2b-4e95-a6aa-b06295327303.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-homobevrijdingsdag.json/p1/canvas/2740",

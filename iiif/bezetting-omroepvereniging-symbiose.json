@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/4f/ea/45/6c/03/03/47/cc/ad/5a/c1/83/ec/f3/e0/1c/3b9e2580-5d14-466d-ae95-575d082264ff.jp2/full/931,/0/default.jpg",
+      "type": "Image",
+      "height": 616,
+      "width": 931,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4f/ea/45/6c/03/03/47/cc/ad/5a/c1/83/ec/f3/e0/1c/3b9e2580-5d14-466d-ae95-575d082264ff.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-omroepvereniging-symbiose.json/p1/canvas/2248",

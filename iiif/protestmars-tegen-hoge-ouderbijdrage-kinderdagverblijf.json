@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/40/cc/0d/d5/7d/8b/45/58/97/fc/85/d2/bb/33/64/55/6a46b857-4620-4809-b648-48f0e2e54476.jp2/full/924,/0/default.jpg",
+      "type": "Image",
+      "height": 612,
+      "width": 924,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/40/cc/0d/d5/7d/8b/45/58/97/fc/85/d2/bb/33/64/55/6a46b857-4620-4809-b648-48f0e2e54476.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-hoge-ouderbijdrage-kinderdagverblijf.json/p1/canvas/2860",

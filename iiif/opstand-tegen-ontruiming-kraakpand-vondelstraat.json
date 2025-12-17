@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/4e/69/0e/60/42/cc/42/14/84/f1/50/79/8b/00/1c/6c/996f0d1b-951e-420f-8597-1ff7769eda2f.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 606,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4e/69/0e/60/42/cc/42/14/84/f1/50/79/8b/00/1c/6c/996f0d1b-951e-420f-8597-1ff7769eda2f.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/opstand-tegen-ontruiming-kraakpand-vondelstraat.json/p1/canvas/2573",

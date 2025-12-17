@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/48/90/7a/41/82/b1/41/56/bf/1f/39/58/2d/58/3b/dc/c9ec0c3d-f079-4b5a-84ab-b3ea409fd91c.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/48/90/7a/41/82/b1/41/56/bf/1f/39/58/2d/58/3b/dc/c9ec0c3d-f079-4b5a-84ab-b3ea409fd91c.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/blokkade-fietsbeleid.json/p1/canvas/2388",

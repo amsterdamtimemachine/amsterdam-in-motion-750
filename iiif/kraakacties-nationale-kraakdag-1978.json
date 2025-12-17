@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2/full/605,/0/default.jpg",
+      "type": "Image",
+      "height": 922,
+      "width": 605,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakacties-nationale-kraakdag-1978.json/p1/canvas/2226",

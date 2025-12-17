@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/1b/b3/da/fc/50/0f/4c/fd/93/e4/ba/2f/20/e6/f1/4a/c190db4d-ddcd-4d02-9f07-d936c906acfd.jp2/full/918,/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 918,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/1b/b3/da/fc/50/0f/4c/fd/93/e4/ba/2f/20/e6/f1/4a/c190db4d-ddcd-4d02-9f07-d936c906acfd.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-van-bejaardentehuis-tegen-het-uitblijven-van-de-bouwvergunning.json/p1/canvas/3374",

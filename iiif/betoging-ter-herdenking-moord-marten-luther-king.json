@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/01/f6/62/fa/e8/01/43/9a/8d/35/bf/bf/c8/ae/1c/84/1b89529c-a325-4556-99d9-a4f1420c15b8.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 607,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/01/f6/62/fa/e8/01/43/9a/8d/35/bf/bf/c8/ae/1c/84/1b89529c-a325-4556-99d9-a4f1420c15b8.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/betoging-ter-herdenking-moord-marten-luther-king.json/p1/canvas/762",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/29/1b/58/ae/e4/95/44/56/ad/87/22/0f/82/dc/7d/ff/dffd7da9-28ac-434a-b203-f22d10f151e9.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/1b/58/ae/e4/95/44/56/ad/87/22/0f/82/dc/7d/ff/dffd7da9-28ac-434a-b203-f22d10f151e9.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/blokkade-bouwplannen-gein.json/p1/canvas/2083",

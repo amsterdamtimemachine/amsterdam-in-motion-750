@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/7e/aa/cf/d4/ac/2f/49/e1/80/37/17/23/96/51/40/53/fb48d6a7-ab85-482d-9d92-02f0a108855e.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/aa/cf/d4/ac/2f/49/e1/80/37/17/23/96/51/40/53/fb48d6a7-ab85-482d-9d92-02f0a108855e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kantoor-stichting-popmuziek-nederland-spn-bezet-popmuzikanten-betere-spreiding.json/p1/canvas/2462",

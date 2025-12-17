@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/e9/71/58/37/5f/9b/43/f6/88/0a/40/8d/b3/be/b5/9d/3c4b4168-374f-4267-aaed-903231638875.jp2/full/611,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 611,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e9/71/58/37/5f/9b/43/f6/88/0a/40/8d/b3/be/b5/9d/3c4b4168-374f-4267-aaed-903231638875.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/vrouwendemonstratie-vrouwen-eis-betaald-werk.json/p1/canvas/2601",

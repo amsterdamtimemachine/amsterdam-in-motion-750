@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/55/8b/b2/4e/38/45/49/4c/98/20/f9/f6/24/6d/88/09/f457c0d4-098c-41bc-9898-d50a3e9ee567.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/55/8b/b2/4e/38/45/49/4c/98/20/f9/f6/24/6d/88/09/f457c0d4-098c-41bc-9898-d50a3e9ee567.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/studentenprotest-mars-maagdenhuis.json/p1/canvas/1701",

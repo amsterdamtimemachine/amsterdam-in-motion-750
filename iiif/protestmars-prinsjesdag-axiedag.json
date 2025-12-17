@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/29/f2/a6/de/63/68/41/1f/9d/52/2e/dd/15/c7/2b/02/f6096105-8d83-4995-9966-2714a2b73540.jp2/full/936,/0/default.jpg",
+      "type": "Image",
+      "height": 618,
+      "width": 936,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/f2/a6/de/63/68/41/1f/9d/52/2e/dd/15/c7/2b/02/f6096105-8d83-4995-9966-2714a2b73540.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-prinsjesdag-axiedag.json/p1/canvas/4095",

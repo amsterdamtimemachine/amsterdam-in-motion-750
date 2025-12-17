@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/c6/d3/3e/66/4c/3c/4f/d6/90/e2/fa/19/3a/68/47/e1/4200b27a-0871-4206-8397-fdc8509a9384.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c6/d3/3e/66/4c/3c/4f/d6/90/e2/fa/19/3a/68/47/e1/4200b27a-0871-4206-8397-fdc8509a9384.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-voor-ehbo-post-in-de-binnenstad.json/p1/canvas/3217",

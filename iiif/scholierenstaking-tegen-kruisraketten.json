@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/3e/16/a0/62/89/79/41/2c/b5/54/2f/f8/42/11/fc/82/127a0ba9-15c8-4dc8-8621-696f36583746.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3e/16/a0/62/89/79/41/2c/b5/54/2f/f8/42/11/fc/82/127a0ba9-15c8-4dc8-8621-696f36583746.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/scholierenstaking-tegen-kruisraketten.json/p1/canvas/3952",

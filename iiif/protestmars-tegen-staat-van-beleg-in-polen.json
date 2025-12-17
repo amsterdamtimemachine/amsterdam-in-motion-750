@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/d4/2e/ab/fd/5d/4e/42/b2/a1/95/e2/2f/09/95/00/c8/3d254704-59b1-4701-b301-9a41f5c496d3.jp2/full/921,/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 921,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d4/2e/ab/fd/5d/4e/42/b2/a1/95/e2/2f/09/95/00/c8/3d254704-59b1-4701-b301-9a41f5c496d3.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-staat-van-beleg-in-polen.json/p1/canvas/3122",

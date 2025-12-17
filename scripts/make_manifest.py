@@ -111,6 +111,7 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                         classification_label2concept[classification]["@id"]
                     )
 
+        thumbnail_set = False
         manifest = iiif_prezi3.Manifest(
             id=manifest_uri,
             label=protest_row["naam"] if pd.notna(protest_row["naam"]) else "",
@@ -170,6 +171,13 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                 ),
             ],
         )
+
+        # Is there a specific thumbnail for the protest?
+        if pd.notna(protest_row["thumbnail (foto op homepage)"]):
+            manifest.create_thumbnail_from_iiif(
+                protest_row["thumbnail (foto op homepage)"]
+            )
+            thumbnail_set = True
 
         # Add photos to the manifest
         for i, photo_row in df_photo[
@@ -285,6 +293,10 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                     ),
                 ],
             )
+
+            if not thumbnail_set:
+                manifest.create_thumbnail_from_iiif(photo_row["iiif_info_json"])
+                thumbnail_set = True
 
         with open(f"{target_folder}/{slug}.json", "w", encoding="utf-8") as f:
             manifest_jsonld = json.loads(manifest.json())

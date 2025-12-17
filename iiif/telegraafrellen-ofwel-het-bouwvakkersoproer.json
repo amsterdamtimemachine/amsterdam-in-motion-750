@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/67/af/91/6e/3e/83/47/3b/af/af/17/d9/16/21/00/2b/c7267a00-e30a-4b67-9d55-56624b70e04c.jp2/full/817,/0/default.jpg",
+      "type": "Image",
+      "height": 541,
+      "width": 817,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/af/91/6e/3e/83/47/3b/af/af/17/d9/16/21/00/2b/c7267a00-e30a-4b67-9d55-56624b70e04c.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/telegraafrellen-ofwel-het-bouwvakkersoproer.json/p1/canvas/477",

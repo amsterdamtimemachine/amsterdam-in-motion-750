@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/9a/c7/7e/06/ac/fd/41/ec/99/c0/ce/de/ab/d7/77/b4/2d53b24f-811b-45cd-a780-fc9d0584497e.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9a/c7/7e/06/ac/fd/41/ec/99/c0/ce/de/ab/d7/77/b4/2d53b24f-811b-45cd-a780-fc9d0584497e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-actie-speculant-van-de-week.json/p1/canvas/2728",

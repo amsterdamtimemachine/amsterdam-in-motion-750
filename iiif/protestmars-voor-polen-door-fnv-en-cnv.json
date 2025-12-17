@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/ff/55/e0/5c/c6/cb/49/90/ba/2e/28/2a/b8/79/1d/e3/11133c46-137c-412e-a439-84cb8d549a5b.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ff/55/e0/5c/c6/cb/49/90/ba/2e/28/2a/b8/79/1d/e3/11133c46-137c-412e-a439-84cb8d549a5b.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-voor-polen-door-fnv-en-cnv.json/p1/canvas/3153",

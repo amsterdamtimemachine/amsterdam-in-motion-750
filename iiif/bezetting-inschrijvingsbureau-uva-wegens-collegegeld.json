@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/7e/36/88/18/34/7c/4f/46/bf/7b/56/d3/03/e3/ac/14/4006d40b-6641-43d9-977f-73fa678c708d.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 923,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/36/88/18/34/7c/4f/46/bf/7b/56/d3/03/e3/ac/14/4006d40b-6641-43d9-977f-73fa678c708d.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-inschrijvingsbureau-uva-wegens-collegegeld.json/p1/canvas/1566",

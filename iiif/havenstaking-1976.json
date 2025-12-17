@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/74/8b/20/d3/21/fa/4f/87/ac/48/56/90/b3/24/f8/e8/72ee9884-9ba1-48ad-95ca-4a81434eb1e1.jp2/full/925,/0/default.jpg",
+      "type": "Image",
+      "height": 614,
+      "width": 925,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/74/8b/20/d3/21/fa/4f/87/ac/48/56/90/b3/24/f8/e8/72ee9884-9ba1-48ad-95ca-4a81434eb1e1.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/havenstaking-1976.json/p1/canvas/2102",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/9f/5b/cc/b4/ab/fa/48/49/ba/bd/ba/eb/af/39/de/a3/d1279502-8cf7-497b-89de-38be07f49d59.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/5b/cc/b4/ab/fa/48/49/ba/bd/ba/eb/af/39/de/a3/d1279502-8cf7-497b-89de-38be07f49d59.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bouwvakkersprotestmars-tegen-werkloosheid.json/p1/canvas/1779",

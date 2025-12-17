@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/10/2e/e2/8f/55/5e/4d/91/a4/27/63/9e/51/5a/64/90/c056194c-024a-4814-8897-4f2252552a1f.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/10/2e/e2/8f/55/5e/4d/91/a4/27/63/9e/51/5a/64/90/c056194c-024a-4814-8897-4f2252552a1f.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/verkeersdemonstratie-veilig-oversteken-amstelveenseweg.json/p1/canvas/1708",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/57/1f/b3/e1/9b/eb/47/16/a2/38/69/af/9a/e4/0d/86/dc26ae3b-6219-4dc3-8553-6e05a8bbcb4c.jp2/full/903,/0/default.jpg",
+      "type": "Image",
+      "height": 603,
+      "width": 903,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/57/1f/b3/e1/9b/eb/47/16/a2/38/69/af/9a/e4/0d/86/dc26ae3b-6219-4dc3-8553-6e05a8bbcb4c.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-internationale-vrouwendag-1981.json/p1/canvas/2942",

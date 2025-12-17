@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/93/db/01/22/33/28/4c/64/8f/a5/c2/43/13/da/ab/3e/bec9db2f-05b6-488b-b03b-848db23a6248.jp2/full/616,/0/default.jpg",
+      "type": "Image",
+      "height": 931,
+      "width": 616,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/93/db/01/22/33/28/4c/64/8f/a5/c2/43/13/da/ab/3e/bec9db2f-05b6-488b-b03b-848db23a6248.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/scheepsbouwprotest-tegen-ontslagrondes.json/p1/canvas/2235",

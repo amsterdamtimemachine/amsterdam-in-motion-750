@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/df/1b/01/5a/b8/25/4f/a7/be/75/91/b0/dd/e5/56/3b/857b72e3-f133-4987-b052-fe888240b272.jp2/full/927,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 927,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/df/1b/01/5a/b8/25/4f/a7/be/75/91/b0/dd/e5/56/3b/857b72e3-f133-4987-b052-fe888240b272.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-opvang-de-vluchthaven.json/p1/canvas/1737",

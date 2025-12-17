@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/2b/bb/60/a0/a0/da/47/c4/9e/9d/a5/ee/4f/ee/3e/4b/37712d53-195e-4a22-bff4-c247985f6ce1.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2b/bb/60/a0/a0/da/47/c4/9e/9d/a5/ee/4f/ee/3e/4b/37712d53-195e-4a22-bff4-c247985f6ce1.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/boycot-spaans-schip.json/p1/canvas/2000",

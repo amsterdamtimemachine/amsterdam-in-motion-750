@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/fe/da/14/cf/81/5c/4c/61/bf/d2/0a/19/e0/28/e6/2e/fbced208-d773-4a47-a23d-bb26091c35e1.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/fe/da/14/cf/81/5c/4c/61/bf/d2/0a/19/e0/28/e6/2e/fbced208-d773-4a47-a23d-bb26091c35e1.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-en-protestmars-wegens-dood-4-nl-journalisten-in-el-salvador.json/p1/canvas/3199",

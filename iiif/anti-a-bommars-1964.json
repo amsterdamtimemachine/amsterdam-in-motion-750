@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/a1/3f/18/28/d0/84/41/5e/99/cd/79/32/19/f5/4b/fe/e27484f9-9755-4448-b9ca-dc5319b851e9.jp2/full/660,/0/default.jpg",
+      "type": "Image",
+      "height": 662,
+      "width": 660,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a1/3f/18/28/d0/84/41/5e/99/cd/79/32/19/f5/4b/fe/e27484f9-9755-4448-b9ca-dc5319b851e9.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/anti-a-bommars-1964.json/p1/canvas/372",

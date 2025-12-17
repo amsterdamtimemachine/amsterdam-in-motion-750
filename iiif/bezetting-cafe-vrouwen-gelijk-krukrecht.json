@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/fc/28/22/1f/b4/42/4f/8a/82/f5/3e/07/04/9a/a2/09/0a88be1b-8abd-4b69-b5a6-15b032dcf328.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 614,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/fc/28/22/1f/b4/42/4f/8a/82/f5/3e/07/04/9a/a2/09/0a88be1b-8abd-4b69-b5a6-15b032dcf328.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-cafe-vrouwen-gelijk-krukrecht.json/p1/canvas/1680",

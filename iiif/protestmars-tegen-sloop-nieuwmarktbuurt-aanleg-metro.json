@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/4c/26/27/cf/6b/15/44/6b/ba/f1/83/16/80/ab/2a/2d/e4f2d2af-d78b-4d26-80be-27eddabc5a2a.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4c/26/27/cf/6b/15/44/6b/ba/f1/83/16/80/ab/2a/2d/e4f2d2af-d78b-4d26-80be-27eddabc5a2a.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-sloop-nieuwmarktbuurt-aanleg-metro.json/p1/canvas/1882",

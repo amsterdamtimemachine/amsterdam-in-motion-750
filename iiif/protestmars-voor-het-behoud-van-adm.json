@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/79/99/35/39/f7/02/48/57/86/98/0a/37/af/89/25/1c/0b446d90-ad9d-4862-af43-f6a4a73abde3.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 607,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/79/99/35/39/f7/02/48/57/86/98/0a/37/af/89/25/1c/0b446d90-ad9d-4862-af43-f6a4a73abde3.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-voor-het-behoud-van-adm.json/p1/canvas/3882",

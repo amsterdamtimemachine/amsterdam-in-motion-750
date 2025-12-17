@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/bd/44/2e/5b/3f/4d/44/e0/8d/5c/b2/d3/73/3b/44/02/91eb162d-7e2f-411d-b6f3-7138bd873fbf.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/bd/44/2e/5b/3f/4d/44/e0/8d/5c/b2/d3/73/3b/44/02/91eb162d-7e2f-411d-b6f3-7138bd873fbf.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-bezuiniging-gezondheidssector.json/p1/canvas/2014",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/31/19/31/cc/84/d8/4d/0f/a7/c0/c2/4b/cc/95/1d/a6/cb2e1ccf-ea90-481e-a42b-efd9b13c88cf.jp2/full/888,/0/default.jpg",
+      "type": "Image",
+      "height": 721,
+      "width": 888,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/31/19/31/cc/84/d8/4d/0f/a7/c0/c2/4b/cc/95/1d/a6/cb2e1ccf-ea90-481e-a42b-efd9b13c88cf.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/studenten-1968.json/p1/canvas/682",

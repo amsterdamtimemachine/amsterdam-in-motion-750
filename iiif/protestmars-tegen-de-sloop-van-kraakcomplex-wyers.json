@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/4c/83/75/45/40/64/4d/8f/a2/47/f2/57/7a/7a/f4/64/29e58e6b-f391-429a-a654-2b548574e465.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/4c/83/75/45/40/64/4d/8f/a2/47/f2/57/7a/7a/f4/64/29e58e6b-f391-429a-a654-2b548574e465.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-de-sloop-van-kraakcomplex-wyers.json/p1/canvas/3553",

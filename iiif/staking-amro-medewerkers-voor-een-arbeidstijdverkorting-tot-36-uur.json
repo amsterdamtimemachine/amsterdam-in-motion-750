@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/2b/b3/3e/cb/05/61/4f/b1/94/be/94/88/9e/6f/6b/dc/dd698aae-9783-4d0f-9340-6f598936ed84.jp2/full/610,/0/default.jpg",
+      "type": "Image",
+      "height": 920,
+      "width": 610,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2b/b3/3e/cb/05/61/4f/b1/94/be/94/88/9e/6f/6b/dc/dd698aae-9783-4d0f-9340-6f598936ed84.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/staking-amro-medewerkers-voor-een-arbeidstijdverkorting-tot-36-uur.json/p1/canvas/3214",

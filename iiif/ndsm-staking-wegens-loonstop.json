@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/5b/6f/c1/75/c9/ce/4d/53/85/35/5a/fc/6a/4d/ee/7b/69e0fecc-61b2-4e93-9c4f-680039b723ed.jp2/full/922,/0/default.jpg",
+      "type": "Image",
+      "height": 607,
+      "width": 922,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/5b/6f/c1/75/c9/ce/4d/53/85/35/5a/fc/6a/4d/ee/7b/69e0fecc-61b2-4e93-9c4f-680039b723ed.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ndsm-staking-wegens-loonstop.json/p1/canvas/1251",

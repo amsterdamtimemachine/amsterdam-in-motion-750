@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/f4/31/c3/a0/9f/3d/4a/ed/be/58/17/29/03/b2/ae/04/c013c309-a246-43b1-a62c-dc41b267f494.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f4/31/c3/a0/9f/3d/4a/ed/be/58/17/29/03/b2/ae/04/c013c309-a246-43b1-a62c-dc41b267f494.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/slaapactie-turken-asiel.json/p1/canvas/2570",

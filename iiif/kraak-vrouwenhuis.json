@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/3a/6e/16/bb/3d/0b/4d/af/8c/54/50/45/87/00/f5/f6/5960dafd-ba56-4d98-b265-5bb61608492c.jp2/full/606,/0/default.jpg",
+      "type": "Image",
+      "height": 916,
+      "width": 606,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3a/6e/16/bb/3d/0b/4d/af/8c/54/50/45/87/00/f5/f6/5960dafd-ba56-4d98-b265-5bb61608492c.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraak-vrouwenhuis.json/p1/canvas/1691",

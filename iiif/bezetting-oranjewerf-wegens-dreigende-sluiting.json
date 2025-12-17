@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/40/1a/a3/88/fe/82/49/43/94/98/7c/0c/d2/ca/d2/32/f9d85625-b5ab-474b-ae6f-5ca5c102d068.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/40/1a/a3/88/fe/82/49/43/94/98/7c/0c/d2/ca/d2/32/f9d85625-b5ab-474b-ae6f-5ca5c102d068.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-oranjewerf-wegens-dreigende-sluiting.json/p1/canvas/3167",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/50/60/c7/7e/f1/88/42/be/80/c8/79/2d/e7/81/59/fe/d6ec1a63-1636-43fd-80e0-275a7d11fbc4.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/50/60/c7/7e/f1/88/42/be/80/c8/79/2d/e7/81/59/fe/d6ec1a63-1636-43fd-80e0-275a7d11fbc4.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-bestuursvleugel-van-de-vu.json/p1/canvas/3968",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/49/6f/1b/e2/ea/aa/41/12/80/45/1a/35/b5/56/21/dd/a634701b-6d86-40c9-aa85-0dae0d107aaf.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 612,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/49/6f/1b/e2/ea/aa/41/12/80/45/1a/35/b5/56/21/dd/a634701b-6d86-40c9-aa85-0dae0d107aaf.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wij-vrouwen-eisen-demonstratie-abortusrecht.json/p1/canvas/2138",

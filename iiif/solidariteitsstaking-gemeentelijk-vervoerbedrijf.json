@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/ad/4d/ad/2c/cd/e6/4a/38/95/17/c9/14/2d/b6/30/6f/eea7c8aa-0215-446f-8221-8132578400e5.jp2/full/922,/0/default.jpg",
+      "type": "Image",
+      "height": 615,
+      "width": 922,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ad/4d/ad/2c/cd/e6/4a/38/95/17/c9/14/2d/b6/30/6f/eea7c8aa-0215-446f-8221-8132578400e5.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/solidariteitsstaking-gemeentelijk-vervoerbedrijf.json/p1/canvas/2152",

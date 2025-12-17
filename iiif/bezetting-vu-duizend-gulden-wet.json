@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/70/50/ef/db/64/e3/42/5f/b4/34/27/64/30/e4/b1/39/ed968ace-1894-4121-8aa3-1e77309ac47a.jp2/full/905,/0/default.jpg",
+      "type": "Image",
+      "height": 608,
+      "width": 905,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/70/50/ef/db/64/e3/42/5f/b4/34/27/64/30/e4/b1/39/ed968ace-1894-4121-8aa3-1e77309ac47a.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vu-duizend-gulden-wet.json/p1/canvas/1638",

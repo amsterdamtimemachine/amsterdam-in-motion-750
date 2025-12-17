@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/e0/57/63/d8/5e/a1/4c/18/a8/f3/db/eb/4f/2d/a3/1d/a97c7b9d-bf53-4a8a-bd07-1cf9780036d3.jp2/full/914,/0/default.jpg",
+      "type": "Image",
+      "height": 606,
+      "width": 914,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e0/57/63/d8/5e/a1/4c/18/a8/f3/db/eb/4f/2d/a3/1d/a97c7b9d-bf53-4a8a-bd07-1cf9780036d3.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-pvda-partijbureau.json/p1/canvas/1770",

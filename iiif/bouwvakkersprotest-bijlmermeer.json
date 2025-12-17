@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/09/48/fa/bc/7a/ba/41/b4/96/c4/c3/93/26/3e/25/ad/3770a6ec-b406-4b14-8877-399cedc02d7e.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 600,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/09/48/fa/bc/7a/ba/41/b4/96/c4/c3/93/26/3e/25/ad/3770a6ec-b406-4b14-8877-399cedc02d7e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bouwvakkersprotest-bijlmermeer.json/p1/canvas/954",

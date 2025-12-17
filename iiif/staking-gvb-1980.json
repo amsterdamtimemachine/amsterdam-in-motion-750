@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/ca/3c/7d/8a/f3/fc/43/ec/bb/c6/0e/b7/5e/9d/82/a4/39c086ff-30a6-4bf8-bde6-3f65ab957681.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ca/3c/7d/8a/f3/fc/43/ec/bb/c6/0e/b7/5e/9d/82/a4/39c086ff-30a6-4bf8-bde6-3f65ab957681.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/staking-gvb-1980.json/p1/canvas/2598",

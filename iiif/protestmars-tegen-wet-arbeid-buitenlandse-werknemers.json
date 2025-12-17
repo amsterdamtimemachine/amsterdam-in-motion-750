@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/bb/ec/bb/40/82/59/44/b8/99/e3/9f/ba/34/a8/0a/4d/2018b78e-3319-4b32-b063-519b1bf69afb.jp2/full/919,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 919,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/bb/ec/bb/40/82/59/44/b8/99/e3/9f/ba/34/a8/0a/4d/2018b78e-3319-4b32-b063-519b1bf69afb.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-wet-arbeid-buitenlandse-werknemers.json/p1/canvas/2532",

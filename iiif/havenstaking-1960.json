@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/c4/99/b2/f7/ce/10/4e/d9/8f/8e/63/54/65/eb/c8/4a/358d5df3-aba4-4b10-8897-c3b1bec80dbc.jp2/full/640,/0/default.jpg",
+      "type": "Image",
+      "height": 651,
+      "width": 640,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c4/99/b2/f7/ce/10/4e/d9/8f/8e/63/54/65/eb/c8/4a/358d5df3-aba4-4b10-8897-c3b1bec80dbc.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/havenstaking-1960.json/p1/canvas/264",

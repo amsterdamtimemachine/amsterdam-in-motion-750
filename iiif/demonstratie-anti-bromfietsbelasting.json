@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/01/b7/58/c9/62/4c/47/6d/a4/fe/d3/fc/1c/c9/70/3b/8996190f-3fce-4698-b867-25808c64923a.jp2/full/607,/0/default.jpg",
+      "type": "Image",
+      "height": 918,
+      "width": 607,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/01/b7/58/c9/62/4c/47/6d/a4/fe/d3/fc/1c/c9/70/3b/8996190f-3fce-4698-b867-25808c64923a.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-anti-bromfietsbelasting.json/p1/canvas/1426",

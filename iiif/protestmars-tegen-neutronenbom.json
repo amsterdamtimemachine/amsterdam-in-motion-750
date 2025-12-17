@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/5c/31/b2/65/fc/e9/48/c8/a8/e1/b2/36/ba/90/1b/2e/d1a32081-0135-44dc-a49a-721fd021a830.jp2/full/616,/0/default.jpg",
+      "type": "Image",
+      "height": 931,
+      "width": 616,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/5c/31/b2/65/fc/e9/48/c8/a8/e1/b2/36/ba/90/1b/2e/d1a32081-0135-44dc-a49a-721fd021a830.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-neutronenbom.json/p1/canvas/2230",

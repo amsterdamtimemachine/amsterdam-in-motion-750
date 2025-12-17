@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/f2/99/92/58/b4/7b/49/ef/b3/21/c8/30/7d/0f/8b/77/533e602d-6a60-489c-ace8-e32e8807e97d.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f2/99/92/58/b4/7b/49/ef/b3/21/c8/30/7d/0f/8b/77/533e602d-6a60-489c-ace8-e32e8807e97d.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratieve-bloemlegging-sloop-nieuwmarktbuurt-aanleg-metro.json/p1/canvas/1940",

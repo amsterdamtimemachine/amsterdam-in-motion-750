@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/8f/41/5b/74/42/3e/4b/e3/a4/a0/10/bf/34/f2/9a/8c/e4750ff1-6517-465b-b334-b3cae332887e.jp2/full/601,/0/default.jpg",
+      "type": "Image",
+      "height": 912,
+      "width": 601,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8f/41/5b/74/42/3e/4b/e3/a4/a0/10/bf/34/f2/9a/8c/e4750ff1-6517-465b-b334-b3cae332887e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/schoolstaking-osdorp.json/p1/canvas/367",

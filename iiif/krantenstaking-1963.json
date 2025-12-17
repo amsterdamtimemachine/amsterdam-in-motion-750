@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/43/2c/b0/7c/b7/a1/47/d4/87/69/1c/1a/64/36/62/d1/34fc48b3-08f0-4fdb-9bed-89189c53a7c0.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 601,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/43/2c/b0/7c/b7/a1/47/d4/87/69/1c/1a/64/36/62/d1/34fc48b3-08f0-4fdb-9bed-89189c53a7c0.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/krantenstaking-1963.json/p1/canvas/353",

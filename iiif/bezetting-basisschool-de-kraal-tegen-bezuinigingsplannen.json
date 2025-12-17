@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/eb/bb/07/f8/3a/6d/40/80/ba/56/3e/7f/7d/63/b9/27/cc91ea94-9386-43d5-a007-d209520dd367.jp2/full/936,/0/default.jpg",
+      "type": "Image",
+      "height": 618,
+      "width": 936,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/eb/bb/07/f8/3a/6d/40/80/ba/56/3e/7f/7d/63/b9/27/cc91ea94-9386-43d5-a007-d209520dd367.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-basisschool-de-kraal-tegen-bezuinigingsplannen.json/p1/canvas/4106",

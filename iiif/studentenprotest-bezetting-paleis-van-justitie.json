@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/cb/35/ac/03/20/0d/4c/01/a9/a6/bf/83/ae/9d/38/1a/0596e131-c3d5-4d51-a02f-465ac41d91fa.jp2/full/925,/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 925,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/cb/35/ac/03/20/0d/4c/01/a9/a6/bf/83/ae/9d/38/1a/0596e131-c3d5-4d51-a02f-465ac41d91fa.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/studentenprotest-bezetting-paleis-van-justitie.json/p1/canvas/857",

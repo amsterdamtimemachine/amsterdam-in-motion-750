@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/11/7a/f2/d3/bd/dd/43/d5/a7/98/f3/c7/25/b7/c5/39/f0f7fc32-7ff0-408c-a6aa-df3e760cd38e.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/11/7a/f2/d3/bd/dd/43/d5/a7/98/f3/c7/25/b7/c5/39/f0f7fc32-7ff0-408c-a6aa-df3e760cd38e.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-voor-russische-joden.json/p1/canvas/3940",

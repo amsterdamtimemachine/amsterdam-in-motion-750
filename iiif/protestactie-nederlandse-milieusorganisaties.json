@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/3a/b9/0e/d9/60/44/45/35/b9/fb/90/94/9c/bf/12/29/77504b59-4226-407c-a916-9dc0a54f9d46.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3a/b9/0e/d9/60/44/45/35/b9/fb/90/94/9c/bf/12/29/77504b59-4226-407c-a916-9dc0a54f9d46.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestactie-nederlandse-milieusorganisaties.json/p1/canvas/2604",

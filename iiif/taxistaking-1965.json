@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/82/c8/c0/c2/9a/53/40/18/94/c4/b5/bd/7d/96/59/f1/a222e365-3ecb-464c-ba18-c065abed82af.jp2/full/545,/0/default.jpg",
+      "type": "Image",
+      "height": 813,
+      "width": 545,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/82/c8/c0/c2/9a/53/40/18/94/c4/b5/bd/7d/96/59/f1/a222e365-3ecb-464c-ba18-c065abed82af.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/taxistaking-1965.json/p1/canvas/435",

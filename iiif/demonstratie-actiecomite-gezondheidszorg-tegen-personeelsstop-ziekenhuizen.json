@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/2f/ac/91/71/73/32/47/9b/bd/58/a8/47/56/95/09/dc/04105290-15f7-4b82-952c-94c0d3ba5adf.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/ac/91/71/73/32/47/9b/bd/58/a8/47/56/95/09/dc/04105290-15f7-4b82-952c-94c0d3ba5adf.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-actiecomite-gezondheidszorg-tegen-personeelsstop-ziekenhuizen.json/p1/canvas/1784",

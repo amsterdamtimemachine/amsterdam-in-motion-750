@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/17/62/20/c3/4a/dd/4b/59/94/39/45/e8/a2/49/ed/6f/197eff98-bc8f-4a07-847e-c93024723438.jp2/full/811,/0/default.jpg",
+      "type": "Image",
+      "height": 532,
+      "width": 811,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/17/62/20/c3/4a/dd/4b/59/94/39/45/e8/a2/49/ed/6f/197eff98-bc8f-4a07-847e-c93024723438.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/rellen-rond-huwelijk-prinses-beatrix-en-claus.json/p1/canvas/462",

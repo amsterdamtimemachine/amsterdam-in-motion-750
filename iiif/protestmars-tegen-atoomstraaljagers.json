@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/ab/04/37/1a/e4/69/41/a8/af/fa/3d/17/3b/9b/8b/a9/e0d64170-bab2-4885-9234-de48745ed4b9.jp2/full/920,/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 920,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ab/04/37/1a/e4/69/41/a8/af/fa/3d/17/3b/9b/8b/a9/e0d64170-bab2-4885-9234-de48745ed4b9.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-atoomstraaljagers.json/p1/canvas/1855",

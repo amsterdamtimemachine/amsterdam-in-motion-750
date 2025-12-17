@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/da/0c/48/aa/69/7d/49/fc/98/fc/b6/02/9a/4f/c7/e4/3ae393db-3db4-4ec0-a88e-366f33508222.jp2/full/912,/0/default.jpg",
+      "type": "Image",
+      "height": 607,
+      "width": 912,
+      "service": [
+        {
+          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/da/0c/48/aa/69/7d/49/fc/98/fc/b6/02/9a/4f/c7/e4/3ae393db-3db4-4ec0-a88e-366f33508222.jp2",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level1"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-bejaardentehuis-de-riekerhof-tegen-ontslag-van-de-directeur.json/p1/canvas/4060",
