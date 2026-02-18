@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2/full/606,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2/full/606,913/0/default.jpg",
       "type": "Image",
       "height": 913,
       "width": 606,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3652,
                 "width": 2427,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/73/48/51/35/3c/18/46/f0/ac/3f/98/6d/cf/61/3b/23/2b28881d-a445-42e0-b237-0a5235445c5a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

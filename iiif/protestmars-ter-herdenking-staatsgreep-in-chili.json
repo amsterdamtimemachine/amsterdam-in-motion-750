@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Rokin"
         ]
       }
     },
@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Protestmarsen, Buitenlandse politiek, Politiek, Oorlog en vrede"
+          "Protestmarsen, Buitenlandse politiek, Politiek, Militarisme"
         ]
       }
     },
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2/full/912,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2/full/912,604/0/default.jpg",
       "type": "Image",
       "height": 604,
       "width": 912,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2419,
                 "width": 3649,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d5/e1/6f/58/bf/49/4f/73/b5/d6/df/cf/d3/d2/83/fc/2ca9307f-39c2-4e99-8af7-3a8b5aa2dc8f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -337,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/28/43/19/67/57/84/41/f2/ba/79/f4/5f/86/a9/94/55/090dbb9c-153d-4acf-8866-60d3613037b1.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/28/43/19/67/57/84/41/f2/ba/79/f4/5f/86/a9/94/55/090dbb9c-153d-4acf-8866-60d3613037b1.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2419,
                 "width": 3649,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/28/43/19/67/57/84/41/f2/ba/79/f4/5f/86/a9/94/55/090dbb9c-153d-4acf-8866-60d3613037b1.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/28/43/19/67/57/84/41/f2/ba/79/f4/5f/86/a9/94/55/090dbb9c-153d-4acf-8866-60d3613037b1.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -373,7 +373,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Rokin"
         }
       ],
       "schema:additionalType": [
@@ -406,7 +406,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         }
       ]

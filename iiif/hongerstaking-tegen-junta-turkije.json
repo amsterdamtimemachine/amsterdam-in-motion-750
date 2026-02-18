@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Stakingen, Buitenlandse politiek, Politiek"
+          "Stakingen, Buitenlandse politiek, Politiek, Hongerstakingen, Militair bewind"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2"
+          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2, https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51, https://digitaalerfgoed.poolparty.biz/atm/0e0a52ce-52ac-492e-af08-25632c23c9eb"
         ]
       }
     }
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2/full/920,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2/full/920,610/0/default.jpg",
       "type": "Image",
       "height": 610,
       "width": 920,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9d/fb/c8/b5/c5/d2/4d/67/8a/17/19/0b/1d/8d/b7/81/3222d1e2-7380-4ca8-b4a8-4848c65f93e8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -266,6 +266,22 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Politiek"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Hongerstakingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/0e0a52ce-52ac-492e-af08-25632c23c9eb",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Militair bewind"
           }
         }
       ]

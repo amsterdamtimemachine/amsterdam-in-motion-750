@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Demonstraties"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab"
         ]
       }
     }
@@ -81,7 +81,7 @@
       "width": 749,
       "service": [
         {
-          "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7a579b34-a5ba-3fbf-fb25-af770f36d516/iiif/3/57545146",
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ce550a2e-c8bc-40c6-b4b2-76fa7c8478fa",
           "type": "ImageService3",
           "profile": "level2"
         }
@@ -208,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7a579b34-a5ba-3fbf-fb25-af770f36d516/iiif/3/57545146/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ce550a2e-c8bc-40c6-b4b2-76fa7c8478fa/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2398,
                 "width": 2994,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/7a579b34-a5ba-3fbf-fb25-af770f36d516/iiif/3/57545146",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ce550a2e-c8bc-40c6-b4b2-76fa7c8478fa",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -341,15 +341,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/91/4d/23/1f/62/70/4e/06/ad/cb/3d/64/bf/78/1a/54/e095473e-3f32-471e-b874-306eb286fc2f.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/91/4d/23/1f/62/70/4e/06/ad/cb/3d/64/bf/78/1a/54/e095473e-3f32-471e-b874-306eb286fc2f.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3673,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/91/4d/23/1f/62/70/4e/06/ad/cb/3d/64/bf/78/1a/54/e095473e-3f32-471e-b874-306eb286fc2f.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/91/4d/23/1f/62/70/4e/06/ad/cb/3d/64/bf/78/1a/54/e095473e-3f32-471e-b874-306eb286fc2f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -380,7 +380,16 @@
           "schema:name": ""
         }
       ],
-      "schema:additionalType": []
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        }
+      ]
     }
   ]
 }

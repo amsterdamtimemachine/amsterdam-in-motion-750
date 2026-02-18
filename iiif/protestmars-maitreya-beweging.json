@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Protestmarsen"
+          "Protestmarsen, Religie"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/47cd692b-49fd-42a8-a5c7-f0e7d90ae2f3"
+          "https://digitaalerfgoed.poolparty.biz/atm/47cd692b-49fd-42a8-a5c7-f0e7d90ae2f3, https://digitaalerfgoed.poolparty.biz/atm/5126f69d-64f5-40c9-91a1-f8936ae76350"
         ]
       }
     }
@@ -81,7 +81,7 @@
       "width": 765,
       "service": [
         {
-          "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/dd83a5d4-4c26-e1c1-1d6d-10603cf34732/iiif/3/57546012",
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/c3515415-3adb-42de-b528-8d5e3ba5e3bc",
           "type": "ImageService3",
           "profile": "level2"
         }
@@ -208,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/dd83a5d4-4c26-e1c1-1d6d-10603cf34732/iiif/3/57546012/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/c3515415-3adb-42de-b528-8d5e3ba5e3bc/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2272,
                 "width": 3060,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/dd83a5d4-4c26-e1c1-1d6d-10603cf34732/iiif/3/57546012",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/c3515415-3adb-42de-b528-8d5e3ba5e3bc",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -254,6 +254,14 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Protestmarsen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/5126f69d-64f5-40c9-91a1-f8936ae76350",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Religie"
           }
         }
       ]

@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1980-04-30"
+          "1980-04-01"
         ]
       }
     },
@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam, Damrak, Rokin, Paleisstraat"
         ]
       }
     },
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2/full/914,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2/full/914,604/0/default.jpg",
       "type": "Image",
       "height": 604,
       "width": 914,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a9/60/5d/63/ef/fe/42/c3/85/bc/2b/c1/35/02/f9/7c/7fc87440-7f5f-4c2d-8fbb-8c386e855f6e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -337,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a4/61/4d/ad/d5/cf/4d/58/bc/71/40/83/de/bb/67/7c/02172b5a-df33-4d3f-9f59-d6a546466b9a.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a4/61/4d/ad/d5/cf/4d/58/bc/71/40/83/de/bb/67/7c/02172b5a-df33-4d3f-9f59-d6a546466b9a.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a4/61/4d/ad/d5/cf/4d/58/bc/71/40/83/de/bb/67/7c/02172b5a-df33-4d3f-9f59-d6a546466b9a.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a4/61/4d/ad/d5/cf/4d/58/bc/71/40/83/de/bb/67/7c/02172b5a-df33-4d3f-9f59-d6a546466b9a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -470,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/02/42/e3/f7/ce/cd/46/10/a1/6d/e1/78/3a/ab/9d/bc/26a0522f-a28c-40b1-92e3-51c63f1cba12.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/02/42/e3/f7/ce/cd/46/10/a1/6d/e1/78/3a/ab/9d/bc/26a0522f-a28c-40b1-92e3-51c63f1cba12.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/02/42/e3/f7/ce/cd/46/10/a1/6d/e1/78/3a/ab/9d/bc/26a0522f-a28c-40b1-92e3-51c63f1cba12.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/02/42/e3/f7/ce/cd/46/10/a1/6d/e1/78/3a/ab/9d/bc/26a0522f-a28c-40b1-92e3-51c63f1cba12.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -603,15 +603,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8b/da/5c/d1/24/79/40/ed/a7/a6/6a/b0/20/57/d4/a6/cc7ad06e-4776-4f8b-94b9-1b26cb279c5b.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8b/da/5c/d1/24/79/40/ed/a7/a6/6a/b0/20/57/d4/a6/cc7ad06e-4776-4f8b-94b9-1b26cb279c5b.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8b/da/5c/d1/24/79/40/ed/a7/a6/6a/b0/20/57/d4/a6/cc7ad06e-4776-4f8b-94b9-1b26cb279c5b.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8b/da/5c/d1/24/79/40/ed/a7/a6/6a/b0/20/57/d4/a6/cc7ad06e-4776-4f8b-94b9-1b26cb279c5b.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -630,7 +630,7 @@
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "1980-04-30"
+        "@value": "1980-04-01"
       },
       "schema:endDate": {
         "@type": "xsd:date",
@@ -639,7 +639,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam, Damrak, Rokin, Paleisstraat"
         }
       ],
       "schema:additionalType": [

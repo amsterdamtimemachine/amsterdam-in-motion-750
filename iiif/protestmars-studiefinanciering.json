@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2/full/920,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2/full/920,611/0/default.jpg",
       "type": "Image",
       "height": 611,
       "width": 920,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/67/5c/6f/62/c8/40/65/ac/00/8e/94/19/46/f9/88/144fccf2-7342-47f4-859d-1851cdc03786.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -337,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d9/69/ad/b7/6a/23/43/cd/85/b7/1c/cf/64/37/1e/55/c6b091dc-9df6-4c44-bbe5-afd08590e24e.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d9/69/ad/b7/6a/23/43/cd/85/b7/1c/cf/64/37/1e/55/c6b091dc-9df6-4c44-bbe5-afd08590e24e.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d9/69/ad/b7/6a/23/43/cd/85/b7/1c/cf/64/37/1e/55/c6b091dc-9df6-4c44-bbe5-afd08590e24e.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d9/69/ad/b7/6a/23/43/cd/85/b7/1c/cf/64/37/1e/55/c6b091dc-9df6-4c44-bbe5-afd08590e24e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -470,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/57/63/1d/72/61/47/e3/9e/c8/4f/46/94/37/ee/be/702ffa02-4fdf-4be1-a257-1b50422faef7.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/57/63/1d/72/61/47/e3/9e/c8/4f/46/94/37/ee/be/702ffa02-4fdf-4be1-a257-1b50422faef7.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/57/63/1d/72/61/47/e3/9e/c8/4f/46/94/37/ee/be/702ffa02-4fdf-4be1-a257-1b50422faef7.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/57/63/1d/72/61/47/e3/9e/c8/4f/46/94/37/ee/be/702ffa02-4fdf-4be1-a257-1b50422faef7.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

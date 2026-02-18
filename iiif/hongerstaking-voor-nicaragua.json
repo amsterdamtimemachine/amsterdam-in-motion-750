@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Stakingen, Oorlog en vrede, Buitenlandse politiek, Politiek"
+          "Stakingen, Militarisme, Buitenlandse politiek, Politiek, Hongerstakingen"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/928b69ed-efee-44d0-be31-8f7eca58f693, https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2"
+          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/928b69ed-efee-44d0-be31-8f7eca58f693, https://digitaalerfgoed.poolparty.biz/atm/74ad1172-7924-420f-ae10-b1981493c135, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2, https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51"
         ]
       }
     }
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2/full/621,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2/full/621,937/0/default.jpg",
       "type": "Image",
       "height": 937,
       "width": 621,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3748,
                 "width": 2487,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2f/09/a5/9a/91/54/48/db/b9/cf/58/b4/2e/67/9a/cc/b9b4818c-9bde-4f10-b7d3-d2f90ca7112d.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -257,7 +257,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         },
         {
@@ -274,6 +274,14 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Politiek"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Hongerstakingen"
           }
         }
       ]

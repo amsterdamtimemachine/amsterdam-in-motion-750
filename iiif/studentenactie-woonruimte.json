@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam"
         ]
       }
     },
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2/full/916,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2/full/916,609/0/default.jpg",
       "type": "Image",
       "height": 609,
       "width": 916,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2436,
                 "width": 3664,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/67/40/15/cd/22/c1/4b/ce/85/33/e0/a2/e3/8e/42/38/4af9c17b-a5a3-4022-9fee-681b0f4583cc.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -341,13 +341,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b668367b-8727-0aaf-ab2e-6a8ea40f5b50/iiif/3/57777691/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/42bb118e-0a35-4c55-8099-affcd2ab0391/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2460,
                 "width": 3040,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b668367b-8727-0aaf-ab2e-6a8ea40f5b50/iiif/3/57777691",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/42bb118e-0a35-4c55-8099-affcd2ab0391",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -377,7 +377,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [

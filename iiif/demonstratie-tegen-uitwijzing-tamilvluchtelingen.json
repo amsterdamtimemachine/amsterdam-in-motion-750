@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Oorlog en vrede, Binnenlandse politiek, Politiek, Mensenrechten"
+          "Demonstraties, Militarisme, Binnenlandse politiek, Politiek, Mensenrechten"
         ]
       }
     },
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2/full/935,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2/full/935,619/0/default.jpg",
       "type": "Image",
       "height": 619,
       "width": 935,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2476,
                 "width": 3742,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/12/35/7b/84/b1/87/48/8a/9a/86/ba/2b/50/c5/13/53/66ca24c9-51bb-44c9-bd69-da22b12f3b40.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -257,7 +257,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         },
         {

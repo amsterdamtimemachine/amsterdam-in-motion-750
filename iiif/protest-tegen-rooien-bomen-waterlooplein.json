@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Demonstraties, Klimaat en natuurbehoud"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/a3c22faf-7d0a-4476-b6fc-1969d56481a3"
         ]
       }
     }
@@ -81,7 +81,7 @@
       "width": 754,
       "service": [
         {
-          "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/32bc52e5-3613-d6ea-ec05-883a5fe93094/iiif/3/57777806",
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/106a0baf-1947-4575-8cc8-70c6e927a82a",
           "type": "ImageService3",
           "profile": "level2"
         }
@@ -208,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/32bc52e5-3613-d6ea-ec05-883a5fe93094/iiif/3/57777806/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/106a0baf-1947-4575-8cc8-70c6e927a82a/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2388,
                 "width": 3017,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/32bc52e5-3613-d6ea-ec05-883a5fe93094/iiif/3/57777806",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/106a0baf-1947-4575-8cc8-70c6e927a82a",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -345,13 +345,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/8cf282b3-bb25-3234-c610-625d366b0a4a/iiif/3/37048247/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/62ae94d7-57a8-4c77-8d9c-66c5bdfed638/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3010,
                 "width": 2379,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/8cf282b3-bb25-3234-c610-625d366b0a4a/iiif/3/37048247",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/62ae94d7-57a8-4c77-8d9c-66c5bdfed638",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -482,13 +482,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/3ee27dd4-49cd-6d0d-8f7f-5de21a6424ee/iiif/3/57544107/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8d9fc52c-198d-4647-a958-e2c31dfbd518/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2386,
                 "width": 3006,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/3ee27dd4-49cd-6d0d-8f7f-5de21a6424ee/iiif/3/57544107",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8d9fc52c-198d-4647-a958-e2c31dfbd518",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -521,7 +521,24 @@
           "schema:name": ""
         }
       ],
-      "schema:additionalType": []
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/a3c22faf-7d0a-4476-b6fc-1969d56481a3",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Klimaat en natuurbehoud"
+          }
+        }
+      ]
     }
   ]
 }

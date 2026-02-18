@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Protestmarsen, Oorlog en vrede, Buitenlandse politiek, Politiek"
+          "Protestmarsen, Militarisme, Buitenlandse politiek, Politiek"
         ]
       }
     },
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2/full/935,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2/full/935,619/0/default.jpg",
       "type": "Image",
       "height": 619,
       "width": 935,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2476,
                 "width": 3742,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7d/c2/b4/55/fa/ab/45/af/b4/b0/02/f0/8e/17/49/71/b4c3b455-8d3c-4c14-92e1-c90776a35162.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -337,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/10/7b/54/14/e8/5b/4b/24/92/3d/a5/7b/ba/c3/a7/b1/d75bccee-9c85-47b2-b13f-f8ef9a114a64.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/10/7b/54/14/e8/5b/4b/24/92/3d/a5/7b/ba/c3/a7/b1/d75bccee-9c85-47b2-b13f-f8ef9a114a64.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2476,
                 "width": 3742,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/10/7b/54/14/e8/5b/4b/24/92/3d/a5/7b/ba/c3/a7/b1/d75bccee-9c85-47b2-b13f-f8ef9a114a64.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/10/7b/54/14/e8/5b/4b/24/92/3d/a5/7b/ba/c3/a7/b1/d75bccee-9c85-47b2-b13f-f8ef9a114a64.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -390,7 +390,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         },
         {

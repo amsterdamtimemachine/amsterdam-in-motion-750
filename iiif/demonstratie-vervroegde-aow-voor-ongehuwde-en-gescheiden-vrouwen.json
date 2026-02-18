@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/283f1223-efa6-448e-becb-db6e759a394b, https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
+          "https://digitaalerfgoed.poolparty.biz/atm/283f1223-efa6-448e-becb-db6e759a394b, https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
         ]
       }
     }
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2/full/682,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2/full/682,544/0/default.jpg",
       "type": "Image",
       "height": 544,
       "width": 682,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 4352,
                 "width": 5457,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/66/6e/91/1b/2f/f1/4a/97/bb/44/92/4d/41/8d/c6/10/8e71b996-48d7-4217-ba11-947027e17ba4.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -337,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e0/a7/85/cc/28/1f/43/66/a3/41/05/2f/78/5e/61/29/d72950a0-853b-43b9-8901-77fea99c8390.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e0/a7/85/cc/28/1f/43/66/a3/41/05/2f/78/5e/61/29/d72950a0-853b-43b9-8901-77fea99c8390.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 5465,
                 "width": 4360,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e0/a7/85/cc/28/1f/43/66/a3/41/05/2f/78/5e/61/29/d72950a0-853b-43b9-8901-77fea99c8390.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e0/a7/85/cc/28/1f/43/66/a3/41/05/2f/78/5e/61/29/d72950a0-853b-43b9-8901-77fea99c8390.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -394,7 +394,7 @@
           }
         },
         {
-          "@id": "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344",
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084",
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",

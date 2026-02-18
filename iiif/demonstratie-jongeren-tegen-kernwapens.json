@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "00:00:00"
+          "1983-10-15"
         ]
       }
     },
@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "00:00:00"
+          "1983-10-15"
         ]
       }
     },
@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam"
         ]
       }
     },
@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Oorlog en vrede"
+          "Demonstraties, Militarisme"
         ]
       }
     },
@@ -81,16 +81,16 @@
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "00:00:00"
+        "@value": "1983-10-15"
       },
       "schema:endDate": {
         "@type": "xsd:date",
-        "@value": "00:00:00"
+        "@value": "1983-10-15"
       },
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [
@@ -107,7 +107,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         }
       ]

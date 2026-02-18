@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam"
         ]
       }
     },
@@ -81,7 +81,7 @@
       "width": 523,
       "service": [
         {
-          "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/bf4e3600-7483-5092-635a-f36c354ca240/iiif/3/57543648",
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/edd2f551-697b-4a90-97b1-1d06b5ee5074",
           "type": "ImageService3",
           "profile": "level2"
         }
@@ -208,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/bf4e3600-7483-5092-635a-f36c354ca240/iiif/3/57543648/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/edd2f551-697b-4a90-97b1-1d06b5ee5074/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1480,
                 "width": 2092,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/bf4e3600-7483-5092-635a-f36c354ca240/iiif/3/57543648",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/edd2f551-697b-4a90-97b1-1d06b5ee5074",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -341,15 +341,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d0/a9/b0/f3/bc/7d/4a/8d/b1/88/9e/0f/5d/76/60/09/98aefa34-99a5-47f7-9987-5e1a70222019.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d0/a9/b0/f3/bc/7d/4a/8d/b1/88/9e/0f/5d/76/60/09/98aefa34-99a5-47f7-9987-5e1a70222019.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2628,
                 "width": 2612,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d0/a9/b0/f3/bc/7d/4a/8d/b1/88/9e/0f/5d/76/60/09/98aefa34-99a5-47f7-9987-5e1a70222019.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d0/a9/b0/f3/bc/7d/4a/8d/b1/88/9e/0f/5d/76/60/09/98aefa34-99a5-47f7-9987-5e1a70222019.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -474,15 +474,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d3/29/a9/ed/ce/da/4c/39/89/80/4a/2f/ec/f0/27/d7/5b4c4b1a-e026-4945-aaff-09e7d73f0782.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d3/29/a9/ed/ce/da/4c/39/89/80/4a/2f/ec/f0/27/d7/5b4c4b1a-e026-4945-aaff-09e7d73f0782.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2628,
                 "width": 2612,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d3/29/a9/ed/ce/da/4c/39/89/80/4a/2f/ec/f0/27/d7/5b4c4b1a-e026-4945-aaff-09e7d73f0782.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d3/29/a9/ed/ce/da/4c/39/89/80/4a/2f/ec/f0/27/d7/5b4c4b1a-e026-4945-aaff-09e7d73f0782.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -607,15 +607,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/36/d2/f3/76/c3/95/48/ac/8d/a4/6f/43/21/49/fc/6a/47d4283f-3ccb-4892-b61a-c2fd133aba69.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/36/d2/f3/76/c3/95/48/ac/8d/a4/6f/43/21/49/fc/6a/47d4283f-3ccb-4892-b61a-c2fd133aba69.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2628,
                 "width": 2612,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/36/d2/f3/76/c3/95/48/ac/8d/a4/6f/43/21/49/fc/6a/47d4283f-3ccb-4892-b61a-c2fd133aba69.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/36/d2/f3/76/c3/95/48/ac/8d/a4/6f/43/21/49/fc/6a/47d4283f-3ccb-4892-b61a-c2fd133aba69.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -744,13 +744,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e4860dab-7e33-ae84-2f1e-32ca19b458d1/iiif/3/18885972/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8ba38875-9004-43ab-8ef7-3ec0195d28f2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1494,
                 "width": 2723,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e4860dab-7e33-ae84-2f1e-32ca19b458d1/iiif/3/18885972",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8ba38875-9004-43ab-8ef7-3ec0195d28f2",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -780,7 +780,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [

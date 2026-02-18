@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Demonstraties, Mensenrechten"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f"
         ]
       }
     }
@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2/full/918,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2/full/918,613/0/default.jpg",
       "type": "Image",
       "height": 613,
       "width": 918,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -204,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2453,
                 "width": 3674,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/33/be/77/c7/c2/44/41/71/ae/b0/ef/db/05/e0/ef/3a/2386f977-f8b3-49a3-be3e-f7d6858acb62.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -337,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b0/78/88/00/56/f9/4f/98/a4/7e/ca/1d/cd/a8/8f/79/2422ba5a-eaf8-4c9b-b2d3-309ec8d2a269.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b0/78/88/00/56/f9/4f/98/a4/7e/ca/1d/cd/a8/8f/79/2422ba5a-eaf8-4c9b-b2d3-309ec8d2a269.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2453,
                 "width": 3674,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/b0/78/88/00/56/f9/4f/98/a4/7e/ca/1d/cd/a8/8f/79/2422ba5a-eaf8-4c9b-b2d3-309ec8d2a269.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b0/78/88/00/56/f9/4f/98/a4/7e/ca/1d/cd/a8/8f/79/2422ba5a-eaf8-4c9b-b2d3-309ec8d2a269.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -376,7 +376,24 @@
           "schema:name": ""
         }
       ],
-      "schema:additionalType": []
+      "schema:additionalType": [
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Demonstraties"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Mensenrechten"
+          }
+        }
+      ]
     }
   ]
 }

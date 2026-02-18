@@ -75,15 +75,15 @@
   "summary": {},
   "thumbnail": [
     {
-      "id": "https://service.archief.nl/iip/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2/full/610,/0/default.jpg",
+      "id": "https://service.archief.nl/iip/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2/full/610,920/0/default.jpg",
       "type": "Image",
       "height": 920,
       "width": 610,
       "service": [
         {
-          "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2",
-          "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level1"
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
         }
       ],
       "format": "image/jpeg"
@@ -91,7 +91,7 @@
   ],
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1959",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1960",
       "type": "Canvas",
       "label": {},
       "height": 3683,
@@ -196,28 +196,28 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1959/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1960/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1959/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1960/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3683,
                 "width": 2440,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9f/53/8c/ed/59/33/4a/ae/8b/94/20/c4/41/b2/8e/d4/1d4a1918-b2c9-44b6-9ef3-6d25afee4cff.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1959"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-stadsvernieuwing-spaarndammerbuurt.json/p1/canvas/1960"
             }
           ]
         }

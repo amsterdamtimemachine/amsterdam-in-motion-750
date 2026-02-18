@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          "Rozengracht"
+          ""
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f, https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344"
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/6785a8d6-0a6e-43aa-acb9-6d9d0311151f, https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084"
         ]
       }
     }
@@ -81,7 +81,7 @@
       "width": 529,
       "service": [
         {
-          "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/caef212f-6b71-7306-94e9-7d6df09f2091/iiif/3/57511706",
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/da2d4b39-a982-4176-81e2-d342c34dbbe0",
           "type": "ImageService3",
           "profile": "level2"
         }
@@ -208,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/caef212f-6b71-7306-94e9-7d6df09f2091/iiif/3/57511706/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/da2d4b39-a982-4176-81e2-d342c34dbbe0/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1437,
                 "width": 2117,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/caef212f-6b71-7306-94e9-7d6df09f2091/iiif/3/57511706",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/da2d4b39-a982-4176-81e2-d342c34dbbe0",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -244,7 +244,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": "Rozengracht"
+          "schema:name": ""
         }
       ],
       "schema:additionalType": [
@@ -265,7 +265,7 @@
           }
         },
         {
-          "@id": "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344",
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084",
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",

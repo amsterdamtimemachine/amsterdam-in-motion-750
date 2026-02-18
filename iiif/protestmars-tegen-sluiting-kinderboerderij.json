@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam"
         ]
       }
     },
@@ -81,7 +81,7 @@
       "width": 756,
       "service": [
         {
-          "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/fcc4d7a4-f786-f24a-f224-018eecc12c5a/iiif/3/57777464",
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/faa8bb84-263c-41e5-975a-8f94b064967f",
           "type": "ImageService3",
           "profile": "level2"
         }
@@ -208,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/fcc4d7a4-f786-f24a-f224-018eecc12c5a/iiif/3/57777464/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/faa8bb84-263c-41e5-975a-8f94b064967f/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2406,
                 "width": 3024,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/fcc4d7a4-f786-f24a-f224-018eecc12c5a/iiif/3/57777464",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/faa8bb84-263c-41e5-975a-8f94b064967f",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -244,7 +244,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [
