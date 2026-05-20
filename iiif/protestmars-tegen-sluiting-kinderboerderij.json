@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1982-10-04T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/fcc4d7a4-f786-f24a-f224-018eecc12c5a/iiif/3/57777464/full/756,602/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/faa8bb84-263c-41e5-975a-8f94b064967f",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"

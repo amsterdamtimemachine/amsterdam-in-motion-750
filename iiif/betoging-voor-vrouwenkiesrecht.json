@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1916-09-01T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/90190d20-38ce-ca13-6724-9ad1152529dc/iiif/3/18957278/full/684,512/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d82b2193-790f-4ab8-aa4f-b1b07dcbccdf",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"

@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1976-09-16T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/b2/2c/1b/49/45/1c/49/33/b3/55/1c/97/27/d8/43/73/38499afc-ae46-4b36-914a-897818afec4b.jp2/full/925,614/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b2/2c/1b/49/45/1c/49/33/b3/55/1c/97/27/d8/43/73/38499afc-ae46-4b36-914a-897818afec4b.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/schooldemonstratie-subsidie.json/p1/canvas/2116",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2457,
       "width": 3700,
       "metadata": [

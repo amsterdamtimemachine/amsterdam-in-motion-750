@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1979-01-01T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/0f6a2b6e-45e2-886d-9c34-1b8fa1acce5a/iiif/3/57877203/full/844,555/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/549fa01c-9896-4ea3-ae38-e4ee55778288",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"

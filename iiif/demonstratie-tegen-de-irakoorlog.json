@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "2003-03-22T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://maior-images.memorix.nl/ranh/iiif/8c5684ba-b31a-afb6-1a65-1b3ef4a31808/full/765,/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "@id": "https://maior-images.memorix.nl/ranh/iiif/8c5684ba-b31a-afb6-1a65-1b3ef4a31808",
           "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level2.json"
+          "profile": "http://iiif.io/api/image/2/level2.json",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"

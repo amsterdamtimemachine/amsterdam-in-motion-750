@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1886-08-01T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5608388b-baf8-d80e-3d83-3828291b2725/iiif/3/57583842/full/637,485/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ef76bf9d-0c86-47cd-a5d3-ddc7a884e201",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -367,7 +373,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/47",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 3852,
       "width": 2927,
       "metadata": [

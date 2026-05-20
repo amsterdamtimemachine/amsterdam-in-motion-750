@@ -1,5 +1,4 @@
 import json
-from datetime import datetime, timezone
 import pandas as pd
 import iiif_prezi3
 import requests
@@ -59,20 +58,11 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
 
         datum_start = protest_row["datum_start"]
 
-        # Create nav_date in Europe/Amsterdam timezone at midnight from YYYY-mm-dd
-        if pd.isna(datum_start):
-            nav_date = None
-        else:
-            ts = pd.to_datetime(datum_start, format="%Y-%m-%d", errors="coerce")
-            if pd.isna(ts):
-                nav_date = None
-            else:
-                ts = (
-                    ts.tz_localize("Europe/Amsterdam")
-                    if ts.tzinfo is None
-                    else ts.tz_convert("Europe/Amsterdam")
-                )
-                nav_date = ts.isoformat()
+        nav_date = None
+        if pd.notna(datum_start):
+            parsed_start = pd.to_datetime(datum_start)
+            if pd.notna(parsed_start):
+                nav_date = parsed_start.strftime("%Y-%m-%dT%H:%M:%SZ")
 
         protest_sdo = {
             "@type": "schema:Event",
@@ -120,14 +110,18 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
         thumbnail_set = False
         manifest = iiif_prezi3.Manifest(
             id=manifest_uri,
-            label=protest_row["naam"] if pd.notna(protest_row["naam"]) else "",
+            label=(
+                {"nl": [protest_row["naam"]]}
+                if pd.notna(protest_row["naam"])
+                else {"nl": [""]}
+            ),
             summary=(
-                protest_row["beschrijving"]
+                {"nl": [protest_row["beschrijving"]]}
                 if pd.notna(protest_row["beschrijving"])
-                else ""
+                else {"nl": [""]}
             ),
             items=[],
-            navDate=nav_date,
+            navDate=str(nav_date) if nav_date is not None else "",
             metadata=[
                 # iiif_prezi3.KeyValueString(label={"nl": ["Naam"]}, value={"nl": [protest_row['naam'] if pd.notna(protest_row['naam']) else ""]}),
                 # iiif_prezi3.KeyValueString(label={"nl": ["Beschrijving"]}, value={"nl": [protest_row['beschrijving'] if pd.notna(protest_row['beschrijving']) else ""]}),
@@ -209,109 +203,154 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                     continue
 
             canvas_id = f"{manifest_uri}/p1/canvas/{i+1}"
-            # time.sleep(1)
 
-            manifest.make_canvas_from_iiif(
-                url=photo_row["iiif_info_json"],
-                id=canvas_id,
-                anno_page_id=canvas_id + "/page",
-                anno_id=canvas_id + "/anno",
-                label=photo_row["naam"] if pd.notna(photo_row["naam"]) else "",
-                metadata=[
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Naam"]},
-                        value={
-                            "nl": [
-                                photo_row["naam"] if pd.notna(photo_row["naam"]) else ""
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Beschrijving"]},
-                        value={
-                            "nl": [
-                                (
-                                    photo_row["beschrijving"]
-                                    if pd.notna(photo_row["beschrijving"])
-                                    else ""
-                                )
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Datum (begin)"]},
-                        value={
-                            "nl": [
-                                (
-                                    str(photo_row["datum_start"][:10])
-                                    if pd.notna(photo_row["datum_start"])
-                                    else ""
-                                )
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Datum (eind)"]},
-                        value={
-                            "nl": [
-                                (
-                                    str(photo_row["datum_eind"][:10])
-                                    if pd.notna(photo_row["datum_eind"])
-                                    else ""
-                                )
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Fotograaf"]},
-                        value={
-                            "nl": [
-                                (
-                                    photo_row["fotograaf"]
-                                    if pd.notna(photo_row["fotograaf"])
-                                    else ""
-                                )
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Archief"]},
-                        value={
-                            "nl": [
-                                (
-                                    photo_row["archief"]
-                                    if pd.notna(photo_row["archief"])
-                                    else ""
-                                )
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["URL"]},
-                        value={
-                            "nl": [
-                                photo_row["url"] if pd.notna(photo_row["url"]) else ""
-                            ]
-                        },
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label={"nl": ["Locatie"]},
-                        value={
-                            "nl": [
-                                (
-                                    photo_row["locatie"]
-                                    if pd.notna(photo_row["locatie"])
-                                    else ""
-                                )
-                            ]
-                        },
-                    ),
-                ],
-            )
+            # Retry 10 times with a delay if there is an error fetching the info.json
+            for attempt in range(10):
+                try:
+                    manifest.make_canvas_from_iiif(
+                        url=photo_row["iiif_info_json"],
+                        id=canvas_id,
+                        anno_page_id=canvas_id + "/page",
+                        anno_id=canvas_id + "/anno",
+                        label=(
+                            {"nl": [photo_row["naam"]]}
+                            if pd.notna(photo_row["naam"])
+                            else {"nl": [""]}
+                        ),
+                        metadata=[
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Naam"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            photo_row["naam"]
+                                            if pd.notna(photo_row["naam"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Beschrijving"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            photo_row["beschrijving"]
+                                            if pd.notna(photo_row["beschrijving"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Datum (begin)"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            str(photo_row["datum_start"][:10])
+                                            if pd.notna(photo_row["datum_start"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Datum (eind)"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            str(photo_row["datum_eind"][:10])
+                                            if pd.notna(photo_row["datum_eind"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Fotograaf"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            photo_row["fotograaf"]
+                                            if pd.notna(photo_row["fotograaf"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Archief"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            photo_row["archief"]
+                                            if pd.notna(photo_row["archief"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["URL"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            photo_row["url"]
+                                            if pd.notna(photo_row["url"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                            iiif_prezi3.KeyValueString(
+                                label={"nl": ["Locatie"]},
+                                value={
+                                    "nl": [
+                                        (
+                                            photo_row["locatie"]
+                                            if pd.notna(photo_row["locatie"])
+                                            else ""
+                                        )
+                                    ]
+                                },
+                            ),
+                        ],
+                    )
+                    break
+                except Exception as e:
+                    if attempt < 9:
+                        delay = 5 * (attempt + 1)
+                        print(
+                            f"Error fetching info.json for {photo_row['iiif_info_json']} "
+                            f"(attempt {attempt + 1}/10): {e}. Retrying in {delay} seconds..."
+                        )
+                        time.sleep(delay)
+                    else:
+                        print(
+                            f"Failed to fetch info.json for {photo_row['iiif_info_json']} "
+                            f"after 10 attempts: {e}. Skipping."
+                        )
+                        continue
 
             if not thumbnail_set:
-                manifest.create_thumbnail_from_iiif(photo_row["iiif_info_json"])
-                thumbnail_set = True
+                for attempt in range(10):
+                    try:
+                        manifest.create_thumbnail_from_iiif(photo_row["iiif_info_json"])
+                        thumbnail_set = True
+                        break
+                    except Exception as e:
+                        if attempt < 9:
+                            delay = 5 * (attempt + 1)
+                            print(
+                                f"Error fetching thumbnail for {photo_row['iiif_info_json']} "
+                                f"(attempt {attempt + 1}/10): {e}. Retrying in {delay} seconds..."
+                            )
+                            time.sleep(delay)
+                        else:
+                            print(
+                                f"Failed to fetch thumbnail for {photo_row['iiif_info_json']} "
+                                f"after 10 attempts: {e}. Skipping."
+                            )
 
         with open(f"{target_folder}/{slug}.json", "w", encoding="utf-8") as f:
             manifest_jsonld = json.loads(manifest.json())

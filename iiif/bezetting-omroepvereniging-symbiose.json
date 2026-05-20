@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1978-04-19T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/4f/ea/45/6c/03/03/47/cc/ad/5a/c1/83/ec/f3/e0/1c/3b9e2580-5d14-466d-ae95-575d082264ff.jp2/full/931,616/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/4f/ea/45/6c/03/03/47/cc/ad/5a/c1/83/ec/f3/e0/1c/3b9e2580-5d14-466d-ae95-575d082264ff.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-omroepvereniging-symbiose.json/p1/canvas/2248",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2467,
       "width": 3725,
       "metadata": [
@@ -226,7 +236,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-omroepvereniging-symbiose.json/p1/canvas/2249",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 3725,
       "width": 2467,
       "metadata": [

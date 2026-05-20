@@ -72,8 +72,168 @@
       }
     }
   ],
-  "summary": {},
-  "items": [],
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1991-02-14T00:00:00Z",
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b4868683-97bf-9327-a573-105adecdf66d/iiif/3/18870425/full/576,584/0/default.jpg",
+      "type": "Image",
+      "height": 584,
+      "width": 576,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cf286ffa-4d3a-4b46-a3b2-8e98c20a88ed",
+          "type": "ImageService3",
+          "profile": "level2",
+          "format": "image/jpeg"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kiss-in-voor-de-rechten-van-homoseksuelen-in-groot-brittanni.json/p1/canvas/4374",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kiss In"
+        ]
+      },
+      "height": 4672,
+      "width": 4611,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Kiss In"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "ACT UP! Amsterdam voert actie bij het Britse consulaat, Koningslaan 44. Deze \"Kiss In\" is bedoeld om aandacht te vragen voor de rechten van homoseksuelen in Groot-Brittannië. Foto uit de serie 'Aids in Amsterdam' gemaakt in opdracht van het Amsterdams Fonds voor de Kunst. Afmetingen: 509 x 404 mm (blad), 305 x 310 mm (voorstelling)."
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1991-02-14"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1991-02-14"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Stadsarchief Amsterdam"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://archief.amsterdam/beeldbank/detail/b4868683-97bf-9327-a573-105adecdf66d"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kiss-in-voor-de-rechten-van-homoseksuelen-in-groot-brittanni.json/p1/canvas/4374/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kiss-in-voor-de-rechten-van-homoseksuelen-in-groot-brittanni.json/p1/canvas/4374/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cf286ffa-4d3a-4b46-a3b2-8e98c20a88ed/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 4672,
+                "width": 4611,
+                "service": [
+                  {
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cf286ffa-4d3a-4b46-a3b2-8e98c20a88ed",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-kiss-in-voor-de-rechten-van-homoseksuelen-in-groot-brittanni.json/p1/canvas/4374"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "seeAlso": [
     {
       "@type": "schema:Event",

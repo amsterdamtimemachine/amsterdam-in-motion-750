@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1991-05-01T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://maior-images.memorix.nl/ranh/iiif/fb1ed6d5-d223-fc05-c449-7022e1ab11ad/full/702,/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "@id": "https://maior-images.memorix.nl/ranh/iiif/fb1ed6d5-d223-fc05-c449-7022e1ab11ad",
           "@type": "ImageService2",
-          "profile": "http://iiif.io/api/image/2/level2.json"
+          "profile": "http://iiif.io/api/image/2/level2.json",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"

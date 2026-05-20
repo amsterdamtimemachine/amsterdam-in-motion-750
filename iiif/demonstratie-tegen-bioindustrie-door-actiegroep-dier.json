@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1987-08-21T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/c6/d2/c4/fa/fa/e5/44/70/93/98/d0/d6/c3/71/eb/c5/d355eba5-0af5-4eea-90f7-579d0b3464e3.jp2/full/618,937/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c6/d2/c4/fa/fa/e5/44/70/93/98/d0/d6/c3/71/eb/c5/d355eba5-0af5-4eea-90f7-579d0b3464e3.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-bioindustrie-door-actiegroep-dier.json/p1/canvas/4175",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 3749,
       "width": 2475,
       "metadata": [

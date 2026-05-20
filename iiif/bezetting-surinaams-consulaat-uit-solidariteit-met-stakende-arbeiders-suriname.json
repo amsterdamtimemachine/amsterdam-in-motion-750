@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1984-01-06T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/7e/fc/ee/25/60/55/41/b2/b6/43/d1/3b/52/09/ef/38/6f949774-7000-4982-8218-f187298a138a.jp2/full/912,615/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/fc/ee/25/60/55/41/b2/b6/43/d1/3b/52/09/ef/38/6f949774-7000-4982-8218-f187298a138a.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-surinaams-consulaat-uit-solidariteit-met-stakende-arbeiders-suriname.json/p1/canvas/3739",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2462,
       "width": 3651,
       "metadata": [

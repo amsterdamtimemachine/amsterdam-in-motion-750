@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1984-05-02T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/a1/5d/54/a1/c9/fe/40/a9/86/63/4c/ed/18/89/d9/f4/7a019bd8-4bc0-4209-9559-9877e464660a.jp2/full/922,613/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a1/5d/54/a1/c9/fe/40/a9/86/63/4c/ed/18/89/d9/f4/7a019bd8-4bc0-4209-9559-9877e464660a.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-buurthuizen-tegen-bezuinigingen.json/p1/canvas/3791",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2455,
       "width": 3688,
       "metadata": [
@@ -226,7 +236,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-buurthuizen-tegen-bezuinigingen.json/p1/canvas/3792",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2455,
       "width": 3688,
       "metadata": [

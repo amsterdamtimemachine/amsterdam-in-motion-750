@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1978-04-26T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/f5/8d/b2/7c/75/da/4c/e1/93/9d/74/33/b9/60/19/ef/f37dde82-f1bc-46f2-b983-d9062f282068.jp2/full/931,616/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f5/8d/b2/7c/75/da/4c/e1/93/9d/74/33/b9/60/19/ef/f37dde82-f1bc-46f2-b983-d9062f282068.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-maagdenhuis-studenteninspraak.json/p1/canvas/2250",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2467,
       "width": 3725,
       "metadata": [
@@ -226,7 +236,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-maagdenhuis-studenteninspraak.json/p1/canvas/2251",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 2467,
       "width": 3725,
       "metadata": [

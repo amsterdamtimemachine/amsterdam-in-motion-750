@@ -72,7 +72,12 @@
       }
     }
   ],
-  "summary": {},
+  "summary": {
+    "nl": [
+      ""
+    ]
+  },
+  "navDate": "1920-10-01T00:00:00Z",
   "thumbnail": [
     {
       "id": "https://service.archief.nl/iip/4d/78/17/b7/c9/53/4d/47/a4/15/8f/d9/d8/3a/75/a1/15866542-da69-4056-b50f-c13807690e9d.jp2/full/513,378/0/default.jpg",
@@ -83,7 +88,8 @@
         {
           "id": "https://service.archief.nl/iip/iipsrv?IIIF=/4d/78/17/b7/c9/53/4d/47/a4/15/8f/d9/d8/3a/75/a1/15866542-da69-4056-b50f-c13807690e9d.jp2",
           "type": "ImageService3",
-          "profile": "level2"
+          "profile": "level2",
+          "format": "image/jpeg"
         }
       ],
       "format": "image/jpeg"
@@ -93,7 +99,11 @@
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/ptt-staking.json/p1/canvas/93",
       "type": "Canvas",
-      "label": {},
+      "label": {
+        "nl": [
+          ""
+        ]
+      },
       "height": 3031,
       "width": 4107,
       "metadata": [
