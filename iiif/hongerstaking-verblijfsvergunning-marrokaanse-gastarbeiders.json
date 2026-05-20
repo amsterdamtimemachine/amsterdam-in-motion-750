@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Stakingen, Binnenlandse politiek, Politiek"
+          "Stakingen, Binnenlandse politiek, Politiek, Hongerstakingen"
         ]
       }
     },
@@ -67,7 +67,7 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2"
+          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2, https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51"
         ]
       }
     }
@@ -116,6 +116,14 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Politiek"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Hongerstakingen"
           }
         }
       ]

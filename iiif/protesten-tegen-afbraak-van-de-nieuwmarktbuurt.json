@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1971-04-15"
+          "1971-10-18"
         ]
       }
     },
@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/d6/b9/8e/6c/48/ac/4d/51/90/2c/74/1a/24/0e/dd/d5/ec4a5c8a-957b-4089-9c0e-c1a3f378b27c.jp2/full/602,910/0/default.jpg",
+      "type": "Image",
+      "height": 910,
+      "width": 602,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d6/b9/8e/6c/48/ac/4d/51/90/2c/74/1a/24/0e/dd/d5/ec4a5c8a-957b-4089-9c0e-c1a3f378b27c.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1321",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d6/b9/8e/6c/48/ac/4d/51/90/2c/74/1a/24/0e/dd/d5/ec4a5c8a-957b-4089-9c0e-c1a3f378b27c.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d6/b9/8e/6c/48/ac/4d/51/90/2c/74/1a/24/0e/dd/d5/ec4a5c8a-957b-4089-9c0e-c1a3f378b27c.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3641,
                 "width": 2411,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/d6/b9/8e/6c/48/ac/4d/51/90/2c/74/1a/24/0e/dd/d5/ec4a5c8a-957b-4089-9c0e-c1a3f378b27c.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/d6/b9/8e/6c/48/ac/4d/51/90/2c/74/1a/24/0e/dd/d5/ec4a5c8a-957b-4089-9c0e-c1a3f378b27c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/b8/a6/73/93/14/4b/11/bc/87/cb/69/48/d9/20/78/389f3110-85e7-4835-8733-b053e3412e76.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/b8/a6/73/93/14/4b/11/bc/87/cb/69/48/d9/20/78/389f3110-85e7-4835-8733-b053e3412e76.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3641,
                 "width": 2411,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/b8/a6/73/93/14/4b/11/bc/87/cb/69/48/d9/20/78/389f3110-85e7-4835-8733-b053e3412e76.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/b8/a6/73/93/14/4b/11/bc/87/cb/69/48/d9/20/78/389f3110-85e7-4835-8733-b053e3412e76.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/44/a1/32/a5/51/57/45/62/b7/e9/5a/a8/49/69/f7/09/8dabac3d-4058-4549-8ab0-3fb24fcf9681.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/44/a1/32/a5/51/57/45/62/b7/e9/5a/a8/49/69/f7/09/8dabac3d-4058-4549-8ab0-3fb24fcf9681.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2411,
                 "width": 3641,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/44/a1/32/a5/51/57/45/62/b7/e9/5a/a8/49/69/f7/09/8dabac3d-4058-4549-8ab0-3fb24fcf9681.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/44/a1/32/a5/51/57/45/62/b7/e9/5a/a8/49/69/f7/09/8dabac3d-4058-4549-8ab0-3fb24fcf9681.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -591,13 +607,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/a043e7e1-2c45-7d4b-f1ed-e774dbe32f6d/iiif/3/57658364/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/065a2ef5-4bfa-4c36-8f6e-ff4362b1503f/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2474,
                 "width": 1975,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/a043e7e1-2c45-7d4b-f1ed-e774dbe32f6d/iiif/3/57658364",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/065a2ef5-4bfa-4c36-8f6e-ff4362b1503f",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -724,15 +740,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ee/75/61/6e/aa/6d/46/0a/b9/6f/d8/82/21/0e/b2/2e/97f17632-6a01-431c-95cf-4d2c0285afd8.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ee/75/61/6e/aa/6d/46/0a/b9/6f/d8/82/21/0e/b2/2e/97f17632-6a01-431c-95cf-4d2c0285afd8.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2455,
                 "width": 3702,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ee/75/61/6e/aa/6d/46/0a/b9/6f/d8/82/21/0e/b2/2e/97f17632-6a01-431c-95cf-4d2c0285afd8.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ee/75/61/6e/aa/6d/46/0a/b9/6f/d8/82/21/0e/b2/2e/97f17632-6a01-431c-95cf-4d2c0285afd8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -861,13 +877,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/20202a7b-cd40-2735-529f-b2a09d1b9970/iiif/3/11448086/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/01f7471e-87f1-4ead-b1ab-2755ebee85f9/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1941,
                 "width": 2473,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/20202a7b-cd40-2735-529f-b2a09d1b9970/iiif/3/11448086",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/01f7471e-87f1-4ead-b1ab-2755ebee85f9",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -994,15 +1010,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/05/0a/b0/93/f1/44/d4/94/b5/6d/4f/ed/36/9e/99/8105533a-dcad-43cb-bf37-03e537cdc17f.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/05/0a/b0/93/f1/44/d4/94/b5/6d/4f/ed/36/9e/99/8105533a-dcad-43cb-bf37-03e537cdc17f.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2449,
                 "width": 3654,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/05/0a/b0/93/f1/44/d4/94/b5/6d/4f/ed/36/9e/99/8105533a-dcad-43cb-bf37-03e537cdc17f.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/05/0a/b0/93/f1/44/d4/94/b5/6d/4f/ed/36/9e/99/8105533a-dcad-43cb-bf37-03e537cdc17f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -1127,15 +1143,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/cf/5a/37/b6/41/49/58/84/0a/6f/18/29/f4/80/c9/9720f636-2dbe-4f1f-bdd9-a89b75b45ee9.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/cf/5a/37/b6/41/49/58/84/0a/6f/18/29/f4/80/c9/9720f636-2dbe-4f1f-bdd9-a89b75b45ee9.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2455,
                 "width": 3699,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/cf/5a/37/b6/41/49/58/84/0a/6f/18/29/f4/80/c9/9720f636-2dbe-4f1f-bdd9-a89b75b45ee9.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/cf/5a/37/b6/41/49/58/84/0a/6f/18/29/f4/80/c9/9720f636-2dbe-4f1f-bdd9-a89b75b45ee9.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -1260,15 +1276,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/06/2d/ea/8f/23/a8/45/a8/99/0a/48/4d/8e/18/1c/71/78bba209-1bf4-41c3-a277-12f3ab72b63a.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/06/2d/ea/8f/23/a8/45/a8/99/0a/48/4d/8e/18/1c/71/78bba209-1bf4-41c3-a277-12f3ab72b63a.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2449,
                 "width": 3723,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/06/2d/ea/8f/23/a8/45/a8/99/0a/48/4d/8e/18/1c/71/78bba209-1bf4-41c3-a277-12f3ab72b63a.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/06/2d/ea/8f/23/a8/45/a8/99/0a/48/4d/8e/18/1c/71/78bba209-1bf4-41c3-a277-12f3ab72b63a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -1393,15 +1409,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b5/cd/a7/89/85/f7/42/14/98/90/47/2a/a2/4f/e4/8f/1d059f44-6a6f-4090-9241-8c3db2efd26e.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b5/cd/a7/89/85/f7/42/14/98/90/47/2a/a2/4f/e4/8f/1d059f44-6a6f-4090-9241-8c3db2efd26e.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2424,
                 "width": 3693,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/b5/cd/a7/89/85/f7/42/14/98/90/47/2a/a2/4f/e4/8f/1d059f44-6a6f-4090-9241-8c3db2efd26e.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b5/cd/a7/89/85/f7/42/14/98/90/47/2a/a2/4f/e4/8f/1d059f44-6a6f-4090-9241-8c3db2efd26e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -1530,13 +1546,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e6583b56-85c9-bbf1-9339-fc268e1c1a6d/iiif/3/57649039/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cc4387f9-d445-4e82-b924-0c3765283d7c/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1909,
                 "width": 2439,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/e6583b56-85c9-bbf1-9339-fc268e1c1a6d/iiif/3/57649039",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cc4387f9-d445-4e82-b924-0c3765283d7c",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -1667,13 +1683,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/a864bd52-31b7-1e84-621b-8d43ca8dfff4/iiif/3/57649218/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d8d99498-d430-4573-938e-74464da749af/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2189,
                 "width": 1469,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/a864bd52-31b7-1e84-621b-8d43ca8dfff4/iiif/3/57649218",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d8d99498-d430-4573-938e-74464da749af",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -1687,7 +1703,7 @@
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1955",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956",
       "type": "Canvas",
       "label": {},
       "height": 2440,
@@ -1792,35 +1808,35 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1955/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1955/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/05/fc/98/e6/b6/65/44/0d/9a/42/a2/87/40/fe/bb/ce/3fc5d4a1-5e40-4acb-9e31-8ae5cc6f8003.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/05/fc/98/e6/b6/65/44/0d/9a/42/a2/87/40/fe/bb/ce/3fc5d4a1-5e40-4acb-9e31-8ae5cc6f8003.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2440,
                 "width": 3683,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/05/fc/98/e6/b6/65/44/0d/9a/42/a2/87/40/fe/bb/ce/3fc5d4a1-5e40-4acb-9e31-8ae5cc6f8003.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/05/fc/98/e6/b6/65/44/0d/9a/42/a2/87/40/fe/bb/ce/3fc5d4a1-5e40-4acb-9e31-8ae5cc6f8003.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1955"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1957",
       "type": "Canvas",
       "label": {},
       "height": 2440,
@@ -1925,28 +1941,28 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1957/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1957/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/3c/79/c6/4e/a9/3e/4e/97/86/d3/ae/fa/fc/16/db/46/462a13c1-470c-417d-8e63-e5dbc74b629a.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/3c/79/c6/4e/a9/3e/4e/97/86/d3/ae/fa/fc/16/db/46/462a13c1-470c-417d-8e63-e5dbc74b629a.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2440,
                 "width": 3683,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/3c/79/c6/4e/a9/3e/4e/97/86/d3/ae/fa/fc/16/db/46/462a13c1-470c-417d-8e63-e5dbc74b629a.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/3c/79/c6/4e/a9/3e/4e/97/86/d3/ae/fa/fc/16/db/46/462a13c1-470c-417d-8e63-e5dbc74b629a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1956"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protesten-tegen-afbraak-van-de-nieuwmarktbuurt.json/p1/canvas/1957"
             }
           ]
         }
@@ -1960,7 +1976,7 @@
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "1971-04-15"
+        "@value": "1971-10-18"
       },
       "schema:endDate": {
         "@type": "xsd:date",

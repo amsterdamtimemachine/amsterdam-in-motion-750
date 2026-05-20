@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/49221df1-1df7-ac3f-d20c-882c2b1a61f3/iiif/3/18888564/full/663,495/0/default.jpg",
+      "type": "Image",
+      "height": 495,
+      "width": 663,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/822187b7-324a-42bb-beed-4e2f107c1eb5",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protest-schippersbond.json/p1/canvas/151",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/49221df1-1df7-ac3f-d20c-882c2b1a61f3/iiif/3/18888564/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/822187b7-324a-42bb-beed-4e2f107c1eb5/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1979,
                 "width": 2652,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/49221df1-1df7-ac3f-d20c-882c2b1a61f3/iiif/3/18888564",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/822187b7-324a-42bb-beed-4e2f107c1eb5",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

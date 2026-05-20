@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          "Nassaukade"
+          ""
         ]
       }
     },
@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/90190d20-38ce-ca13-6724-9ad1152529dc/iiif/3/18957278/full/684,512/0/default.jpg",
+      "type": "Image",
+      "height": 512,
+      "width": 684,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d82b2193-790f-4ab8-aa4f-b1b07dcbccdf",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/betoging-voor-vrouwenkiesrecht.json/p1/canvas/84",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/90190d20-38ce-ca13-6724-9ad1152529dc/iiif/3/18957278/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d82b2193-790f-4ab8-aa4f-b1b07dcbccdf/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2048,
                 "width": 2737,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/90190d20-38ce-ca13-6724-9ad1152529dc/iiif/3/18957278",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d82b2193-790f-4ab8-aa4f-b1b07dcbccdf",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -329,13 +345,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/64b9995c-8110-a2fa-2234-759ae22cbd2d/iiif/3/57511700/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/fb2611d6-b373-4c3b-a149-b1a846ca4d03/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2056,
                 "width": 2774,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/64b9995c-8110-a2fa-2234-759ae22cbd2d/iiif/3/57511700",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/fb2611d6-b373-4c3b-a149-b1a846ca4d03",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -365,7 +381,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": "Nassaukade"
+          "schema:name": ""
         }
       ],
       "schema:additionalType": [

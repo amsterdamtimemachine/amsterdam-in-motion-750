@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Stakingen, Bezettingen, Arbeid, Binnenlandse politiek, Politiek"
+          "Stakingen, Bezettingen, Arbeid, Binnenlandse politiek, Politiek, Hongerstakingen"
         ]
       }
     },
@@ -67,12 +67,28 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd, https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2"
+          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/c4c53ce5-08f9-4a9b-86b2-2772177275b1, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd, https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2, https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51"
         ]
       }
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/cc/72/ee/9a/05/eb/4f/be/89/49/64/b4/d2/c2/14/d9/f401f40c-cf28-4f17-969e-2feaad7db108.jp2/full/914,604/0/default.jpg",
+      "type": "Image",
+      "height": 604,
+      "width": 914,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/cc/72/ee/9a/05/eb/4f/be/89/49/64/b4/d2/c2/14/d9/f401f40c-cf28-4f17-969e-2feaad7db108.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/hongerstaking-gastarbeiders.json/p1/canvas/2713",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/cc/72/ee/9a/05/eb/4f/be/89/49/64/b4/d2/c2/14/d9/f401f40c-cf28-4f17-969e-2feaad7db108.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/cc/72/ee/9a/05/eb/4f/be/89/49/64/b4/d2/c2/14/d9/f401f40c-cf28-4f17-969e-2feaad7db108.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/cc/72/ee/9a/05/eb/4f/be/89/49/64/b4/d2/c2/14/d9/f401f40c-cf28-4f17-969e-2feaad7db108.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/cc/72/ee/9a/05/eb/4f/be/89/49/64/b4/d2/c2/14/d9/f401f40c-cf28-4f17-969e-2feaad7db108.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/6d/df/62/f7/d9/47/75/87/e7/15/02/9a/49/23/d7/d0743efa-75f7-4323-bf1f-a0b3a83ed451.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/6d/df/62/f7/d9/47/75/87/e7/15/02/9a/49/23/d7/d0743efa-75f7-4323-bf1f-a0b3a83ed451.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/6d/df/62/f7/d9/47/75/87/e7/15/02/9a/49/23/d7/d0743efa-75f7-4323-bf1f-a0b3a83ed451.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/29/6d/df/62/f7/d9/47/75/87/e7/15/02/9a/49/23/d7/d0743efa-75f7-4323-bf1f-a0b3a83ed451.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f3/c1/38/94/2a/b0/47/9c/88/1b/7a/53/1a/39/d9/ed/30718d5a-0ad6-42e1-9e31-771cbfae901a.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f3/c1/38/94/2a/b0/47/9c/88/1b/7a/53/1a/39/d9/ed/30718d5a-0ad6-42e1-9e31-771cbfae901a.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3659,
                 "width": 2418,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f3/c1/38/94/2a/b0/47/9c/88/1b/7a/53/1a/39/d9/ed/30718d5a-0ad6-42e1-9e31-771cbfae901a.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f3/c1/38/94/2a/b0/47/9c/88/1b/7a/53/1a/39/d9/ed/30718d5a-0ad6-42e1-9e31-771cbfae901a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -587,15 +603,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f1/e4/f1/9e/f2/75/44/9d/85/2a/d7/3a/5b/e3/fa/c7/2ca26b0a-fe86-460e-9e8e-f1f19fdf783e.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f1/e4/f1/9e/f2/75/44/9d/85/2a/d7/3a/5b/e3/fa/c7/2ca26b0a-fe86-460e-9e8e-f1f19fdf783e.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/f1/e4/f1/9e/f2/75/44/9d/85/2a/d7/3a/5b/e3/fa/c7/2ca26b0a-fe86-460e-9e8e-f1f19fdf783e.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/f1/e4/f1/9e/f2/75/44/9d/85/2a/d7/3a/5b/e3/fa/c7/2ca26b0a-fe86-460e-9e8e-f1f19fdf783e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -720,15 +736,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a8/29/10/87/ee/a3/48/52/85/4c/a0/b0/45/d7/e3/b8/74e7687b-b92e-4d55-a332-cc3ac80b6354.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a8/29/10/87/ee/a3/48/52/85/4c/a0/b0/45/d7/e3/b8/74e7687b-b92e-4d55-a332-cc3ac80b6354.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2418,
                 "width": 3659,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a8/29/10/87/ee/a3/48/52/85/4c/a0/b0/45/d7/e3/b8/74e7687b-b92e-4d55-a332-cc3ac80b6354.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a8/29/10/87/ee/a3/48/52/85/4c/a0/b0/45/d7/e3/b8/74e7687b-b92e-4d55-a332-cc3ac80b6354.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -798,6 +814,14 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Politiek"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/18fcc502-46a3-4dc9-aeb3-5deca24aee51",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Hongerstakingen"
           }
         }
       ]

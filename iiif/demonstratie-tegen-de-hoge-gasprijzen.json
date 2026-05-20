@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/844c1ce1-c94e-029a-8185-b6a558068e5f/iiif/3/39391238/full/724,531/0/default.jpg",
+      "type": "Image",
+      "height": 531,
+      "width": 724,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/bbc9082e-4e96-4e59-8a4a-e8494e49c24d",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-de-hoge-gasprijzen.json/p1/canvas/3979",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/844c1ce1-c94e-029a-8185-b6a558068e5f/iiif/3/39391238/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/bbc9082e-4e96-4e59-8a4a-e8494e49c24d/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2124,
                 "width": 2897,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/844c1ce1-c94e-029a-8185-b6a558068e5f/iiif/3/39391238",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/bbc9082e-4e96-4e59-8a4a-e8494e49c24d",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

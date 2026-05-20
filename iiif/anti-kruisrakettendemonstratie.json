@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Oorlog en vrede"
+          "Demonstraties, Militarisme"
         ]
       }
     },
@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/13450ae7-8194-c28b-389c-130ab22ea2fa/iiif/3/32224910/full/720,536/0/default.jpg",
+      "type": "Image",
+      "height": 536,
+      "width": 720,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/b4b7134f-0bfc-46f4-bf24-e7b054390809",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/anti-kruisrakettendemonstratie.json/p1/canvas/3794",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/13450ae7-8194-c28b-389c-130ab22ea2fa/iiif/3/32224910/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/b4b7134f-0bfc-46f4-bf24-e7b054390809/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2144,
                 "width": 2881,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/13450ae7-8194-c28b-389c-130ab22ea2fa/iiif/3/32224910",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/b4b7134f-0bfc-46f4-bf24-e7b054390809",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -329,13 +345,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/d47fc0bd-70e2-13f6-035b-482cd4bed690/iiif/3/18885903/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/860d3fc8-61f2-4223-bffa-f26d35d2a0f3/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2152,
                 "width": 2904,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/d47fc0bd-70e2-13f6-035b-482cd4bed690/iiif/3/18885903",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/860d3fc8-61f2-4223-bffa-f26d35d2a0f3",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -466,13 +482,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/f3d9c644-80c9-1922-9fcc-afed0e1abcb2/iiif/3/57779571/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d67adb23-4db2-48d6-9876-70816dca4e8b/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2945,
                 "width": 2232,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/f3d9c644-80c9-1922-9fcc-afed0e1abcb2/iiif/3/57779571",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/d67adb23-4db2-48d6-9876-70816dca4e8b",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -519,7 +535,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         }
       ]

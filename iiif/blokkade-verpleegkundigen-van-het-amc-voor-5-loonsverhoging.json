@@ -67,12 +67,28 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/01dcf7a4-6071-46dc-9501-9176f74788af, https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
+          "https://digitaalerfgoed.poolparty.biz/atm/01dcf7a4-6071-46dc-9501-9176f74788af, https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
         ]
       }
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/9a/17/da/bc/ee/0f/42/6b/99/1b/6d/4b/90/e8/51/fa/76975e38-026c-4e7a-bbf2-f6e8a3dd073c.jp2/full/928,611/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 928,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9a/17/da/bc/ee/0f/42/6b/99/1b/6d/4b/90/e8/51/fa/76975e38-026c-4e7a-bbf2-f6e8a3dd073c.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/blokkade-verpleegkundigen-van-het-amc-voor-5-loonsverhoging.json/p1/canvas/4331",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9a/17/da/bc/ee/0f/42/6b/99/1b/6d/4b/90/e8/51/fa/76975e38-026c-4e7a-bbf2-f6e8a3dd073c.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9a/17/da/bc/ee/0f/42/6b/99/1b/6d/4b/90/e8/51/fa/76975e38-026c-4e7a-bbf2-f6e8a3dd073c.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3712,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/9a/17/da/bc/ee/0f/42/6b/99/1b/6d/4b/90/e8/51/fa/76975e38-026c-4e7a-bbf2-f6e8a3dd073c.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/9a/17/da/bc/ee/0f/42/6b/99/1b/6d/4b/90/e8/51/fa/76975e38-026c-4e7a-bbf2-f6e8a3dd073c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/08/1d/6f/27/98/39/41/0e/a3/5a/f3/e0/c2/d3/24/70/f3125ec8-b5a9-4233-8747-3ca785ca6af6.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/08/1d/6f/27/98/39/41/0e/a3/5a/f3/e0/c2/d3/24/70/f3125ec8-b5a9-4233-8747-3ca785ca6af6.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3712,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/08/1d/6f/27/98/39/41/0e/a3/5a/f3/e0/c2/d3/24/70/f3125ec8-b5a9-4233-8747-3ca785ca6af6.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/08/1d/6f/27/98/39/41/0e/a3/5a/f3/e0/c2/d3/24/70/f3125ec8-b5a9-4233-8747-3ca785ca6af6.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ed/f0/df/a0/81/20/4e/7b/89/81/7c/1e/26/8d/d6/0c/0e257088-7309-4232-8193-ce70a09ae744.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ed/f0/df/a0/81/20/4e/7b/89/81/7c/1e/26/8d/d6/0c/0e257088-7309-4232-8193-ce70a09ae744.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3712,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ed/f0/df/a0/81/20/4e/7b/89/81/7c/1e/26/8d/d6/0c/0e257088-7309-4232-8193-ce70a09ae744.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ed/f0/df/a0/81/20/4e/7b/89/81/7c/1e/26/8d/d6/0c/0e257088-7309-4232-8193-ce70a09ae744.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -587,15 +603,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/82/b1/c9/fb/fb/fb/46/fd/98/2c/33/d5/55/64/12/c8/c195d7aa-dca5-4306-a975-5ebc442bf537.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/82/b1/c9/fb/fb/fb/46/fd/98/2c/33/d5/55/64/12/c8/c195d7aa-dca5-4306-a975-5ebc442bf537.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3715,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/82/b1/c9/fb/fb/fb/46/fd/98/2c/33/d5/55/64/12/c8/c195d7aa-dca5-4306-a975-5ebc442bf537.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/82/b1/c9/fb/fb/fb/46/fd/98/2c/33/d5/55/64/12/c8/c195d7aa-dca5-4306-a975-5ebc442bf537.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -636,7 +652,7 @@
           }
         },
         {
-          "@id": "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344",
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084",
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/69/43/1c/77/d9/66/49/44/b4/d6/7d/b2/87/8b/6e/91/e34e1d81-1378-428b-be8c-7c9f71f09f79.jp2/full/920,610/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/43/1c/77/d9/66/49/44/b4/d6/7d/b2/87/8b/6e/91/e34e1d81-1378-428b-be8c-7c9f71f09f79.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bouwvakkersdemonstratie-tegen-130-dagen-eis.json/p1/canvas/3096",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/43/1c/77/d9/66/49/44/b4/d6/7d/b2/87/8b/6e/91/e34e1d81-1378-428b-be8c-7c9f71f09f79.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/43/1c/77/d9/66/49/44/b4/d6/7d/b2/87/8b/6e/91/e34e1d81-1378-428b-be8c-7c9f71f09f79.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/43/1c/77/d9/66/49/44/b4/d6/7d/b2/87/8b/6e/91/e34e1d81-1378-428b-be8c-7c9f71f09f79.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/43/1c/77/d9/66/49/44/b4/d6/7d/b2/87/8b/6e/91/e34e1d81-1378-428b-be8c-7c9f71f09f79.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/74/17/cd/c1/7c/de/46/29/b8/e7/fb/1a/3c/1b/16/96/1743869c-a096-4715-99a8-e0c0bc22b388.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/74/17/cd/c1/7c/de/46/29/b8/e7/fb/1a/3c/1b/16/96/1743869c-a096-4715-99a8-e0c0bc22b388.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/74/17/cd/c1/7c/de/46/29/b8/e7/fb/1a/3c/1b/16/96/1743869c-a096-4715-99a8-e0c0bc22b388.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/74/17/cd/c1/7c/de/46/29/b8/e7/fb/1a/3c/1b/16/96/1743869c-a096-4715-99a8-e0c0bc22b388.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

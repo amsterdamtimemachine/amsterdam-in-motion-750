@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          "Botermarkt"
+          "Dam"
         ]
       }
     },
@@ -73,9 +73,25 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/11dccd91-1353-c453-ade1-7ea48ac6388b/iiif/3/57425893/full/592,1004/0/default.jpg",
+      "type": "Image",
+      "height": 1004,
+      "width": 592,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8de1993e-34ad-4e58-8b09-a4c3f393ce19",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/16",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/11",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -184,35 +200,35 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/16/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/11/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/16/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/11/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/11dccd91-1353-c453-ade1-7ea48ac6388b/iiif/3/57425893/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8de1993e-34ad-4e58-8b09-a4c3f393ce19/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2007,
                 "width": 1184,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/11dccd91-1353-c453-ade1-7ea48ac6388b/iiif/3/57425893",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/8de1993e-34ad-4e58-8b09-a4c3f393ce19",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/16"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/11"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/17",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/12",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -321,35 +337,35 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/17/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/12/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/17/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/12/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/f97b7981-3d61-171f-4f25-53b622264b43/iiif/3/57425907/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/3e1fc3c7-245c-4c22-af9d-78ba71e39a47/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1908,
                 "width": 2443,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/f97b7981-3d61-171f-4f25-53b622264b43/iiif/3/57425907",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/3e1fc3c7-245c-4c22-af9d-78ba71e39a47",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/17"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/12"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/18",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/36",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -458,28 +474,28 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/18/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/36/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/18/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/36/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b376ba76-04f2-ddf9-6790-3c0820ea5b34/iiif/3/57425895/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/35a414ca-b433-403c-9aa7-e014f1ec39ab/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1820,
                 "width": 2260,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/b376ba76-04f2-ddf9-6790-3c0820ea5b34/iiif/3/57425895",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/35a414ca-b433-403c-9aa7-e014f1ec39ab",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/18"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/pachtersoproer.json/p1/canvas/36"
             }
           ]
         }
@@ -603,13 +619,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/f58fbb1f-f604-13e6-6b69-657fed931ece/iiif/3/57425278/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/92e3a290-a5f6-4aed-9915-f9b9d544df48/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2136,
                 "width": 1348,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/f58fbb1f-f604-13e6-6b69-657fed931ece/iiif/3/57425278",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/92e3a290-a5f6-4aed-9915-f9b9d544df48",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -740,13 +756,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/623e6bea-c2bc-0f86-5b15-afecf2e635a7/iiif/3/57425461/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/dcfbc08b-eda8-45da-b8da-22e7979a5bae/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2364,
                 "width": 1524,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/623e6bea-c2bc-0f86-5b15-afecf2e635a7/iiif/3/57425461",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/dcfbc08b-eda8-45da-b8da-22e7979a5bae",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -776,7 +792,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": "Botermarkt"
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [

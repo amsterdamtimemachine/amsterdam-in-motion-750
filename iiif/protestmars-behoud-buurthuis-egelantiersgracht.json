@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/3192abc1-5e7f-2478-9e34-f00c53e80d84/iiif/3/11437614/full/538,368/0/default.jpg",
+      "type": "Image",
+      "height": 368,
+      "width": 538,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/4d5aae74-9ec4-41c4-b576-613d8ac1f865",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-behoud-buurthuis-egelantiersgracht.json/p1/canvas/2832",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/3192abc1-5e7f-2478-9e34-f00c53e80d84/iiif/3/11437614/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/4d5aae74-9ec4-41c4-b576-613d8ac1f865/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1470,
                 "width": 2151,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/3192abc1-5e7f-2478-9e34-f00c53e80d84/iiif/3/11437614",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/4d5aae74-9ec4-41c4-b576-613d8ac1f865",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -329,13 +345,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/652e4c04-a016-b6f3-7d9e-3f36c2548406/iiif/3/57655242/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/491fd976-6301-466f-84cf-d5ecf5874ed9/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1460,
                 "width": 2140,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/652e4c04-a016-b6f3-7d9e-3f36c2548406/iiif/3/57655242",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/491fd976-6301-466f-84cf-d5ecf5874ed9",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -462,15 +478,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/47/01/36/fa/dd/01/44/b6/8c/57/53/6f/f3/03/d7/5c/e94894ca-3615-4189-aeb1-17c8ef681eed.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/47/01/36/fa/dd/01/44/b6/8c/57/53/6f/f3/03/d7/5c/e94894ca-3615-4189-aeb1-17c8ef681eed.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/47/01/36/fa/dd/01/44/b6/8c/57/53/6f/f3/03/d7/5c/e94894ca-3615-4189-aeb1-17c8ef681eed.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/47/01/36/fa/dd/01/44/b6/8c/57/53/6f/f3/03/d7/5c/e94894ca-3615-4189-aeb1-17c8ef681eed.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -595,15 +611,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/71/4d/75/7e/34/a2/4f/5b/bb/11/c5/9d/89/6f/12/1c/0d2e6d00-8ec6-4578-83c1-df3c24a3245f.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/71/4d/75/7e/34/a2/4f/5b/bb/11/c5/9d/89/6f/12/1c/0d2e6d00-8ec6-4578-83c1-df3c24a3245f.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/71/4d/75/7e/34/a2/4f/5b/bb/11/c5/9d/89/6f/12/1c/0d2e6d00-8ec6-4578-83c1-df3c24a3245f.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/71/4d/75/7e/34/a2/4f/5b/bb/11/c5/9d/89/6f/12/1c/0d2e6d00-8ec6-4578-83c1-df3c24a3245f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -728,15 +744,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/61/1d/84/82/c5/40/44/8c/b5/33/5d/3f/71/e8/7b/21636c2e-973a-404a-bdbc-af44f5b90655.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/61/1d/84/82/c5/40/44/8c/b5/33/5d/3f/71/e8/7b/21636c2e-973a-404a-bdbc-af44f5b90655.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/61/1d/84/82/c5/40/44/8c/b5/33/5d/3f/71/e8/7b/21636c2e-973a-404a-bdbc-af44f5b90655.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/af/61/1d/84/82/c5/40/44/8c/b5/33/5d/3f/71/e8/7b/21636c2e-973a-404a-bdbc-af44f5b90655.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

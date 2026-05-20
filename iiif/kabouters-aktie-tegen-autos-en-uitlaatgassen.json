@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Klimaat, Mobiliteit"
+          "Demonstraties, Klimaat en natuurbehoud, Mobiliteit"
         ]
       }
     },
@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/ff/1f/5c/39/bf/6d/44/2d/88/36/83/84/cd/45/a8/c1/3027078d-a4cd-4130-b3f9-be57aabfb37e.jp2/full/920,606/0/default.jpg",
+      "type": "Image",
+      "height": 606,
+      "width": 920,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ff/1f/5c/39/bf/6d/44/2d/88/36/83/84/cd/45/a8/c1/3027078d-a4cd-4130-b3f9-be57aabfb37e.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kabouters-aktie-tegen-autos-en-uitlaatgassen.json/p1/canvas/1019",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ff/1f/5c/39/bf/6d/44/2d/88/36/83/84/cd/45/a8/c1/3027078d-a4cd-4130-b3f9-be57aabfb37e.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ff/1f/5c/39/bf/6d/44/2d/88/36/83/84/cd/45/a8/c1/3027078d-a4cd-4130-b3f9-be57aabfb37e.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2425,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ff/1f/5c/39/bf/6d/44/2d/88/36/83/84/cd/45/a8/c1/3027078d-a4cd-4130-b3f9-be57aabfb37e.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ff/1f/5c/39/bf/6d/44/2d/88/36/83/84/cd/45/a8/c1/3027078d-a4cd-4130-b3f9-be57aabfb37e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/94/e0/91/02/1d/4e/5b/85/38/bf/f0/46/8d/44/dc/c635cb35-23d0-4818-adba-4f45ddda7229.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/94/e0/91/02/1d/4e/5b/85/38/bf/f0/46/8d/44/dc/c635cb35-23d0-4818-adba-4f45ddda7229.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2425,
                 "width": 3703,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/94/e0/91/02/1d/4e/5b/85/38/bf/f0/46/8d/44/dc/c635cb35-23d0-4818-adba-4f45ddda7229.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/8a/94/e0/91/02/1d/4e/5b/85/38/bf/f0/46/8d/44/dc/c635cb35-23d0-4818-adba-4f45ddda7229.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/f0/27/19/da/2b/49/6a/af/d1/58/b6/2c/d6/bd/d1/5fda7e86-7a55-4ba0-9de3-49c01830fa8b.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/f0/27/19/da/2b/49/6a/af/d1/58/b6/2c/d6/bd/d1/5fda7e86-7a55-4ba0-9de3-49c01830fa8b.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2425,
                 "width": 3688,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/f0/27/19/da/2b/49/6a/af/d1/58/b6/2c/d6/bd/d1/5fda7e86-7a55-4ba0-9de3-49c01830fa8b.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c1/f0/27/19/da/2b/49/6a/af/d1/58/b6/2c/d6/bd/d1/5fda7e86-7a55-4ba0-9de3-49c01830fa8b.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -587,15 +603,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/32/69/1a/93/2e/e8/47/5f/96/c2/4f/cd/bb/77/8d/96/3704a396-2488-40c3-8ab1-98be496e6c7a.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/32/69/1a/93/2e/e8/47/5f/96/c2/4f/cd/bb/77/8d/96/3704a396-2488-40c3-8ab1-98be496e6c7a.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2425,
                 "width": 3688,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/32/69/1a/93/2e/e8/47/5f/96/c2/4f/cd/bb/77/8d/96/3704a396-2488-40c3-8ab1-98be496e6c7a.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/32/69/1a/93/2e/e8/47/5f/96/c2/4f/cd/bb/77/8d/96/3704a396-2488-40c3-8ab1-98be496e6c7a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -720,15 +736,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/5f/54/f5/55/7b/4b/47/22/9e/f2/3a/56/a0/a0/b5/92/d4efa2ed-f795-4790-82d6-75fce96e5d2d.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/5f/54/f5/55/7b/4b/47/22/9e/f2/3a/56/a0/a0/b5/92/d4efa2ed-f795-4790-82d6-75fce96e5d2d.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2425,
                 "width": 3703,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/5f/54/f5/55/7b/4b/47/22/9e/f2/3a/56/a0/a0/b5/92/d4efa2ed-f795-4790-82d6-75fce96e5d2d.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/5f/54/f5/55/7b/4b/47/22/9e/f2/3a/56/a0/a0/b5/92/d4efa2ed-f795-4790-82d6-75fce96e5d2d.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -773,7 +789,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Klimaat"
+            "@value": "Klimaat en natuurbehoud"
           }
         },
         {

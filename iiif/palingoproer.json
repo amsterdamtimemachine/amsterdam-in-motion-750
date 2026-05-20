@@ -19,7 +19,7 @@
       },
       "value": {
         "nl": [
-          "1886-07-25"
+          "1886-08-01"
         ]
       }
     },
@@ -31,7 +31,7 @@
       },
       "value": {
         "nl": [
-          "1886-07-26"
+          "1916-07-31"
         ]
       }
     },
@@ -73,142 +73,25 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5608388b-baf8-d80e-3d83-3828291b2725/iiif/3/57583842/full/637,485/0/default.jpg",
+      "type": "Image",
+      "height": 485,
+      "width": 637,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ef76bf9d-0c86-47cd-a5d3-ddc7a884e201",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44",
-      "type": "Canvas",
-      "label": {},
-      "height": 3852,
-      "width": 2927,
-      "metadata": [
-        {
-          "label": {
-            "nl": [
-              "Naam"
-            ]
-          },
-          "value": {
-            "nl": [
-              ""
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "Beschrijving"
-            ]
-          },
-          "value": {
-            "nl": [
-              "Tekening \"Les Troubles d'Amsterdam\". van M. de Hanen [een barricade bij de Zaterdagse brug tijdens het Palingoproer (25 en 26 juli 1886) wordt beschoten door het leger. Verschenen in Ll Illustration 7 augustus 1886"
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "Datum (begin)"
-            ]
-          },
-          "value": {
-            "nl": [
-              "1886-08-07"
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "Datum (eind)"
-            ]
-          },
-          "value": {
-            "nl": [
-              "1886-08-07"
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "Fotograaf"
-            ]
-          },
-          "value": {
-            "nl": [
-              ""
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "Archief"
-            ]
-          },
-          "value": {
-            "nl": [
-              "Nationaal Archief"
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "URL"
-            ]
-          },
-          "value": {
-            "nl": [
-              ""
-            ]
-          }
-        },
-        {
-          "label": {
-            "nl": [
-              "Locatie"
-            ]
-          },
-          "value": {
-            "nl": [
-              "Eerste Lindendwarsstraat"
-            ]
-          }
-        }
-      ],
-      "items": [
-        {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44/page",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44/anno",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e2/a1/b9/5f/e8/4c/4f/bd/97/6e/29/94/f1/c9/ba/a3/6d76132d-1657-43ee-9a0a-2095f0b05012.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "height": 3852,
-                "width": 2927,
-                "service": [
-                  {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e2/a1/b9/5f/e8/4c/4f/bd/97/6e/29/94/f1/c9/ba/a3/6d76132d-1657-43ee-9a0a-2095f0b05012.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
-                  }
-                ],
-                "format": "image/jpeg"
-              },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -317,35 +200,35 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5608388b-baf8-d80e-3d83-3828291b2725/iiif/3/57583842/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ef76bf9d-0c86-47cd-a5d3-ddc7a884e201/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1940,
                 "width": 2548,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5608388b-baf8-d80e-3d83-3828291b2725/iiif/3/57583842",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/ef76bf9d-0c86-47cd-a5d3-ddc7a884e201",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/44"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/46",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -454,28 +337,161 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/46/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/46/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2f1949ae-05b7-ebea-26bd-da1e8d3509db/iiif/3/57422577/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cfc45764-08be-4db1-981d-d299b54c1dad/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 4231,
                 "width": 2994,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/2f1949ae-05b7-ebea-26bd-da1e8d3509db/iiif/3/57422577",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/cfc45764-08be-4db1-981d-d299b54c1dad",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/46"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/47",
+      "type": "Canvas",
+      "label": {},
+      "height": 3852,
+      "width": 2927,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Naam"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Beschrijving"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Tekening \"Les Troubles d'Amsterdam\". van M. de Hanen [een barricade bij de Zaterdagse brug tijdens het Palingoproer (25 en 26 juli 1886) wordt beschoten door het leger. Verschenen in Ll Illustration 7 augustus 1886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (begin)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Datum (eind)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1886-08-07"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Archief"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Nationaal Archief"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URL"
+            ]
+          },
+          "value": {
+            "nl": [
+              ""
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Locatie"
+            ]
+          },
+          "value": {
+            "nl": [
+              "Eerste Lindendwarsstraat"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/47/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/47/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e2/a1/b9/5f/e8/4c/4f/bd/97/6e/29/94/f1/c9/ba/a3/6d76132d-1657-43ee-9a0a-2095f0b05012.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 3852,
+                "width": 2927,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e2/a1/b9/5f/e8/4c/4f/bd/97/6e/29/94/f1/c9/ba/a3/6d76132d-1657-43ee-9a0a-2095f0b05012.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/palingoproer.json/p1/canvas/47"
             }
           ]
         }
@@ -599,13 +615,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9a2d3788-e254-a199-66ef-a99157171d77/iiif/3/57604127/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/97c48a54-2d9d-4eae-a193-a4b10221fe91/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3508,
                 "width": 2480,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9a2d3788-e254-a199-66ef-a99157171d77/iiif/3/57604127",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/97c48a54-2d9d-4eae-a193-a4b10221fe91",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -626,11 +642,11 @@
       "schema:description": "",
       "schema:startDate": {
         "@type": "xsd:date",
-        "@value": "1886-07-25"
+        "@value": "1886-08-01"
       },
       "schema:endDate": {
         "@type": "xsd:date",
-        "@value": "1886-07-26"
+        "@value": "1916-07-31"
       },
       "schema:location": [
         {

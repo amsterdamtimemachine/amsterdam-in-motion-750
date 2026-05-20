@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2/full/605,922/0/default.jpg",
+      "type": "Image",
+      "height": 922,
+      "width": 605,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/kraakacties-nationale-kraakdag-1978.json/p1/canvas/2226",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3688,
                 "width": 2421,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/1c/e2/bb/c0/7c/cc/4a/db/89/2f/38/4f/dd/d4/41/2f/8effd642-a0af-4230-bee9-1645bdc1f9ea.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ba/0d/ff/2c/ef/62/42/d3/b1/7b/03/d8/ab/8a/85/4b/1a5085fc-8ef5-470a-94eb-de96d07808ec.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ba/0d/ff/2c/ef/62/42/d3/b1/7b/03/d8/ab/8a/85/4b/1a5085fc-8ef5-470a-94eb-de96d07808ec.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3688,
                 "width": 2445,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ba/0d/ff/2c/ef/62/42/d3/b1/7b/03/d8/ab/8a/85/4b/1a5085fc-8ef5-470a-94eb-de96d07808ec.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ba/0d/ff/2c/ef/62/42/d3/b1/7b/03/d8/ab/8a/85/4b/1a5085fc-8ef5-470a-94eb-de96d07808ec.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -458,13 +474,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9fcd1d73-4434-60c3-4c12-ffd7d6c635cd/iiif/3/11433124/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/e85c7447-a89b-41e7-ab28-4d7b4bc331f2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2915,
                 "width": 1980,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/9fcd1d73-4434-60c3-4c12-ffd7d6c635cd/iiif/3/11433124",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/e85c7447-a89b-41e7-ab28-4d7b4bc331f2",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

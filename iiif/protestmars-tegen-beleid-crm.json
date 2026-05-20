@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/53/96/07/a1/8a/52/42/4b/96/90/90/23/4e/f8/79/eb/b483a317-13e0-44be-bbbb-82eb27160127.jp2/full/920,611/0/default.jpg",
+      "type": "Image",
+      "height": 611,
+      "width": 920,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/53/96/07/a1/8a/52/42/4b/96/90/90/23/4e/f8/79/eb/b483a317-13e0-44be-bbbb-82eb27160127.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestmars-tegen-beleid-crm.json/p1/canvas/2088",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/53/96/07/a1/8a/52/42/4b/96/90/90/23/4e/f8/79/eb/b483a317-13e0-44be-bbbb-82eb27160127.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/53/96/07/a1/8a/52/42/4b/96/90/90/23/4e/f8/79/eb/b483a317-13e0-44be-bbbb-82eb27160127.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/53/96/07/a1/8a/52/42/4b/96/90/90/23/4e/f8/79/eb/b483a317-13e0-44be-bbbb-82eb27160127.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/53/96/07/a1/8a/52/42/4b/96/90/90/23/4e/f8/79/eb/b483a317-13e0-44be-bbbb-82eb27160127.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/1e/fc/ef/8a/29/49/8f/be/3f/80/a3/1c/32/1e/ba/9ccf98c6-368e-4734-9b8b-c9d9bcefa0ff.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/1e/fc/ef/8a/29/49/8f/be/3f/80/a3/1c/32/1e/ba/9ccf98c6-368e-4734-9b8b-c9d9bcefa0ff.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/1e/fc/ef/8a/29/49/8f/be/3f/80/a3/1c/32/1e/ba/9ccf98c6-368e-4734-9b8b-c9d9bcefa0ff.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/21/1e/fc/ef/8a/29/49/8f/be/3f/80/a3/1c/32/1e/ba/9ccf98c6-368e-4734-9b8b-c9d9bcefa0ff.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ac/61/74/0d/81/73/4f/8b/bb/87/e6/63/ed/70/a4/59/cf3a4ec4-58cd-4cbd-ab9f-bac69e341b16.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ac/61/74/0d/81/73/4f/8b/bb/87/e6/63/ed/70/a4/59/cf3a4ec4-58cd-4cbd-ab9f-bac69e341b16.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2445,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/ac/61/74/0d/81/73/4f/8b/bb/87/e6/63/ed/70/a4/59/cf3a4ec4-58cd-4cbd-ab9f-bac69e341b16.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/ac/61/74/0d/81/73/4f/8b/bb/87/e6/63/ed/70/a4/59/cf3a4ec4-58cd-4cbd-ab9f-bac69e341b16.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

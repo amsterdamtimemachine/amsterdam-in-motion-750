@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/22/1e/06/4b/38/ee/4b/79/b4/02/a8/c3/85/2c/66/96/26eb487e-6401-45ab-b848-29861ac613d6.jp2/full/920,610/0/default.jpg",
+      "type": "Image",
+      "height": 610,
+      "width": 920,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/22/1e/06/4b/38/ee/4b/79/b4/02/a8/c3/85/2c/66/96/26eb487e-6401-45ab-b848-29861ac613d6.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-juridische-faculteit-uva-turkse-marokkaanse-pakistaanse-gastarbeiders.json/p1/canvas/2401",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/22/1e/06/4b/38/ee/4b/79/b4/02/a8/c3/85/2c/66/96/26eb487e-6401-45ab-b848-29861ac613d6.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/22/1e/06/4b/38/ee/4b/79/b4/02/a8/c3/85/2c/66/96/26eb487e-6401-45ab-b848-29861ac613d6.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2443,
                 "width": 3680,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/22/1e/06/4b/38/ee/4b/79/b4/02/a8/c3/85/2c/66/96/26eb487e-6401-45ab-b848-29861ac613d6.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/22/1e/06/4b/38/ee/4b/79/b4/02/a8/c3/85/2c/66/96/26eb487e-6401-45ab-b848-29861ac613d6.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/3a/b6/a8/18/a3/47/01/90/af/a2/5b/a2/de/77/a4/4db293c1-cb4d-4d69-be12-0f62bc73a67b.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/3a/b6/a8/18/a3/47/01/90/af/a2/5b/a2/de/77/a4/4db293c1-cb4d-4d69-be12-0f62bc73a67b.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2443,
                 "width": 3680,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/3a/b6/a8/18/a3/47/01/90/af/a2/5b/a2/de/77/a4/4db293c1-cb4d-4d69-be12-0f62bc73a67b.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/7e/3a/b6/a8/18/a3/47/01/90/af/a2/5b/a2/de/77/a4/4db293c1-cb4d-4d69-be12-0f62bc73a67b.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

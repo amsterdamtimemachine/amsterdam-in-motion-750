@@ -43,7 +43,7 @@
       },
       "value": {
         "nl": [
-          ""
+          "Dam"
         ]
       }
     },
@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Oorlog en vrede, Buitenlandse politiek, Politiek"
+          "Demonstraties, Militarisme, Buitenlandse politiek, Politiek"
         ]
       }
     },
@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://maior-images.memorix.nl/ranh/iiif/8c5684ba-b31a-afb6-1a65-1b3ef4a31808/full/765,/0/default.jpg",
+      "type": "Image",
+      "height": 562,
+      "width": 765,
+      "service": [
+        {
+          "@id": "https://maior-images.memorix.nl/ranh/iiif/8c5684ba-b31a-afb6-1a65-1b3ef4a31808",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-tegen-de-irakoorlog.json/p1/canvas/4491",
@@ -1872,7 +1888,7 @@
       "schema:location": [
         {
           "@type": "schema:Place",
-          "schema:name": ""
+          "schema:name": "Dam"
         }
       ],
       "schema:additionalType": [
@@ -1889,7 +1905,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Oorlog en vrede"
+            "@value": "Militarisme"
           }
         },
         {

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/d60c225a-35b9-46b1-9d4e-26e6d2699989/iiif/3/32224838/full/699,512/0/default.jpg",
+      "type": "Image",
+      "height": 512,
+      "width": 699,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/7884e396-9842-4d1d-8671-88d4309be279",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-moeders-en-peuters-tegen-sloop-peuterspeelplaats.json/p1/canvas/3935",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/d60c225a-35b9-46b1-9d4e-26e6d2699989/iiif/3/32224838/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/7884e396-9842-4d1d-8671-88d4309be279/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2048,
                 "width": 2796,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/d60c225a-35b9-46b1-9d4e-26e6d2699989/iiif/3/32224838",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/7884e396-9842-4d1d-8671-88d4309be279",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

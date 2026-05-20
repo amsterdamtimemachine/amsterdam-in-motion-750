@@ -4,6 +4,12 @@ import pandas as pd
 import iiif_prezi3
 import requests
 
+import requests_cache
+
+requests_cache.install_cache(
+    ".cache.db", backend="sqlite", expire_after=365 * 24 * 60 * 60
+)  # Cache expires after 365 days
+
 import time
 
 iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = "nl"
@@ -88,8 +94,8 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                 {
                     "@type": "schema:Place",
                     "schema:name": (
-                        protest_row["locatie's"]
-                        if pd.notna(protest_row["locatie's"])
+                        protest_row["locaties"]
+                        if pd.notna(protest_row["locaties"])
                         else ""
                     ),
                 }
@@ -99,8 +105,8 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
 
         classifications_names = []
         classifications_uris = []
-        if pd.notna(protest_row["classificatie's"]):
-            for classification in protest_row["classificatie's"].split(", "):
+        if pd.notna(protest_row["classificaties"]):
+            for classification in protest_row["classificaties"].split(", "):
                 if classification in classification_label2concept:
                     protest_sdo["schema:additionalType"].append(
                         classification_label2concept[classification]
@@ -111,6 +117,7 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                         classification_label2concept[classification]["@id"]
                     )
 
+        thumbnail_set = False
         manifest = iiif_prezi3.Manifest(
             id=manifest_uri,
             label=protest_row["naam"] if pd.notna(protest_row["naam"]) else "",
@@ -153,8 +160,8 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                     value={
                         "nl": [
                             (
-                                protest_row["locatie's"]
-                                if pd.notna(protest_row["locatie's"])
+                                protest_row["locaties"]
+                                if pd.notna(protest_row["locaties"])
                                 else ""
                             )
                         ]
@@ -171,6 +178,13 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
             ],
         )
 
+        # Is there a specific thumbnail for the protest?
+        if pd.notna(protest_row["thumbnail (foto op homepage)"]):
+            manifest.create_thumbnail_from_iiif(
+                protest_row["thumbnail (foto op homepage)"]
+            )
+            thumbnail_set = True
+
         # Add photos to the manifest
         for i, photo_row in df_photo[
             df_photo["protest"] == protest_row["naam"]
@@ -181,8 +195,17 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
 
             # Check if the dimension of the image is 500x500 from the info.json
             if "stadsarchiefamsterdam" in photo_row["iiif_info_json"]:
-                photo_info = requests.get(photo_row["iiif_info_json"]).json()
-                if photo_info.get("width") == 500 and photo_info.get("height") == 500:
+                try:
+                    photo_info = requests.get(photo_row["iiif_info_json"]).json()
+                    if (
+                        photo_info.get("width") == 500
+                        and photo_info.get("height") == 500
+                    ):
+                        continue
+                except Exception as e:
+                    print(
+                        f"Error fetching info.json for {photo_row['iiif_info_json']}: {e}"
+                    )
                     continue
 
             canvas_id = f"{manifest_uri}/p1/canvas/{i+1}"
@@ -285,6 +308,10 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                     ),
                 ],
             )
+
+            if not thumbnail_set:
+                manifest.create_thumbnail_from_iiif(photo_row["iiif_info_json"])
+                thumbnail_set = True
 
         with open(f"{target_folder}/{slug}.json", "w", encoding="utf-8") as f:
             manifest_jsonld = json.loads(manifest.json())

@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/468578d2-d201-84d4-228b-44ebbd65cd89/iiif/3/11450942/full/725,1105/0/default.jpg",
+      "type": "Image",
+      "height": 1105,
+      "width": 725,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/72c28aa7-4a12-4fee-8060-cef8d2f3bcb2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protest-banstraat-tegen-komst-kantoorgebouw.json/p1/canvas/2097",
@@ -192,13 +208,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/468578d2-d201-84d4-228b-44ebbd65cd89/iiif/3/11450942/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/72c28aa7-4a12-4fee-8060-cef8d2f3bcb2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2210,
                 "width": 1450,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/468578d2-d201-84d4-228b-44ebbd65cd89/iiif/3/11450942",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/72c28aa7-4a12-4fee-8060-cef8d2f3bcb2",
                     "type": "ImageService3",
                     "profile": "level2"
                   }

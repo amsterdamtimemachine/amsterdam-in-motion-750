@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/64/36/30/cb/68/c1/40/9e/a0/bb/c7/f3/ae/50/21/2b/2d595898-aa48-40f5-8138-4bb0be2ee759.jp2/full/925,614/0/default.jpg",
+      "type": "Image",
+      "height": 614,
+      "width": 925,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/64/36/30/cb/68/c1/40/9e/a0/bb/c7/f3/ae/50/21/2b/2d595898-aa48-40f5-8138-4bb0be2ee759.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/studentenactie-instituut-geschiedenis.json/p1/canvas/2165",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/64/36/30/cb/68/c1/40/9e/a0/bb/c7/f3/ae/50/21/2b/2d595898-aa48-40f5-8138-4bb0be2ee759.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/64/36/30/cb/68/c1/40/9e/a0/bb/c7/f3/ae/50/21/2b/2d595898-aa48-40f5-8138-4bb0be2ee759.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2457,
                 "width": 3700,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/64/36/30/cb/68/c1/40/9e/a0/bb/c7/f3/ae/50/21/2b/2d595898-aa48-40f5-8138-4bb0be2ee759.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/64/36/30/cb/68/c1/40/9e/a0/bb/c7/f3/ae/50/21/2b/2d595898-aa48-40f5-8138-4bb0be2ee759.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/19/40/c1/c4/dc/41/66/80/dd/ef/46/b9/53/a7/11/16ff46f1-8df6-435c-91ce-bd5abe373829.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/19/40/c1/c4/dc/41/66/80/dd/ef/46/b9/53/a7/11/16ff46f1-8df6-435c-91ce-bd5abe373829.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2457,
                 "width": 3700,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/19/40/c1/c4/dc/41/66/80/dd/ef/46/b9/53/a7/11/16ff46f1-8df6-435c-91ce-bd5abe373829.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/69/19/40/c1/c4/dc/41/66/80/dd/ef/46/b9/53/a7/11/16ff46f1-8df6-435c-91ce-bd5abe373829.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

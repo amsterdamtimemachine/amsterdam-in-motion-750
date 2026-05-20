@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Stakingen, Werkstakingen"
+          "Stakingen, Werkstakingen, Arbeid"
         ]
       }
     },
@@ -67,12 +67,28 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592"
+          "https://digitaalerfgoed.poolparty.biz/atm/687c01ea-f6a9-46b8-bb1c-54f352ddbc24, https://digitaalerfgoed.poolparty.biz/atm/d834d428-8970-4769-908e-63f05d3b8592, https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd"
         ]
       }
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/2d/71/02/f2/3d/87/4b/3d/a3/59/a0/c4/72/c9/a3/7f/0eb96d74-ff99-4ae1-9aaa-3082c51e75cb.jp2/full/912,609/0/default.jpg",
+      "type": "Image",
+      "height": 609,
+      "width": 912,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/71/02/f2/3d/87/4b/3d/a3/59/a0/c4/72/c9/a3/7f/0eb96d74-ff99-4ae1-9aaa-3082c51e75cb.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/solidariteitsstaking-door-medewerksters-van-stork.json/p1/canvas/1096",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/71/02/f2/3d/87/4b/3d/a3/59/a0/c4/72/c9/a3/7f/0eb96d74-ff99-4ae1-9aaa-3082c51e75cb.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/71/02/f2/3d/87/4b/3d/a3/59/a0/c4/72/c9/a3/7f/0eb96d74-ff99-4ae1-9aaa-3082c51e75cb.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2439,
                 "width": 3651,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/71/02/f2/3d/87/4b/3d/a3/59/a0/c4/72/c9/a3/7f/0eb96d74-ff99-4ae1-9aaa-3082c51e75cb.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/2d/71/02/f2/3d/87/4b/3d/a3/59/a0/c4/72/c9/a3/7f/0eb96d74-ff99-4ae1-9aaa-3082c51e75cb.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/66/5c/ed/18/db/4e/90/90/2a/f7/25/bd/9c/30/12/daaac820-6f40-4d41-9431-7b99274703d5.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/66/5c/ed/18/db/4e/90/90/2a/f7/25/bd/9c/30/12/daaac820-6f40-4d41-9431-7b99274703d5.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2439,
                 "width": 3651,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/66/5c/ed/18/db/4e/90/90/2a/f7/25/bd/9c/30/12/daaac820-6f40-4d41-9431-7b99274703d5.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/a5/66/5c/ed/18/db/4e/90/90/2a/f7/25/bd/9c/30/12/daaac820-6f40-4d41-9431-7b99274703d5.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c3/2f/c7/e5/78/1b/4f/5b/a4/3b/d3/72/9a/c7/e0/4d/d442b4a0-6604-4215-bb8d-777e4ddfa42e.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c3/2f/c7/e5/78/1b/4f/5b/a4/3b/d3/72/9a/c7/e0/4d/d442b4a0-6604-4215-bb8d-777e4ddfa42e.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2439,
                 "width": 3651,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/c3/2f/c7/e5/78/1b/4f/5b/a4/3b/d3/72/9a/c7/e0/4d/d442b4a0-6604-4215-bb8d-777e4ddfa42e.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/c3/2f/c7/e5/78/1b/4f/5b/a4/3b/d3/72/9a/c7/e0/4d/d442b4a0-6604-4215-bb8d-777e4ddfa42e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -508,6 +524,14 @@
           "skos:prefLabel": {
             "@language": "nl",
             "@value": "Werkstakingen"
+          }
+        },
+        {
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/ee4c51e4-8559-4927-9b33-68ebd916aedd",
+          "@type": "skos:Concept",
+          "skos:prefLabel": {
+            "@language": "nl",
+            "@value": "Arbeid"
           }
         }
       ]

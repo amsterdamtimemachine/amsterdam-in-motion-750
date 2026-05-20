@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/e8/77/dc/11/69/95/41/a5/a5/02/ed/28/1e/44/90/51/d5840501-00ad-43f0-b80b-5327182387d8.jp2/full/610,916/0/default.jpg",
+      "type": "Image",
+      "height": 916,
+      "width": 610,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e8/77/dc/11/69/95/41/a5/a5/02/ed/28/1e/44/90/51/d5840501-00ad-43f0-b80b-5327182387d8.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/bezetting-vereniging-ons-huis-door-peuterwerksters-wegens-slecht-loon.json/p1/canvas/3152",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e8/77/dc/11/69/95/41/a5/a5/02/ed/28/1e/44/90/51/d5840501-00ad-43f0-b80b-5327182387d8.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e8/77/dc/11/69/95/41/a5/a5/02/ed/28/1e/44/90/51/d5840501-00ad-43f0-b80b-5327182387d8.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3665,
                 "width": 2443,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/e8/77/dc/11/69/95/41/a5/a5/02/ed/28/1e/44/90/51/d5840501-00ad-43f0-b80b-5327182387d8.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/e8/77/dc/11/69/95/41/a5/a5/02/ed/28/1e/44/90/51/d5840501-00ad-43f0-b80b-5327182387d8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"

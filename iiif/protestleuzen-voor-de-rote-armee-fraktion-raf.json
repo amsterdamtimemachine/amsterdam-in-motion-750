@@ -1,0 +1,99 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/protestleuzen-voor-de-rote-armee-fraktion-raf.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Protestleuzen voor de Rote Armee Fraktion (R.A.F.)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Datum (begin)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1977-09-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum (eind)"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1977-09-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Locatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Classificatie's (URI)"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "summary": {},
+  "items": [],
+  "seeAlso": [
+    {
+      "@type": "schema:Event",
+      "schema:name": "Protestleuzen voor de Rote Armee Fraktion (R.A.F.)",
+      "schema:description": "",
+      "schema:startDate": {
+        "@type": "xsd:date",
+        "@value": "1977-09-27"
+      },
+      "schema:endDate": {
+        "@type": "xsd:date",
+        "@value": "1977-09-27"
+      },
+      "schema:location": [
+        {
+          "@type": "schema:Place",
+          "schema:name": "Dam"
+        }
+      ],
+      "schema:additionalType": []
+    }
+  ]
+}

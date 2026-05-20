@@ -55,7 +55,7 @@
       },
       "value": {
         "nl": [
-          "Demonstraties, Klimaat"
+          "Demonstraties, Klimaat en natuurbehoud"
         ]
       }
     },
@@ -73,6 +73,22 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/60/93/a1/31/52/cd/4a/0c/80/1e/5d/b2/1c/05/16/29/9c5e77fd-84e7-483f-9c78-d16488f2d582.jp2/full/920,613/0/default.jpg",
+      "type": "Image",
+      "height": 613,
+      "width": 920,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/60/93/a1/31/52/cd/4a/0c/80/1e/5d/b2/1c/05/16/29/9c5e77fd-84e7-483f-9c78-d16488f2d582.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-greenpeace-tegen-dumpen-kernafval.json/p1/canvas/3311",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/60/93/a1/31/52/cd/4a/0c/80/1e/5d/b2/1c/05/16/29/9c5e77fd-84e7-483f-9c78-d16488f2d582.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/60/93/a1/31/52/cd/4a/0c/80/1e/5d/b2/1c/05/16/29/9c5e77fd-84e7-483f-9c78-d16488f2d582.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2453,
                 "width": 3683,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/60/93/a1/31/52/cd/4a/0c/80/1e/5d/b2/1c/05/16/29/9c5e77fd-84e7-483f-9c78-d16488f2d582.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/60/93/a1/31/52/cd/4a/0c/80/1e/5d/b2/1c/05/16/29/9c5e77fd-84e7-483f-9c78-d16488f2d582.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/3b/a9/c2/37/f4/4c/7e/88/60/a4/1c/a1/1b/4e/b4/00f8e172-ee3f-4108-9bc0-0d8ce8e87c70.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/3b/a9/c2/37/f4/4c/7e/88/60/a4/1c/a1/1b/4e/b4/00f8e172-ee3f-4108-9bc0-0d8ce8e87c70.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2453,
                 "width": 3683,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/3b/a9/c2/37/f4/4c/7e/88/60/a4/1c/a1/1b/4e/b4/00f8e172-ee3f-4108-9bc0-0d8ce8e87c70.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/3b/a9/c2/37/f4/4c/7e/88/60/a4/1c/a1/1b/4e/b4/00f8e172-ee3f-4108-9bc0-0d8ce8e87c70.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -454,15 +470,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/18/7a/52/fa/11/42/66/8a/48/19/94/93/9d/29/81/83ef87ee-5b83-43b1-8d84-2553e038e313.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/18/7a/52/fa/11/42/66/8a/48/19/94/93/9d/29/81/83ef87ee-5b83-43b1-8d84-2553e038e313.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/18/7a/52/fa/11/42/66/8a/48/19/94/93/9d/29/81/83ef87ee-5b83-43b1-8d84-2553e038e313.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/b7/18/7a/52/fa/11/42/66/8a/48/19/94/93/9d/29/81/83ef87ee-5b83-43b1-8d84-2553e038e313.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -587,15 +603,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/be/8d/57/69/e9/4e/ba/b0/f6/2c/da/f3/22/3d/bd/b6108e8c-29e2-4707-92fc-cd820aebc6d8.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/be/8d/57/69/e9/4e/ba/b0/f6/2c/da/f3/22/3d/bd/b6108e8c-29e2-4707-92fc-cd820aebc6d8.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2442,
                 "width": 3682,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/be/8d/57/69/e9/4e/ba/b0/f6/2c/da/f3/22/3d/bd/b6108e8c-29e2-4707-92fc-cd820aebc6d8.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/25/be/8d/57/69/e9/4e/ba/b0/f6/2c/da/f3/22/3d/bd/b6108e8c-29e2-4707-92fc-cd820aebc6d8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -640,7 +656,7 @@
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
-            "@value": "Klimaat"
+            "@value": "Klimaat en natuurbehoud"
           }
         }
       ]

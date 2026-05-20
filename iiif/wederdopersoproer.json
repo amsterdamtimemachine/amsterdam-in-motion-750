@@ -73,9 +73,25 @@
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/26a701af-761a-0256-0c78-c382ef7bceff/iiif/3/57427536/full/880,747/0/default.jpg",
+      "type": "Image",
+      "height": 747,
+      "width": 880,
+      "service": [
+        {
+          "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/87503d28-c848-4d94-ade6-46fc10ecb311",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/3",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/1",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -184,28 +200,28 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/3/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/1/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/3/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/1/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/26a701af-761a-0256-0c78-c382ef7bceff/iiif/3/57427536/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/87503d28-c848-4d94-ade6-46fc10ecb311/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1493,
                 "width": 1760,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/26a701af-761a-0256-0c78-c382ef7bceff/iiif/3/57427536",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/87503d28-c848-4d94-ade6-46fc10ecb311",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/3"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/1"
             }
           ]
         }
@@ -329,13 +345,13 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5ea884bc-ce8d-dc3e-3ac5-f94d39f8d94e/iiif/3/57811926/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/4af79865-57e0-4e85-9080-99dabfdca500/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1455,
                 "width": 1675,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/5ea884bc-ce8d-dc3e-3ac5-f94d39f8d94e/iiif/3/57811926",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/4af79865-57e0-4e85-9080-99dabfdca500",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -349,7 +365,7 @@
       ]
     },
     {
-      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/6",
+      "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/13",
       "type": "Canvas",
       "label": {
         "nl": [
@@ -458,28 +474,28 @@
       ],
       "items": [
         {
-          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/6/page",
+          "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/13/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/6/anno",
+              "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/13/anno",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/016d113f-babb-53e4-1e9d-da4d12825037/iiif/3/57427540/full/max/0/default.jpg",
+                "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/94644e5a-570e-4056-a17e-f801dc535292/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 1812,
                 "width": 2483,
                 "service": [
                   {
-                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/records/media/016d113f-babb-53e4-1e9d-da4d12825037/iiif/3/57427540",
+                    "id": "https://stadsarchiefamsterdam.memorix.io/resources/iiif/3/94644e5a-570e-4056-a17e-f801dc535292",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/6"
+              "target": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/wederdopersoproer.json/p1/canvas/13"
             }
           ]
         }

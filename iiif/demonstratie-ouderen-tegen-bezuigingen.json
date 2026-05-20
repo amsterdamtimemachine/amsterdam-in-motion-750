@@ -67,12 +67,28 @@
       },
       "value": {
         "nl": [
-          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2, https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344"
+          "https://digitaalerfgoed.poolparty.biz/atm/42d4c3eb-08e3-4b9a-8c8a-a124ae114bab, https://digitaalerfgoed.poolparty.biz/atm/f9ee5edc-2fb1-48fa-a4e6-d34cb38913c3, https://digitaalerfgoed.poolparty.biz/atm/fbe8f879-659e-473c-aa96-9af6a84474c2, https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084"
         ]
       }
     }
   ],
   "summary": {},
+  "thumbnail": [
+    {
+      "id": "https://service.archief.nl/iip/0e/8e/49/ed/c9/d1/4c/1a/b7/14/39/61/61/7b/0f/d1/227c6cec-19ba-4ab1-a93a-9ab590517070.jp2/full/917,609/0/default.jpg",
+      "type": "Image",
+      "height": 609,
+      "width": 917,
+      "service": [
+        {
+          "id": "https://service.archief.nl/iip/iipsrv?IIIF=/0e/8e/49/ed/c9/d1/4c/1a/b7/14/39/61/61/7b/0f/d1/227c6cec-19ba-4ab1-a93a-9ab590517070.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/jpeg"
+    }
+  ],
   "items": [
     {
       "id": "https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/demonstratie-ouderen-tegen-bezuigingen.json/p1/canvas/3529",
@@ -188,15 +204,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/0e/8e/49/ed/c9/d1/4c/1a/b7/14/39/61/61/7b/0f/d1/227c6cec-19ba-4ab1-a93a-9ab590517070.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/0e/8e/49/ed/c9/d1/4c/1a/b7/14/39/61/61/7b/0f/d1/227c6cec-19ba-4ab1-a93a-9ab590517070.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2437,
                 "width": 3669,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/0e/8e/49/ed/c9/d1/4c/1a/b7/14/39/61/61/7b/0f/d1/227c6cec-19ba-4ab1-a93a-9ab590517070.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/0e/8e/49/ed/c9/d1/4c/1a/b7/14/39/61/61/7b/0f/d1/227c6cec-19ba-4ab1-a93a-9ab590517070.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -321,15 +337,15 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/56/90/b4/8d/97/cd/44/ec/a0/da/ae/03/01/0c/76/c3/c3a396e2-808f-4f27-8a6b-bffc54f64863.jp2/full/full/0/default.jpg",
+                "id": "https://service.archief.nl/iip/iipsrv?IIIF=/56/90/b4/8d/97/cd/44/ec/a0/da/ae/03/01/0c/76/c3/c3a396e2-808f-4f27-8a6b-bffc54f64863.jp2/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 2437,
                 "width": 3669,
                 "service": [
                   {
-                    "@id": "https://service.archief.nl/iip/iipsrv?IIIF=/56/90/b4/8d/97/cd/44/ec/a0/da/ae/03/01/0c/76/c3/c3a396e2-808f-4f27-8a6b-bffc54f64863.jp2",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level1"
+                    "id": "https://service.archief.nl/iip/iipsrv?IIIF=/56/90/b4/8d/97/cd/44/ec/a0/da/ae/03/01/0c/76/c3/c3a396e2-808f-4f27-8a6b-bffc54f64863.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
@@ -386,7 +402,7 @@
           }
         },
         {
-          "@id": "https://digitaalerfgoed.poolparty.biz/atm/9f917546-073f-4478-925a-411d0fc82344",
+          "@id": "https://digitaalerfgoed.poolparty.biz/atm/a176dc7a-23d2-4d8a-8559-78453732b084",
           "@type": "skos:Concept",
           "skos:prefLabel": {
             "@language": "nl",
