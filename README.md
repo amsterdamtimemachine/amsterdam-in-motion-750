@@ -19,6 +19,10 @@ This repository contains the code and data for the Amsterdam Protest Time Machin
 
 The application was created within the Amsterdam Protest Time Machine project at the CREATE Lab of the University of Amsterdam's Faculty of Humanities, which develops open digital infrastructure for Amsterdam's history.
 
+While the developed application that visualized the data is only visible on-site at the Amsterdam in Motion 750 exposition, the data can also be explored online through the IIIF Collection:
+
+Collection URI: `https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/collection.json` ([Explore in Theseus Viewer](https://theseusviewer.org/?iiif-content=https%3A%2F%2Famsterdamtimemachine.github.io%2Famsterdam-in-motion-750%2Fiiif%2Fcollection.json))
+
 ## Data
 
 ### Protest data
