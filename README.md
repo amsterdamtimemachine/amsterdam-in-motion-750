@@ -1,6 +1,6 @@
-# Amsterdam in Motion 750
+# Amsterdam Protest Time Machine - Amsterdam in Motion 750
 
-- [Amsterdam in Motion 750](#amsterdam-in-motion-750)
+- [Amsterdam Protest Time Machine - Amsterdam in Motion 750](#amsterdam-protest-time-machine---amsterdam-in-motion-750)
   - [About](#about)
   - [Data](#data)
     - [Protest data](#protest-data)
@@ -15,9 +15,9 @@
 
 ## About
 
-This repository contains the code and data for the Amsterdam Time Machine's Amsterdam in Motion 750 application (which can be seen at the [Amsterdam in Motion 750](https://amsterdaminmotion.nl/) exposition at the Westergasterrein, Amsterdam), a tool that visualizes the history of protest in Amsterdam. The application allows users to explore historical images of protests in Amsterdam from 1535 to 2015, drawn from the public image banks of the Amsterdam City Archives, the National Archives of the Netherlands, and the North Holland Archives. It allows users to explore protest history by protest type, theme, and location across multiple archives in a single interface.
+This repository contains the code and data for the Amsterdam Protest Time Machine's Amsterdam in Motion 750 application (which can be seen at the [Amsterdam in Motion 750](https://amsterdaminmotion.nl/) exposition at the Westergasterrein, Amsterdam), a tool that visualizes the history of protest in Amsterdam. The application allows users to explore historical images of protests in Amsterdam from 1535 to 2015, drawn from the public image banks of the Amsterdam City Archives, the National Archives of the Netherlands, and the North Holland Archives. It allows users to explore protest history by protest type, theme, and location across multiple archives in a single interface.
 
-The application was created within the Amsterdam Time Machine project at the CREATE Lab of the University of Amsterdam's Faculty of Humanities, which develops open digital infrastructure for Amsterdam's history.
+The application was created within the Amsterdam Protest Time Machine project at the CREATE Lab of the University of Amsterdam's Faculty of Humanities, which develops open digital infrastructure for Amsterdam's history.
 
 ## Data
 
