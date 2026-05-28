@@ -1,6 +1,6 @@
-# Amsterdam Protest Time Machine - Amsterdam in Motion 750
+# Amsterdam Protest Dataset - Amsterdam Protest Time Machine
 
-- [Amsterdam Protest Time Machine - Amsterdam in Motion 750](#amsterdam-protest-time-machine---amsterdam-in-motion-750)
+- [Amsterdam Protest Dataset - Amsterdam Protest Time Machine](#amsterdam-protest-dataset---amsterdam-protest-time-machine)
   - [About](#about)
   - [Data](#data)
     - [Protest data](#protest-data)
