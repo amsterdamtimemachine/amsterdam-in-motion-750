@@ -27,6 +27,10 @@ Collection URI: `https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/
 
 ### Protest data
 
+> [!WARNING]
+> This dataset is a work in progress. The underlying spreadsheet should be treated as a living dataset: records, metadata, and classifications may be updated, corrected, or expanded over time.
+> It can also contain mistakes. In particular, protest dates may be imprecise because they currently depend on the date assigned to the archival image, not always the exact date of the protest event itself.
+
 The manifest generation script reads three sheets from `data/Amsterdam in Motion 750 - Data.xlsx`: `Protest`, `Foto_kopie`, and `Classificatie`. Only the columns below are used.
 
 | Sheet           | Column                         | Used for                                                                                                                                  |
@@ -79,6 +83,8 @@ The repository models protest history at two connected levels:
 This is accompanied by a thesaurus in SKOS format that provides a controlled vocabulary for protest classifications. The thesaurus is used to enrich the manifest metadata and support faceted browsing in the application.
 
 This produces a browsable `IIIF Collection` for publication The thesaurus output adds a compacted JSON-LD vocabulary layer for protest classifications used in the application.
+
+Collection URI: https://amsterdamtimemachine.github.io/amsterdam-in-motion-750/iiif/collection.json (Explore in Theseus Viewer)
 
 <details>
 <summary>Example Manifest</summary>
