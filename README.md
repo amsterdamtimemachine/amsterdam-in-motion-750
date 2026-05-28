@@ -359,11 +359,11 @@ uv run python scripts/make_thesaurus.py
 
 Dataset:
 
-- Zomer Zeijlemaker, Leon van Wissen, Ingeborg Verheul. (2026). Amsterdam Protest Dataset [Data set]. University of Amsterdam.
+- Zeijlemaker, Z., van Wissen, L. & Verheul, I. (2026). Amsterdam protest dataset [Data set, v1.0]. University of Amsterdam.
 
 Conference contribution citing the dataset:
 
-- Zomer Zeijlemaker, Leon van Wissen, Ingeborg Verheul. (2026, June). The Amsterdam Protest Dataset: Linking Visual Archives for Future Research. DH Benelux 2026, Maastricht, The Netherlands. https://doi.org/10.5281/zenodo.20309170
+- Zeijlemaker, Z., van Wissen, L. & Verheul, I. (2026, June). The Amsterdam Protest Dataset: Linking Visual Archives for Future Research. DH Benelux 2026, Maastricht, The Netherlands. https://doi.org/10.5281/zenodo.20309170
 
 ## License
 

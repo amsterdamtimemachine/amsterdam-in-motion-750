@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it using the metadata below."
-title: "Amsterdam Protest Time Machine - Amsterdam in Motion 750"
+title: "Amsterdam Protest Dataset - Amsterdam in Motion 750"
 authors:
   - family-names: "Zeijlemaker"
     given-names: "Zomer"
@@ -19,9 +19,12 @@ url: "https://github.com/amsterdamtimemachine/amsterdam-in-motion-750"
 license: "CC-BY-4.0"
 identifiers:
   - type: doi
+    value:
+    description: "Placeholder for the Zenodo DOI of this repository release."
+  - type: doi
     value: "10.5281/zenodo.20309170"
     description: "Related publication about this dataset."
-abstract: "Source repository for the Amsterdam Protest Time Machine - Amsterdam in Motion 750 dataset, including a source workbook of protest events and photographs, generated IIIF Presentation 3 manifests, and a thesaurus."
+abstract: "Source repository for the Amsterdam Protest Dataset - Amsterdam in Motion 750 dataset, including data on protest events and photographs, generated IIIF Presentation 3 manifests, and a thesaurus."
 keywords:
   - "Amsterdam"
   - "protest"

@@ -319,7 +319,7 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                     break
                 except Exception as e:
                     if attempt < 9:
-                        delay = 5 * (attempt + 1)
+                        delay = 1 * (attempt + 1)
                         print(
                             f"Error fetching info.json for {photo_row['iiif_info_json']} "
                             f"(attempt {attempt + 1}/10): {e}. Retrying in {delay} seconds..."
@@ -340,7 +340,7 @@ def main(df_protest, df_photo, df_classification, target_folder="iiif"):
                         break
                     except Exception as e:
                         if attempt < 9:
-                            delay = 5 * (attempt + 1)
+                            delay = 1 * (attempt + 1)
                             print(
                                 f"Error fetching thumbnail for {photo_row['iiif_info_json']} "
                                 f"(attempt {attempt + 1}/10): {e}. Retrying in {delay} seconds..."
