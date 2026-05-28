@@ -1,5 +1,7 @@
 # Amsterdam Protest Dataset - Amsterdam Protest Time Machine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20429147.svg)](https://doi.org/10.5281/zenodo.20429147)
+
 - [Amsterdam Protest Dataset - Amsterdam Protest Time Machine](#amsterdam-protest-dataset---amsterdam-protest-time-machine)
   - [About](#about)
   - [Data](#data)
@@ -365,7 +367,7 @@ uv run python scripts/make_thesaurus.py
 
 Dataset:
 
-- Zeijlemaker, Z., van Wissen, L. & Verheul, I. (2026). Amsterdam protest dataset [Data set, v1.0]. University of Amsterdam.
+- Zeijlemaker, Z., van Wissen, L. & Verheul, I. (2026). Amsterdam protest dataset [Dataset, v1.0]. University of Amsterdam. https://doi.org/10.5281/zenodo.20429147
 
 Conference contribution citing the dataset:
 
